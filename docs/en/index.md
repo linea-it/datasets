@@ -1,9 +1,13 @@
 
-UNDER CONSTRUCTION - EM CONSTRUÇÃO - EN CONSTRUCCIÓN 
 
+### UNDER CONSTRUCTION - EM CONSTRUÇÃO - EN CONSTRUCCIÓN 
 
+--- 
 
-![LSDB.io](./images/lsdb_logo.png) ![LIneA](./images/linea_logo.png) 
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <img src="../images/lincc_logo.png" style="height:120px; object-fit: cover;">
+    <img src="../images/01-Linea-RGB-azul.png" style="height:120px; object-fit: cover;">
+</div>
 
 
 This page will be an instance of **LSDB.io** service hosted at **LIneA**'s datacenter. 
