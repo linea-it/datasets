@@ -1,0 +1,143 @@
+nav:
+  - Home: en/index.md
+  - LSST: en/lsst.md
+  - DES: en/des.md
+  - SDSS: en/sdss.md
+  - 2MASS: en/2mass.md
+  - DELVE: en/delve.md
+  - DESI: en/desi.md
+  - Gaia: en/gaia.md
+  - WISE: en/wise.md 
+
+
+# Site information
+#docs_dir: docs
+site_name:  LSDB.io at LIneA 
+site_author: LIneA team 
+site_url: "https://lsdb.linea.org.br"
+repo_name: linea-it/lsdb-at-linea
+repo_url: https://github.com/linea-it/lsdb-at-linea
+edit_uri: 'edit/main/docs'
+use_directory_urls: false
+copyright: 'Copyright &copy; 2006 - 2025 LIneA'
+
+
+# Configuration
+theme:
+  name: material
+  custom_dir: linea-theme
+  logo: 'images/linea.png'
+  favicon: 'images/linea_favicon.png'
+  font:
+    text: Roboto, Arial
+  features:
+    - navigation.indexes
+
+
+  palette:
+      # Palette toggle for light mode
+  - scheme: default
+    toggle:
+      icon: material/lightbulb
+      name: Switch to dark mode
+    #primary: '#283663'
+    primary: '#ffdd00'
+    accent: 'deep orange'
+
+  # Palette toggle for dark mode
+  - scheme: slate
+    toggle:
+      icon: material/lightbulb-outline
+      name: Switch to light mode
+    primary: 'grey'
+    accent: 'deep orange'
+
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  social:
+    - icon: material/home-circle
+      link: https://www.linea.org.br
+    - icon: fontawesome/brands/github
+      link: https://github.com/linea-it
+    - icon: material/twitter
+      link: https://twitter.com/linea_org
+    - icon: material/instagram
+      link: https://instagram.com/linea_org
+    - icon: material/facebook
+      link: https://facebook.com/linea.org
+    - icon: material/youtube
+      link: https://youtube.com/@linea_org
+
+# Extensions
+markdown_extensions:
+  - attr_list
+  - meta
+  - footnotes
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols:
+      fractions: false
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  - pymdownx.snippets
+
+plugins:
+    - i18n:
+        docs_structure: folder
+        languages:
+          - locale: en
+            default: true
+            name: English
+            build: true
+            site_name: "LSDB.io at LIneA"   
+          - locale: pt
+            name: Português
+            build: true
+            nav:
+              - Home: pt/index.md
+              - LSST: pt/lsst.md
+              - DES: pt/des.md
+              - SDSS: pt/sdss.md
+              - 2MASS: pt/2mass.md
+              - DELVE: pt/delve.md
+              - DESI: pt/desi.md
+              - Gaia: pt/gaia.md
+              - WISE: pt/wise.md        
+          - locale: es
+            name: Español
+            build: true
+            nav:
+              - Home: es/index.md
+              - LSST: es/lsst.md
+              - DES: es/des.md
+              - SDSS: es/sdss.md
+              - 2MASS: es/2mass.md
+              - DELVE: es/delve.md
+              - DESI: es/desi.md
+              - Gaia: es/gaia.md
+              - WISE: es/wise.md     
+    - search:
+        enabled: true
+    - git-revision-date-localized:
+        type: date
+    #- mkdocs-video
