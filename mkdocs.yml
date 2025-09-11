@@ -1,7 +1,9 @@
 nav:
   - Home: en/index.md
   - HATS: 
-      - DES: en/hats/des.md
+      - DES: 
+        - DR2: en/hats/des_dr2.md
+        - Y6_Gold: en/hats/des_y6_gold.md
       - DELVE: en/hats/delve.md
   - User Query: 
       - DES: en/user_query/des.md

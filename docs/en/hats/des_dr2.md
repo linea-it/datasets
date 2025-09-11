@@ -1,5 +1,7 @@
 
-# Dark Energy Survey Data Release 2
+# Dark Energy Survey 
+
+## Data Release 2
 
 The Dark Energy Survey Data Release 2 (DES DR2) is a comprehensive catalog performed with DECam. Published in January 2021, DES DR2 includes data collected from six years of observations, covering about 5,000 square degrees of the southern sky. This release provides highly detailed and precise information on over 690 million astronomical objects, including stars, galaxies, and quasars.
 
