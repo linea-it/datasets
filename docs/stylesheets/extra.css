@@ -5,7 +5,8 @@
 }
 
 :root > * {
-  --md-primary-fg-color: #283663;
+  /*/--md-primary-fg-color: #283663;/*/ 
+  --md-primary-fg-color:  rgb(0,185,242);
   --md-primary-fg-color--light: #283663;
   --md-primary-fg-color--dark: #868786;
 }
@@ -27,4 +28,15 @@ a.md-logo > img {
 .md-nav,
 .md-nav__title {
   font-size: 0.75rem;
+}
+
+
+.md-header {
+  color: rgb(40,54,99); /* Altere para a cor desejada */
+}
+ 
+.md-header__title {
+  font-size: 1.3rem !important;        /* Tamanho maior */
+  font-weight: 300 !important;       /* Mais negrito */
+  margin-left: 1rem;
 }
