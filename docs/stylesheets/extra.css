@@ -36,7 +36,10 @@ a.md-logo > img {
 }
  
 .md-header__title {
-  font-size: 1.3rem !important;        /* Tamanho maior */
-  font-weight: 300 !important;       /* Mais negrito */
+  font-family: 'Roboto Light', sans-serif;
+  font-weight: 100 !important; /* ultra light */
+  font-size: 1.3rem !important;
+  font-stretch: 70%;           /* deixa mais estreita */
+  -webkit-font-smoothing: antialiased; /* suaviza nas telas */
   margin-left: 1rem;
 }

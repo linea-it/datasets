@@ -1,23 +1,28 @@
 nav:
-  - Home: en/index.md
-  - HATS: 
+  - Início: pt/index.md
+  - LSDB: 
+      - 2MASS: pt/lsdb/two_mass.md
       - DES: 
-        - DR2: en/hats/des_dr2.md
-        - Y6_Gold: en/hats/des_y6_gold.md
-      - DELVE: en/hats/delve.md
-  - User Query: 
-      - DES: en/user_query/des.md
-      - Gaia: en/gaia/des.md
-      - 2MASS: en/two_mass/des.md
-  
-
-  #- SDSS: en/sdss.md
-  #- 2MASS: en/2mass.md
-  #- DESI: en/desi.md
-  #- Gaia: en/gaia.md
-  #- WISE: en/wise.md 
-
-
+        - DES DR2: pt/lsdb/des_dr2.md
+        - DES Y6 Gold: pt/lsdb/des_y6_gold.md
+      - DELVE: pt/lsdb/delve.md
+      - Gaia: pt/lsdb/gaia.md
+  - Banco de Dados: 
+      - 2MASS PSC: pt/database/two_mass_psc.md
+      - DES:
+        - DES DR2: pt/database/des_dr2.md
+        - DES Y6 Gold: pt/database/des_y6_gold.md 
+      - Gaia DR3: pt/database/gaia_dr3.md
+      - LSST:
+        - LSST DP0.2: pt/database/lsst_dp0_2.md 
+        - LSST DP1: pt/database/lsst_dp1.md  
+  - HPC: 
+      - DES:
+        - DES DR2: pt/hpc/des_dr2.md
+        - DES Y6 Gold: pt/hpc/des_y6_gold.md 
+      - LSST:
+        - LSST DP0.2: pt/hpc/lsst_dp0.2.md 
+        - LSST DP1: pt/hpc/lsst_dp1.md
 # Site information
 #docs_dir: docs
 site_name:  Datasets 
@@ -114,35 +119,68 @@ plugins:
     - i18n:
         docs_structure: folder
         languages:
-          - locale: en
-            default: true
-            name: English
-            build: true
-            site_name: "Datasets"    
           - locale: pt
             name: Português
             build: true
+            default: true
+            site_name: "Datasets"                
+          - locale: en
+            name: English
+            build: true
+            site_name: "Datasets"    
             nav:
-              - Home: pt/index.md
-              - HATS: 
-                  - DES: pt/hats/des.md
-                  - DELVE: pt/hats/delve.md
-              - User Query: 
-                  - DES: pt/user_query/des.md
-                  - Gaia: pt/gaia/des.md
-                  - 2MASS: pt/two_mass/des.md     
+            - Home: en/index.md
+            - LSDB: 
+                - 2MASS: en/lsdb/two_mass.md
+                - DES: 
+                  - DES DR2: en/lsdb/des_dr2.md
+                  - DES Y6 Gold: en/lsdb/des_y6_gold.md
+                - DELVE: en/lsdb/delve.md
+                - Gaia: en/lsdb/gaia.md
+            - Banco de Dados: 
+                - 2MASS PSC: en/database/two_mass_psc.md
+                - DES:
+                  - DES DR2: en/database/des_dr2.md
+                  - DES Y6 Gold: en/database/des_y6_gold.md 
+                - Gaia DR3: en/database/gaia_dr3.md
+                - LSST:
+                  - LSST DP0.2: en/database/lsst_dp0_2.md 
+                  - LSST DP1: en/database/lsst_dp1.md  
+            - HPC: 
+                - DES:
+                  - DES DR2: en/hpc/des_dr2.md
+                  - DES Y6 Gold: en/hpc/des_y6_gold.md 
+                - LSST:
+                  - LSST DP0.2: en/hpc/lsst_dp0.2.md 
+                  - LSST DP1: en/hpc/lsst_dp1.md
           - locale: es
             name: Español
             build: true
             nav:
-              - Home: es/index.md
-              - HATS: 
-                  - DES: es/hats/des.md
-                  - DELVE: es/hats/delve.md
-              - User Query: 
-                  - DES: es/user_query/des.md
-                  - Gaia: es/gaia/des.md
-                  - 2MASS: es/two_mass/des.md     
+            - Inicio: es/index.md
+            - LSDB: 
+                - 2MASS: es/lsdb/two_mass.md
+                - DES: 
+                  - DES DR2: es/lsdb/des_dr2.md
+                  - DES Y6 Gold: es/lsdb/des_y6_gold.md
+                - DELVE: es/lsdb/delve.md
+                - Gaia: es/lsdb/gaia.md
+            - Banco de Dados: 
+                - 2MASS PSC: es/database/two_mass_psc.md
+                - DES:
+                  - DES DR2: es/database/des_dr2.md
+                  - DES Y6 Gold: es/database/des_y6_gold.md 
+                - Gaia DR3: es/database/gaia_dr3.md
+                - LSST:
+                  - LSST DP0.2: es/database/lsst_dp0_2.md 
+                  - LSST DP1: es/database/lsst_dp1.md  
+            - HPC: 
+                - DES:
+                  - DES DR2: es/hpc/des_dr2.md
+                  - DES Y6 Gold: es/hpc/des_y6_gold.md 
+                - LSST:
+                  - LSST DP0.2: es/hpc/lsst_dp0.2.md 
+                  - LSST DP1: es/hpc/lsst_dp1.md   
     - search:
         enabled: true
     - git-revision-date-localized:

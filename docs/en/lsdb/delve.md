@@ -1,5 +1,10 @@
 # DELVE DR2
 
+!!! Warning "Warning"
+    Page under construction. Some content may be incomplete or out of date.
+
+
+
 The DECam Local Volume Exploration Survey Data Release 2 (DELVE DR2) combines new DECam observations with archival DECam data from the Dark Energy Survey, the DECam Legacy Survey, and other DECam community programs to study dwarf satellite galaxies over a wide range of luminosities and environments. It consists of ~160,000 exposures that cover >21,000 deg^2 of the high Galactic latitude (b > 10 deg) sky in four broadband optical/near-infrared filters (g, r, i, z), with point-source and automatic aperture photometry for ~2.5 billion astronomical sources.
 
 ## Load using LSDB
