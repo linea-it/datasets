@@ -1,22 +1,28 @@
 nav:
   - Home: en/index.md
-  - LSST: en/lsst.md
-  - DES: en/des.md
-  - SDSS: en/sdss.md
-  - 2MASS: en/2mass.md
-  - DELVE: en/delve.md
-  - DESI: en/desi.md
-  - Gaia: en/gaia.md
-  - WISE: en/wise.md 
+  - HATS: 
+      - DES: en/hats/des.md
+      - DELVE: en/hats/delve.md
+  - User Query: 
+      - DES: en/user_query/des.md
+      - Gaia: en/gaia/des.md
+      - 2MASS: en/two_mass/des.md
+  
+
+  #- SDSS: en/sdss.md
+  #- 2MASS: en/2mass.md
+  #- DESI: en/desi.md
+  #- Gaia: en/gaia.md
+  #- WISE: en/wise.md 
 
 
 # Site information
 #docs_dir: docs
-site_name:  LSDB.io at LIneA 
+site_name:  Datasets 
 site_author: LIneA team 
-site_url: "https://lsdb.linea.org.br"
-repo_name: linea-it/lsdb-at-linea
-repo_url: https://github.com/linea-it/lsdb-at-linea
+site_url: "https://datasets.linea.org.br"
+repo_name: linea-it/datasets
+repo_url: https://github.com/linea-it/datasets
 edit_uri: 'edit/main/docs'
 use_directory_urls: false
 copyright: 'Copyright &copy; 2006 - 2025 LIneA'
@@ -26,7 +32,8 @@ copyright: 'Copyright &copy; 2006 - 2025 LIneA'
 theme:
   name: material
   custom_dir: linea-theme
-  logo: 'images/linea.png'
+  #logo: 'images/linea.png'
+  logo: 'images/linea-logo.png'
   favicon: 'images/linea_favicon.png'
   font:
     text: Roboto, Arial
@@ -109,33 +116,31 @@ plugins:
             default: true
             name: English
             build: true
-            site_name: "LSDB.io at LIneA"   
+            site_name: "Datasets"    
           - locale: pt
             name: Português
             build: true
             nav:
               - Home: pt/index.md
-              - LSST: pt/lsst.md
-              - DES: pt/des.md
-              - SDSS: pt/sdss.md
-              - 2MASS: pt/2mass.md
-              - DELVE: pt/delve.md
-              - DESI: pt/desi.md
-              - Gaia: pt/gaia.md
-              - WISE: pt/wise.md        
+              - HATS: 
+                  - DES: pt/hats/des.md
+                  - DELVE: pt/hats/delve.md
+              - User Query: 
+                  - DES: pt/user_query/des.md
+                  - Gaia: pt/gaia/des.md
+                  - 2MASS: pt/two_mass/des.md     
           - locale: es
             name: Español
             build: true
             nav:
               - Home: es/index.md
-              - LSST: es/lsst.md
-              - DES: es/des.md
-              - SDSS: es/sdss.md
-              - 2MASS: es/2mass.md
-              - DELVE: es/delve.md
-              - DESI: es/desi.md
-              - Gaia: es/gaia.md
-              - WISE: es/wise.md     
+              - HATS: 
+                  - DES: es/hats/des.md
+                  - DELVE: es/hats/delve.md
+              - User Query: 
+                  - DES: es/user_query/des.md
+                  - Gaia: es/gaia/des.md
+                  - 2MASS: es/two_mass/des.md     
     - search:
         enabled: true
     - git-revision-date-localized:
