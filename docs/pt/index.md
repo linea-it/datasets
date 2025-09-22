@@ -23,15 +23,17 @@ Confira abaixo a tabela com o resumo dos principais conjuntos de dados disponív
 | Survey / release| LSDB | Banco de dados | HPC | 
 |---              |:-:   |:-:             |:-:  |
 | 2MASS PSC       |⏳    |👥              | -   | 
-| DELVE DR2       |👥    | -              | -   |
-| DES DR2 Main    |👥    |👥              |🔒   |
-| DES DR2 Y6 Gold |👥    |🛠️              |🔒   |
-| Gaia DR3 Source |⏳    |👥              | -   |
-| 2MASS PSC       |⏳    |👥              | -   |
 | COSMO DC2       |-     |-               |🔒   |
+| DELVE DR2       |🛠️    | -              | -   |
+| DES DR2 Main    |🛠️    |👥              |🔒   |
+| DES DR2 Y6 Gold |🛠️    |🛠️              |🔒   |
+| DESI DR1        |⏳    |⏳              | -   |
+| Gaia DR3 Source |⏳    |👥              | -   |
 | LSST DP0.1      |-     |-               |🔒   |
 | LSST DP0.2      |-     | 🔒             |🔒   |
-| LSST DP1        |-     |🛠️              |🛠️   |
+| LSST DP1        |⏳    |🛠️              |🛠️   |
+| WISE            |⏳    | -              | -   |
+| ZTF             |⏳    | -              | -   |
 
 
 

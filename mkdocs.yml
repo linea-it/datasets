@@ -137,7 +137,7 @@ plugins:
                   - DES Y6 Gold: en/lsdb/des_y6_gold.md
                 - DELVE: en/lsdb/delve.md
                 - Gaia: en/lsdb/gaia.md
-            - Banco de Dados: 
+            - Database: 
                 - 2MASS PSC: en/database/two_mass_psc.md
                 - DES:
                   - DES DR2: en/database/des_dr2.md

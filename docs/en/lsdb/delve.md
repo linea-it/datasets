@@ -10,13 +10,13 @@ The DECam Local Volume Exploration Survey Data Release 2 (DELVE DR2) combines ne
 ## Load using LSDB
 
 ```bash
->> lsdb.read_hats('https://web.archive.org/web/20250325105440/https://data.lsdb.io/hats/delve_dr2')
+>> lsdb.read_hats('https://datasets.linea.org.br/hats/delve_dr2')
 ```
 
 ## Download with wget
 
 ```bash
-$ wget -r -np -nH --cut-dirs=5 -R "*.html" https://web.archive.org/web/20250325105440/https://data.lsdb.io/hats/delve_dr2/
+$ wget -r -np -nH --cut-dirs=5 -R "*.html" https://datasets.linea.org.br/hats/delve_dr2
 ```
 
 ## Catalog metadata
