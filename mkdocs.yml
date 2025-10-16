@@ -1,7 +1,7 @@
 nav:
   - Início: pt/index.md
   - LSDB: 
-      - 2MASS: pt/lsdb/two_mass.md
+      - 2MASS: pt/lsdb/2mass.md
       - DES: 
         - DES DR2: pt/lsdb/des_dr2.md
         - DES Y6 Gold: pt/lsdb/des_y6_gold.md
@@ -46,6 +46,7 @@ theme:
     text: Roboto, Arial
   features:
     - navigation.indexes
+    - content.code.copy
 
 
   palette:
@@ -95,20 +96,25 @@ markdown_extensions:
   - toc:
       permalink: true
       toc_depth: 3
-  - pymdownx.arithmatex
+  - pymdownx.arithmatex:
+      generic: true
   - pymdownx.betterem:
       smart_enable: all
   - pymdownx.caret
   - pymdownx.critic
   - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_index: !!python/name:pymdownx.emoji.twemoji
       emoji_generator: !!python/name:pymdownx.emoji.to_svg
   - pymdownx.inlinehilite
   - pymdownx.magiclink
   - pymdownx.mark
   - pymdownx.smartsymbols:
       fractions: false
-  - pymdownx.superfences
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.details
   - pymdownx.tasklist:
       custom_checkbox: true
@@ -131,7 +137,7 @@ plugins:
             nav:
             - Home: en/index.md
             - LSDB: 
-                - 2MASS: en/lsdb/two_mass.md
+                - 2MASS: en/lsdb/2mass.md
                 - DES: 
                   - DES DR2: en/lsdb/des_dr2.md
                   - DES Y6 Gold: en/lsdb/des_y6_gold.md
@@ -159,7 +165,7 @@ plugins:
             nav:
             - Inicio: es/index.md
             - LSDB: 
-                - 2MASS: es/lsdb/two_mass.md
+                - 2MASS: es/lsdb/2mass.md
                 - DES: 
                   - DES DR2: es/lsdb/des_dr2.md
                   - DES Y6 Gold: es/lsdb/des_y6_gold.md
@@ -186,3 +192,6 @@ plugins:
     - git-revision-date-localized:
         type: date
     #- mkdocs-video
+
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js

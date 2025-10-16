@@ -43,3 +43,43 @@ a.md-logo > img {
   -webkit-font-smoothing: antialiased; /* suaviza nas telas */
   margin-left: 1rem;
 }
+
+/* Button link styling */
+.md-typeset .button-link,
+.button-link {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  background-color: rgb(40,54,99);
+  color: white;
+  text-decoration: none !important;
+  border-radius: 0.25rem;
+  font-weight: 500;
+  transition: background-color 0.1s ease;
+  margin: 0.5rem 0.25rem;
+  min-width: 200px;
+  line-height: 1.0;
+  min-height: 30px;
+  text-align: center;
+}
+
+/* Container for side-by-side buttons */
+.button-container {
+  display: flex;
+  gap: 0.0rem;
+  flex-wrap: wrap;
+  margin: 0.0rem 0;
+}
+
+/* Alternative: inline buttons without container */
+.button-inline {
+  display: inline-block;
+  margin-right: 0.0rem;
+}
+
+/* Button link hover effect */
+.md-typeset .button-link:hover,
+.button-link:hover {
+  background-color: rgb(255,234,128);
+  color: rgb(243, 146, 0) !important;
+  text-decoration: none !important;
+}
