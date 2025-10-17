@@ -14,25 +14,28 @@ La encuesta logró fotometría y astrometría uniformes y precisas. Las principa
 * Precisión Astrométrica: ~100 mas (1σ) relativo al ICRS.
 * Rango Dinámico: >20 mag.
 
-Los productos de datos están públicamente disponibles a través del lanzamiento de datos 2MASS All-Sky.
+<figure class="dataset-figure">
+<img src="../../images/2mass/2MASS_PSC.webp" alt="2MASS Point Source Catalog">
+<figcaption>Fuente de la imagen: https://data.lsdb.io</figcaption>
+</figure>
 
 ## Cargar usando LSDB
 
 ```python
->>> lsdb.open_catalog('https://linea.lsdb.io/hats/two_mass')
+>>> lsdb.open_catalog('https://linea.data.lsdb.io/hats/two_mass')
 ```
 
 ## Descargar con wget
 
 ```bash
-$ wget -e robots=off -r -np -nH --cut-dirs=1 -c -R "index.html*" -l 0 https://linea.lsdb.io/hats/two_mass/
+$ wget -e robots=off -r -np -nH --cut-dirs=1 -c -R "index.html*" -l 0 https://linea.data.lsdb.io/hats/two_mass/
 ```
 
 ## Metadatos del catálogo
 
-| Número de filas | Número de columnas | Número de particiones | Tamaño en disco |
-|-----------------|-------------------|----------------------|-----------------|
-| 470,992,970     | 63                | 1,107                | 43 GB           |
+| Número de filas     | Número de columnas | Número de particiones | Tamaño en disco |
+|--------------------|-------------------|----------------------|-----------------|
+| 470,992,970        | 63                | 1,107                | 43 GB           |
 
 <div class="button-container">
 <a href="https://irsa.ipac.caltech.edu/data/2MASS/docs/releases/allsky/doc/sec2_2.html" class="button-link">Lanzamiento Oficial</a>
