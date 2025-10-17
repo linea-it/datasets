@@ -1,32 +1,38 @@
+# Top-level nav for the default language (pt)
 nav:
   - Início: pt/index.md
-  - LSDB: 
+  - LSDB Surveys: 
       - 2MASS: pt/lsdb/2mass.md
+      - DELVE DR2: pt/lsdb/delve_dr2.md
       - DES: 
-        - DES DR2: pt/lsdb/des_dr2.md
-        - DES Y6 Gold: pt/lsdb/des_y6_gold.md
-      - DELVE: pt/lsdb/delve.md
-      - Gaia: pt/lsdb/gaia.md
+          - DES DR2: pt/lsdb/des_dr2.md
+          - DES Y6 Gold: pt/lsdb/des_y6_gold.md
+      - DESI:
+          - DESI DR1 (z-catalog): pt/lsdb/desi_dr1_zcat.md
+      - eRASS1 Main: pt/lsdb/erosita_dr1_main.md
+      - Euclid Q1: pt/lsdb/euclid_q1.md
+      - Gaia: 
+          - Gaia DR3: pt/lsdb/gaia_dr3.md
   - Banco de Dados: 
       - 2MASS PSC: pt/database/two_mass_psc.md
       - DES:
-        - DES DR2: pt/database/des_dr2.md
-        - DES Y6 Gold: pt/database/des_y6_gold.md 
+          - DES DR2: pt/database/des_dr2.md
+          - DES Y6 Gold: pt/database/des_y6_gold.md 
       - Gaia DR3: pt/database/gaia_dr3.md
       - LSST:
-        - LSST DP0.2: pt/database/lsst_dp0_2.md 
-        - LSST DP1: pt/database/lsst_dp1.md  
+          - LSST DP0.2: pt/database/lsst_dp0_2.md 
+          - LSST DP1: pt/database/lsst_dp1.md      
   - HPC: 
       - DES:
-        - DES DR2: pt/hpc/des_dr2.md
-        - DES Y6 Gold: pt/hpc/des_y6_gold.md 
+          - DES DR2: pt/hpc/des_dr2.md
+          - DES Y6 Gold: pt/hpc/des_y6_gold.md 
       - LSST:
-        - LSST DP0.2: pt/hpc/lsst_dp0.2.md 
-        - LSST DP1: pt/hpc/lsst_dp1.md
+          - LSST DP0.2: pt/hpc/lsst_dp0.2.md 
+          - LSST DP1: pt/hpc/lsst_dp1.md
+
 # Site information
-#docs_dir: docs
 site_name:  Datasets 
-site_author: LIneA team 
+site_author: LIneA Team 
 site_url: "https://datasets.linea.org.br"
 repo_name: linea-it/datasets
 repo_url: https://github.com/linea-it/datasets
@@ -34,38 +40,33 @@ edit_uri: 'edit/main/docs'
 use_directory_urls: false
 copyright: 'Copyright &copy; 2006 - 2025 LIneA'
 
-
 # Configuration
 theme:
   name: material
   custom_dir: linea-theme
-  #logo: 'images/linea.png'
-  logo: 'images/linea-logo.png'
+  logo: 'images/linea_horizontal.png'
   favicon: 'images/linea_favicon.png'
   font:
     text: Roboto, Arial
   features:
     - navigation.indexes
     - content.code.copy
-
-
   palette:
-      # Palette toggle for light mode
-  - scheme: default
-    toggle:
-      icon: material/lightbulb
-      name: Switch to dark mode
-    #primary: '#283663'
-    primary: '#ffdd00'
-    accent: 'deep orange'
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/lightbulb
+        name: Switch to dark mode
+      primary: '#00B1EB'
+      accent: '#00B1EB'
 
-  # Palette toggle for dark mode
-  - scheme: slate
-    toggle:
-      icon: material/lightbulb-outline
-      name: Switch to light mode
-    primary: 'grey'
-    accent: 'deep orange'
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to light mode
+      primary: '#283663'
+      accent: '#00B1EB'
 
 extra_css:
   - stylesheets/extra.css
@@ -91,6 +92,9 @@ markdown_extensions:
   - meta
   - footnotes
   - admonition
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
   - codehilite:
       guess_lang: false
   - toc:
@@ -102,9 +106,6 @@ markdown_extensions:
       smart_enable: all
   - pymdownx.caret
   - pymdownx.critic
-  - pymdownx.emoji:
-      emoji_index: !!python/name:pymdownx.emoji.twemoji
-      emoji_generator: !!python/name:pymdownx.emoji.to_svg
   - pymdownx.inlinehilite
   - pymdownx.magiclink
   - pymdownx.mark
@@ -121,77 +122,87 @@ markdown_extensions:
   - pymdownx.tilde
   - pymdownx.snippets
 
+# Plugins
 plugins:
-    - i18n:
-        docs_structure: folder
-        languages:
-          - locale: pt
-            name: Português
-            build: true
-            default: true
-            site_name: "Datasets"                
-          - locale: en
-            name: English
-            build: true
-            site_name: "Datasets"    
-            nav:
+  - i18n:
+      docs_structure: folder
+      languages:
+        - locale: pt
+          name: Português
+          build: true
+          default: true
+          site_name: "Datasets"
+        - locale: en
+          name: English
+          build: true
+          site_name: "Datasets"
+          nav:
             - Home: en/index.md
-            - LSDB: 
+            - LSDB Surveys: 
                 - 2MASS: en/lsdb/2mass.md
+                - DELVE DR2: en/lsdb/delve_dr2.md
                 - DES: 
-                  - DES DR2: en/lsdb/des_dr2.md
-                  - DES Y6 Gold: en/lsdb/des_y6_gold.md
-                - DELVE: en/lsdb/delve.md
-                - Gaia: en/lsdb/gaia.md
-            - Database: 
+                    - DES DR2: en/lsdb/des_dr2.md
+                    - DES Y6 Gold: en/lsdb/des_y6_gold.md
+                - DESI:
+                    - DESI DR1 (z-catalog): en/lsdb/desi_dr1_zcat.md           
+                - eRASS1 Main: en/lsdb/erosita_dr1_main.md
+                - Euclid Q1: en/lsdb/euclid_q1.md
+                - Gaia: 
+                    - Gaia DR3: en/lsdb/gaia_dr3.md
+            - Databases: 
                 - 2MASS PSC: en/database/two_mass_psc.md
                 - DES:
-                  - DES DR2: en/database/des_dr2.md
-                  - DES Y6 Gold: en/database/des_y6_gold.md 
+                    - DES DR2: en/database/des_dr2.md
+                    - DES Y6 Gold: en/database/des_y6_gold.md 
                 - Gaia DR3: en/database/gaia_dr3.md
                 - LSST:
-                  - LSST DP0.2: en/database/lsst_dp0_2.md 
-                  - LSST DP1: en/database/lsst_dp1.md  
+                    - LSST DP0.2: en/database/lsst_dp0_2.md 
+                    - LSST DP1: en/database/lsst_dp1.md
             - HPC: 
                 - DES:
-                  - DES DR2: en/hpc/des_dr2.md
-                  - DES Y6 Gold: en/hpc/des_y6_gold.md 
+                    - DES DR2: en/hpc/des_dr2.md
+                    - DES Y6 Gold: en/hpc/des_y6_gold.md 
                 - LSST:
-                  - LSST DP0.2: en/hpc/lsst_dp0.2.md 
-                  - LSST DP1: en/hpc/lsst_dp1.md
-          - locale: es
-            name: Español
-            build: true
-            nav:
+                    - LSST DP0.2: en/hpc/lsst_dp0.2.md 
+                    - LSST DP1: en/hpc/lsst_dp1.md
+        - locale: es
+          name: Español
+          build: true
+          nav:
             - Inicio: es/index.md
-            - LSDB: 
+            - LSDB Surveys: 
                 - 2MASS: es/lsdb/2mass.md
+                - DELVE DR2: es/lsdb/delve_dr2.md
                 - DES: 
-                  - DES DR2: es/lsdb/des_dr2.md
-                  - DES Y6 Gold: es/lsdb/des_y6_gold.md
-                - DELVE: es/lsdb/delve.md
-                - Gaia: es/lsdb/gaia.md
+                    - DES DR2: es/lsdb/des_dr2.md
+                    - DES Y6 Gold: es/lsdb/des_y6_gold.md
+                - DESI:
+                    - DESI DR1 (z-catalog): es/lsdb/desi_dr1_zcat.md
+                - eRASS1 Main: es/lsdb/erosita_dr1_main.md
+                - Euclid Q1: es/lsdb/euclid_q1.md
+                - Gaia: 
+                    - Gaia DR3: es/lsdb/gaia_dr3.md
             - Banco de Dados: 
                 - 2MASS PSC: es/database/two_mass_psc.md
                 - DES:
-                  - DES DR2: es/database/des_dr2.md
-                  - DES Y6 Gold: es/database/des_y6_gold.md 
+                    - DES DR2: es/database/des_dr2.md
+                    - DES Y6 Gold: es/database/des_y6_gold.md 
                 - Gaia DR3: es/database/gaia_dr3.md
                 - LSST:
-                  - LSST DP0.2: es/database/lsst_dp0_2.md 
-                  - LSST DP1: es/database/lsst_dp1.md  
+                    - LSST DP0.2: es/database/lsst_dp0_2.md 
+                    - LSST DP1: es/database/lsst_dp1.md
             - HPC: 
                 - DES:
-                  - DES DR2: es/hpc/des_dr2.md
-                  - DES Y6 Gold: es/hpc/des_y6_gold.md 
+                    - DES DR2: es/hpc/des_dr2.md
+                    - DES Y6 Gold: es/hpc/des_y6_gold.md 
                 - LSST:
-                  - LSST DP0.2: es/hpc/lsst_dp0.2.md 
-                  - LSST DP1: es/hpc/lsst_dp1.md   
-    - search:
-        enabled: true
-    - git-revision-date-localized:
-        type: date
-    #- mkdocs-video
+                    - LSST DP0.2: es/hpc/lsst_dp0.2.md 
+                    - LSST DP1: es/hpc/lsst_dp1.md
+  - search:
+      enabled: true
+  - git-revision-date-localized:
+      type: date
 
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
