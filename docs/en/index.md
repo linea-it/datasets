@@ -22,24 +22,21 @@ See below a table summarizing the main datasets available for download or query 
 
 | Survey / release| LSDB | Database | HPC | 
 |---              |:-:   |:-:       |:-:  |
-| 2MASS PSC       |⏳    |👥        | -   | 
-| COSMO DC2       |-     |-         |🔒   |
-| DELVE DR2       |🛠️    | -        | -   |
-| DES DR2 Main    |🛠️    |👥        |🔒   |
-| DES DR2 Y6 Gold |🛠️    |🛠️        |🔒   |
-| DESI DR1        |⏳    |⏳        | -   |
-| Gaia DR3 Source |⏳    |👥        | -   |
-| LSST DP0.1      |-     |-         |🔒   |
-| LSST DP0.2      |-     | 🔒       |🔒   |
-| LSST DP1        |⏳    |🛠️        |🛠️   |
-| WISE            |⏳    | -        | -   |
-| ZTF             |⏳    | -        | -   |
+| 2MASS PSC       |:material-clock-outline:    |:material-account-group:        | -   | 
+| COSMO DC2       |-     |-         |:material-lock:   |
+| DELVE DR2       |:material-hammer-wrench:    | -        | -   |
+| DES DR2 Main    |:material-hammer-wrench:    |:material-account-group:        |:material-lock:   |
+| DES DR2 Y6 Gold |:material-hammer-wrench:    |:material-hammer-wrench:        |:material-lock:   |
+| DESI DR1        |:material-clock-outline:    |:material-clock-outline:        | -   |
+| Gaia DR3 Source |:material-clock-outline:    |:material-account-group:        | -   |
+| LSST DP0.1      |-     |-         |:material-lock:   |
+| LSST DP0.2      |-     | :material-lock:       |:material-lock:   |
+| LSST DP1        |:material-clock-outline:    |:material-hammer-wrench:        |:material-hammer-wrench:   |
+| WISE            |:material-clock-outline:    | -        | -   |
+| ZTF             |:material-clock-outline:    | -        | -   |
 
-
-
-|Legend:       |                  |                  |                  |
-|---           |---               |---               |---               |
-|👥: Public    |🔒: Restricted    | ⏳: Planned       |🛠️: In preparation |
+**Legend**<br>
+:material-account-group: Public &emsp; :material-lock: Restricted &emsp; :material-clock-outline: Planned &emsp; :material-hammer-wrench: In preparation
 
 
 
