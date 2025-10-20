@@ -2,6 +2,25 @@
 
 This repository contains the documentation for LIneA's datasets and services, built with MkDocs and Material theme. The documentation is available in multiple languages (English, Portuguese, and Spanish).
 
+## Types of Datasets
+
+LIneA provides access to three different types of datasets:
+
+### LSDB Datasets
+- **Source**: Data from [data.lsdb.io](https://data.lsdb.io)
+- **Description**: Large-scale astronomical catalogs and datasets managed through the LSDB (Large Survey Database) system
+- **Access**: Web-based interface and API access
+
+### LIneA Databases
+- **Source**: Databases hosted directly by LIneA
+- **Description**: Curated datasets and databases maintained by LIneA's infrastructure
+- **Access**: Direct database connections and specialized interfaces
+
+### HPC Datasets
+- **Source**: Datasets accessible via High Performance Computing (HPC) systems
+- **Description**: Large-scale datasets requiring computational resources for processing and analysis
+- **Access**: HPC cluster access and specialized computational workflows
+
 ## Setup and Development
 
 ### Prerequisites
@@ -39,14 +58,9 @@ This repository contains the documentation for LIneA's datasets and services, bu
    pip install -r requirements.txt
    ```
 
-## Development vs Production
+## Development
 
-### Development Environment
-**Purpose**: Local development, testing, and content creation
-
-**Setup**: Follow the installation steps above, then use development commands for local work.
-
-**Development Commands**:
+### Development Commands
 ```bash
 # Start local development server with live reload
 mkdocs serve
@@ -55,43 +69,19 @@ mkdocs serve
 # Changes to source files will automatically reload the browser
 ```
 
-### Production Environment
-**Purpose**: Deploying the documentation to live servers (GitHub Pages, web servers, etc.)
-
-**Production Build**:
+### Testing Builds
 ```bash
-# Build static site for production deployment
-mkdocs build
+# Test build with strict mode to catch all issues
+mkdocs build --strict
 
 # The built site will be in the site/ directory
-# This creates optimized, static HTML files ready for web servers
+# Use this command to verify your documentation builds correctly before deployment
 ```
 
-**Production Deployment Options**:
+## Production Deployment
 
-1. **GitHub Pages** (automated deployment):
-   ```bash
-   mkdocs gh-deploy
-   ```
-   This builds the site and pushes it to the `gh-pages` branch for GitHub Pages hosting.
+For production deployment, use:
+```bash
+mkdocs gh-deploy
+```
 
-2. **Manual Deployment** (for other web servers):
-   ```bash
-   mkdocs build
-   # Then upload the contents of the site/ directory to your web server
-   ```
-
-3. **CI/CD Pipeline** (for automated builds):
-   Use the `mkdocs build` command in your CI/CD pipeline to generate the site automatically.
-
-## LSDB Information
-
-This website serves as a user interface for the LSDB.io service hosted at LIneA's datacenter. 
-
-LSDB software is developed and maintained by LINCC frameworks.
-
-### LSDB Documentation 
-
-Check out their [ReadTheDocs site](https://docs.lsdb.io)
-for more information on partitioning, installation, and contributing.
-The scientific publication associated is ["Using LSDB to enable large-scale catalog distribution, cross-matching, and analytics"](https://ui.adsabs.harvard.edu/abs/2025arXiv250102103C).
