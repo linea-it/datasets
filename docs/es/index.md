@@ -22,13 +22,13 @@ Vea a continuación una tabla que resume los principales conjuntos de datos disp
 
 | Survey / release| LSDB | Base de datos | HPC | 
 |---              |:-:   |:-:            |:-:  |
-| 2MASS PSC       |:material-clock-outline:    |:material-account-group:        | -   | 
+| 2MASS PSC       |:material-account-group:    |:material-account-group:        | -   | 
 | COSMO DC2       |-     |-         |:material-lock:   |
-| DELVE DR2       |:material-hammer-wrench:    | -        | -   |
-| DES DR2 Main    |:material-hammer-wrench:    |:material-account-group:        |:material-lock:   |
-| DES DR2 Y6 Gold |:material-hammer-wrench:    |:material-hammer-wrench:        |:material-lock:   |
-| DESI DR1        |:material-clock-outline:    |:material-clock-outline:        | -   |
-| Gaia DR3 Source |:material-clock-outline:    |:material-account-group:        | -   |
+| DELVE DR2       |:material-account-group:    | -        | -   |
+| DES DR2 Main    |:material-account-group:    |:material-account-group:        |:material-lock:   |
+| DES DR2 Y6 Gold |:material-account-group:    |:material-hammer-wrench:        |:material-lock:   |
+| DESI DR1        |:material-account-group:    |:material-clock-outline:        | -   |
+| Gaia DR3 Source |:material-account-group:    |:material-account-group:        | -   |
 | LSST DP0.1      |-     |-         |:material-lock:   |
 | LSST DP0.2      |-     | :material-lock:       |:material-lock:   |
 | LSST DP1        |:material-clock-outline:    |:material-hammer-wrench:        |:material-hammer-wrench:   |
