@@ -140,12 +140,12 @@ plugins:
       docs_structure: folder
       default_language: pt
       languages:
-        pt:
+        - locale: pt
           name: Português
           build: true
           default: true
           site_name: "Datasets"
-        en:
+        - locale: en
           name: English
           build: true
           site_name: "Datasets"
@@ -179,7 +179,7 @@ plugins:
                 - LSST:
                     - LSST DP0.2: en/hpc/lsst_dp0.2.md 
                     - LSST DP1: en/hpc/lsst_dp1.md
-        es:
+        - locale: es
           name: Español
           build: true
           nav:
