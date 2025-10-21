@@ -138,13 +138,14 @@ markdown_extensions:
 plugins:
   - i18n:
       docs_structure: folder
+      default_language: pt
       languages:
-        - locale: pt
+        pt:
           name: Português
           build: true
           default: true
           site_name: "Datasets"
-        - locale: en
+        en:
           name: English
           build: true
           site_name: "Datasets"
@@ -178,7 +179,7 @@ plugins:
                 - LSST:
                     - LSST DP0.2: en/hpc/lsst_dp0.2.md 
                     - LSST DP1: en/hpc/lsst_dp1.md
-        - locale: es
+        es:
           name: Español
           build: true
           nav:
