@@ -13,22 +13,22 @@ nav:
       - Euclid Q1: pt/lsdb/euclid_q1.md
       - Gaia: 
           - Gaia DR3: pt/lsdb/gaia_dr3.md
-  - Banco de Dados: 
-      - 2MASS PSC: pt/database/two_mass_psc.md
-      - DES:
-          - DES DR2: pt/database/des_dr2.md
-          - DES Y6 Gold: pt/database/des_y6_gold.md 
-      - Gaia DR3: pt/database/gaia_dr3.md
-      - LSST:
-          - LSST DP0.2: pt/database/lsst_dp0_2.md 
-          - LSST DP1: pt/database/lsst_dp1.md      
-  - HPC: 
-      - DES:
-          - DES DR2: pt/hpc/des_dr2.md
-          - DES Y6 Gold: pt/hpc/des_y6_gold.md 
-      - LSST:
-          - LSST DP0.2: pt/hpc/lsst_dp0.2.md 
-          - LSST DP1: pt/hpc/lsst_dp1.md
+  # - Banco de Dados: 
+  #     - 2MASS PSC: pt/database/two_mass_psc.md
+  #     - DES:
+  #         - DES DR2: pt/database/des_dr2.md
+  #         - DES Y6 Gold: pt/database/des_y6_gold.md 
+  #     - Gaia DR3: pt/database/gaia_dr3.md
+  #     - LSST:
+  #         - LSST DP0.2: pt/database/lsst_dp0_2.md 
+  #         - LSST DP1: pt/database/lsst_dp1.md      
+  # - HPC: 
+  #     - DES:
+  #         - DES DR2: pt/hpc/des_dr2.md
+  #         - DES Y6 Gold: pt/hpc/des_y6_gold.md 
+  #     - LSST:
+  #         - LSST DP0.2: pt/hpc/lsst_dp0.2.md 
+  #         - LSST DP1: pt/hpc/lsst_dp1.md
 
 # Site information
 site_name:  Datasets 
@@ -138,7 +138,6 @@ markdown_extensions:
 plugins:
   - i18n:
       docs_structure: folder
-      default_language: pt
       languages:
         - locale: pt
           name: Português
@@ -163,22 +162,22 @@ plugins:
                 - Euclid Q1: en/lsdb/euclid_q1.md
                 - Gaia: 
                     - Gaia DR3: en/lsdb/gaia_dr3.md
-            - Databases: 
-                - 2MASS PSC: en/database/two_mass_psc.md
-                - DES:
-                    - DES DR2: en/database/des_dr2.md
-                    - DES Y6 Gold: en/database/des_y6_gold.md 
-                - Gaia DR3: en/database/gaia_dr3.md
-                - LSST:
-                    - LSST DP0.2: en/database/lsst_dp0_2.md 
-                    - LSST DP1: en/database/lsst_dp1.md
-            - HPC: 
-                - DES:
-                    - DES DR2: en/hpc/des_dr2.md
-                    - DES Y6 Gold: en/hpc/des_y6_gold.md 
-                - LSST:
-                    - LSST DP0.2: en/hpc/lsst_dp0.2.md 
-                    - LSST DP1: en/hpc/lsst_dp1.md
+            # - Databases: 
+            #     - 2MASS PSC: en/database/two_mass_psc.md
+            #     - DES:
+            #         - DES DR2: en/database/des_dr2.md
+            #         - DES Y6 Gold: en/database/des_y6_gold.md 
+            #     - Gaia DR3: en/database/gaia_dr3.md
+            #     - LSST:
+            #         - LSST DP0.2: en/database/lsst_dp0_2.md 
+            #         - LSST DP1: en/database/lsst_dp1.md
+            # - HPC: 
+            #     - DES:
+            #         - DES DR2: en/hpc/des_dr2.md
+            #         - DES Y6 Gold: en/hpc/des_y6_gold.md 
+            #     - LSST:
+            #         - LSST DP0.2: en/hpc/lsst_dp0.2.md 
+            #         - LSST DP1: en/hpc/lsst_dp1.md
         - locale: es
           name: Español
           build: true
