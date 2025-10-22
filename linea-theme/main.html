@@ -42,3 +42,31 @@
     }
   </script>
 {% endblock %}
+
+{% block content %}
+  {% set src = page.file.src_path %}
+  {% set locale = page.lang or (src.split('/')[:1] | first) or 'pt' %}
+  {% if src and '/lsdb/' in src %}
+    {% set titles = {'pt': 'Aviso', 'en': 'Warning', 'es': 'Advertencia'} %}
+    {% set texts = {
+      'pt': 'O endereço URL padrão disponibilizado nos exemplos abaixo <code>https://linea.data.lsdb.io/</code> está temporariamente inativo. Por enquanto, substitua por <code>https://datasets.linea.org.br/</code> em todos os exemplos para acessar os dados.',
+      'en': 'The default address used in the documentation examples <code>https://linea.data.lsdb.io/</code> is temporarily unavailable. For now, please use the temporary address <code>https://datasets.linea.org.br/</code> to access the data.',
+      'es': 'La dirección predeterminada utilizada en los ejemplos de la documentación <code>https://linea.data.lsdb.io/</code> — aún no está disponible. Por ahora, utilice la dirección temporal <code>https://datasets.linea.org.br/</code> para acceder a los datos.',
+    } %}
+    {% set title = titles.get(locale, 'Warning') %}
+    {% set text = texts.get(locale, texts['en']) %}
+    <div class="md-typeset">
+      <div class="admonition warning" style="border-left-color: #d32f2f; background-color: #ffebee;">
+        <p class="admonition-title" style="background-color: #d32f2f; color: white;">{{ title }}</p>
+        <p>{{ text | safe }}</p>
+      </div>
+    </div>
+    <style>
+      .admonition.warning code {
+        color: #d32f2f !important;
+        font-weight: bold !important;
+      }
+    </style>
+  {% endif %}
+  {{ super() }}
+{% endblock %}
