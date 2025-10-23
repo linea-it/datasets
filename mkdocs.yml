@@ -195,22 +195,22 @@ plugins:
                 - Euclid Q1: es/lsdb/euclid_q1.md
                 - Gaia: 
                     - Gaia DR3: es/lsdb/gaia_dr3.md
-            - Banco de Dados: 
-                - 2MASS PSC: es/database/two_mass_psc.md
-                - DES:
-                    - DES DR2: es/database/des_dr2.md
-                    - DES Y6 Gold: es/database/des_y6_gold.md 
-                - Gaia DR3: es/database/gaia_dr3.md
-                - LSST:
-                    - LSST DP0.2: es/database/lsst_dp0_2.md 
-                    - LSST DP1: es/database/lsst_dp1.md
-            - HPC: 
-                - DES:
-                    - DES DR2: es/hpc/des_dr2.md
-                    - DES Y6 Gold: es/hpc/des_y6_gold.md 
-                - LSST:
-                    - LSST DP0.2: es/hpc/lsst_dp0.2.md 
-                    - LSST DP1: es/hpc/lsst_dp1.md
+            # - Banco de Dados: 
+            #     - 2MASS PSC: es/database/two_mass_psc.md
+            #     - DES:
+            #         - DES DR2: es/database/des_dr2.md
+            #         - DES Y6 Gold: es/database/des_y6_gold.md 
+            #     - Gaia DR3: es/database/gaia_dr3.md
+            #     - LSST:
+            #         - LSST DP0.2: es/database/lsst_dp0_2.md 
+            #         - LSST DP1: es/database/lsst_dp1.md
+            # - HPC: 
+            #     - DES:
+            #         - DES DR2: es/hpc/des_dr2.md
+            #         - DES Y6 Gold: es/hpc/des_y6_gold.md 
+            #     - LSST:
+            #         - LSST DP0.2: es/hpc/lsst_dp0.2.md 
+            #         - LSST DP1: es/hpc/lsst_dp1.md
   - search:
       enabled: true
   - git-revision-date-localized:
