@@ -1,8 +1,8 @@
 {% extends "base.html" %}
 
 {% block libs %}
-{{ super() }}
-<script async src="https://siteimproveanalytics.com/js/siteanalyze_6025767.js"></script>
+  {{ super() }}
+  <script async src="https://siteimproveanalytics.com/js/siteanalyze_6025767.js"></script>
 {% endblock %}
 
 {% block footer %}
@@ -10,31 +10,63 @@
   <div class="md-footer-meta md-typeset">
     <div class="md-footer-meta__inner md-grid">
 
-      <div>
-        <a href="https://linea.org.br/" title="LIneA" target="_blank">
-          <img alt=LIneA" src="/images/linea-dark-invert.png" height="70" width="90"
-            style="padding: 10px; height: 70px;">
+      <div class="md-footer-logos">
+        <a href="https://linea.org.br/010-ciencia/3-inct-do-e-universo-2/" title="INCT do e-Universo" target="_blank" rel="noopener">
+          <img alt="INCT do e-Universo" src="{{ 'images/inct_euniverso_logo.png' | url }}" style="height: 70px; padding: 10px;">
         </a>
-        <a href="https://linea.org.br/010-ciencia/3-inct-do-e-universo-2/" title="INCT do e-Universo" target="_blank">
-          <img alt="INCT do e-Universo" src="/images/inct_euniverso_logo.png" height="70" style="padding: 10px; height: 70px;">
-        </a>
-        <img alt="IDAC" src="/images/idac.png" height="70" style="height: 70px;">
+        <img alt="IDAC" src="{{ 'images/idac.png' | url }}" style="height: 70px; padding: 10px;">
       </div>
 
-      {% include "partials/social.html" %}
+      <div>
+        {% include "partials/footer_custom.html" %}
+      </div>
+
+      <div>
+        {% include "partials/social.html" %}
+      </div>
 
     </div>
   </div>
-  <footer>
-    {% endblock %}
 
-    {% block config %}
-    {{ super() }}
-    <script>
-      var __search = {
-        transform: function (query) {
-          return query
-        }
+  {% include "partials/copyright.html" %}
+</footer>
+{% endblock %}
+
+{% block config %}
+  {{ super() }}
+  <script>
+    var __search = {
+      transform: function (query) {
+        return query
       }
-    </script>
-    {% endblock %}
+    }
+  </script>
+{% endblock %}
+
+{% block content %}
+  {% set src = page.file.src_path %}
+  {% set locale = page.lang or (src.split('/')[:1] | first) or 'pt' %}
+  {% if src and '/lsdb/' in src %}
+    {% set titles = {'pt': 'Aviso', 'en': 'Warning', 'es': 'Advertencia'} %}
+    {% set texts = {
+      'pt': 'O endereço URL padrão disponibilizado nos exemplos abaixo <code>https://linea.data.lsdb.io/</code> está temporariamente inativo. Por enquanto, substitua por <code>https://datasets.linea.org.br/</code> em todos os exemplos para acessar os dados.',
+      'en': 'The default address used in the documentation examples <code>https://linea.data.lsdb.io/</code> is temporarily unavailable. For now, please use the temporary address <code>https://datasets.linea.org.br/</code> to access the data.',
+      'es': 'La dirección predeterminada utilizada en los ejemplos de la documentación <code>https://linea.data.lsdb.io/</code> — aún no está disponible. Por ahora, utilice la dirección temporal <code>https://datasets.linea.org.br/</code> para acceder a los datos.',
+    } %}
+    {% set title = titles.get(locale, 'Warning') %}
+    {% set text = texts.get(locale, texts['en']) %}
+    <div class="md-typeset">
+      <div class="admonition warning" style="border-left-color: #d32f2f; background-color: #ffebee;">
+        <p class="admonition-title" style="background-color: #d32f2f; color: white;">{{ title }}</p>
+        <p>{{ text | safe }}</p>
+      </div>
+    </div>
+    <style>
+      .admonition.warning code {
+        color: #d32f2f !important;
+        font-weight: bold !important;
+      }
+    </style>
+  {% endif %}
+  {{ super() }}
+{% endblock %}
