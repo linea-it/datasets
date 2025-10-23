@@ -32,7 +32,7 @@ Profundidad mediana por apertura: g = 23.9 mag, r = 23.5 mag, i = 23.0 mag, z = 
 El desplazamiento angular mediano en relación con Gaia EDR3 es de 22 milisegundos de arco (mas).
 
 **Repetibilidad fotométrica:**
-La desviación cuadrática media (rms) mediana es de 4.9 mmag (g), 5.0 mmag (r), 4.5 mmag (i) y 5.4 mmag (z).
+La desviación cuadrática media (rms) mediana es de 4.9 mmag (banda g), 5.0 mmag (banda r), 4.5 mmag (banda i) y 5.4 mmag (banda z).
 
 **Incertidumbre fotométrica absoluta:**
 La precisión fotométrica absoluta estimada es de 20 mmag o mejor en todas las bandas.
