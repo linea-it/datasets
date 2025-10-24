@@ -33,7 +33,7 @@ nav:
 # Site information
 site_name:  Datasets 
 site_author: LIneA Team 
-site_url: "https://datasets.linea.org.br"
+site_url: "https://data.linea.org.br"
 repo_name: linea-it/datasets
 repo_url: https://github.com/linea-it/datasets
 edit_uri: 'edit/main/docs'
