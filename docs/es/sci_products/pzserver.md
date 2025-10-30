@@ -2,5 +2,5 @@
 
 
 !!! Warning "Datasets"
-     Próximamente habrá traducción al español. Consulta la página original en inglés [aquí](https://docs.linea.org.br/en/data/pz_server_data.html).
+     Próximamente habrá traducción al español. Consulta la página original en inglés [aquí](https://data.linea.org.br/en/sci_products/pzserver.html).
 
