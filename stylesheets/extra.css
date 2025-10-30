@@ -1,20 +1,36 @@
-.md-typeset .admonition,
-.md-typeset details {
-  border-width: 0;
-  border-left-width: 4px;
+/* --- Root Variables for Colors --- */
+:root {
+  /* Cores Institucionais (Primárias) */
+  --linea-primary-blue: #283663;
+  --linea-primary-gray: #868685;
+
+  /* Cores de Apoio (Accent) */
+  --linea-accent-yellow: #ffdd00;
+  --linea-accent-light-blue: #00B1EB;
+  --linea-accent-orange: #F39200;
+
+  /* Aplicação para o tema Material for MkDocs */
+  --md-primary-fg-color: var(--linea-accent-light-blue);   /* Cor primária (header) */
+  --md-accent-fg-color: var(--linea-accent-light-blue);  /* CHANGED: Cor de destaque (links) */
 }
 
-:root > * {
-  --md-primary-fg-color: #283663;
-  --md-primary-fg-color--light: #283663;
-  --md-primary-fg-color--dark: #868786;
+/* --- General Readability Improvements --- */
+
+/* Unify and increase base font size for better readability */
+.md-typeset,
+.md-nav,
+.md-nav__title {
+  font-size: 0.75rem;
 }
 
-a.md-logo > img {
-  transform: scale(1.7);
+/* Ensure body text is visible in dark mode */
+[data-md-color-scheme="slate"] .md-typeset {
+    color: rgba(255, 255, 255, 0.87);
 }
 
+/* Make links stand out more clearly */
 .md-typeset a {
+  color: var(--md-accent-fg-color);
   text-decoration: underline !important;
 }
 
@@ -22,9 +38,150 @@ a.md-logo > img {
   text-decoration: none !important;
 }
 
-/* Unify font size */
-.md-typeset,
-.md-nav,
-.md-nav__title {
-  font-size: 0.75rem;
+/* --- Header Styling Fixes --- */
+
+/* Set header text/icon color to primary blue for contrast against the light blue background */
+.md-header {
+  color: var(--linea-primary-blue);
+}
+
+.md-header__title {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300 !important; /* Normal weight for better readability on light BG */
+  font-size: 1.3rem !important;
+  margin-left: 1rem;
+}
+
+/* Style the main site title in the header */
+.md-header__title .md-header__topic {
+  font-weight: 300;
+  font-size: 1.4rem;
+  top: 0.3rem; /* Adjust this pixel value up or down as needed */
+
+}
+
+/* Nudge the logo up for perfect visual alignment with the text */
+.md-header .md-logo {
+  position: relative;
+  top: -0.1rem; /* Adjust this pixel value up or down as needed */
+}
+/* 
+.md-header__inner {
+  align-items: flex-end;
+} */
+
+/* --- Admonition & Details Block Styling --- */
+.md-typeset .admonition,
+.md-typeset details {
+  border-width: 0;
+  border-left-width: 4px;
+}
+
+/* --- Logo Scaling --- */
+.md-header .md-logo img {
+  /* min-size, preferred-size, max-size */
+  height: clamp(1.5rem, 1.5rem + 1vw, 1.9rem); /* These values are now smaller */
+  width: auto; /* Keeps the logo proportional */
+}
+ 
+/* --- Custom Button Styling --- */
+
+.md-typeset .button-link,
+.button-link {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  background-color: var(--linea-primary-blue);
+  color: white;
+  text-decoration: none !important;
+  border-radius: 0.25rem;
+  font-weight: 500;
+  transition: background-color 0.2s ease;
+  margin: 0.5rem 0.25rem;
+  min-width: 200px;
+  line-height: 1.0;
+  min-height: 30px;
+  text-align: center;
+}
+
+.md-typeset .button-link:hover,
+.button-link:hover {
+  background-color: var(--linea-accent-yellow);
+  color: var(--linea-primary-blue) !important; /* Changed to blue for better contrast on yellow */
+  text-decoration: none !important;
+}
+
+/* Container for side-by-side buttons */
+.button-container {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  margin: 1rem 0;
+}
+
+/* --- Discreet Footer Styling --- */
+.md-footer {
+  background-color: var(--linea-primary-blue) !important;
+  color: #ffffff !important;
+}
+.md-footer a { color: #ffffff !important; }
+
+.linea-footer {
+  font-size: 0.6rem;
+  line-height: 1.25;
+  opacity: 0.9;
+  text-align: center;
+  color: #ffffff;
+}
+.linea-footer p {
+  margin: 0.2rem 0;
+}
+.linea-footer strong {
+  font-weight: 500;
+}
+
+
+/* Style the main title ("Datasets") in the left navigation menu */
+.md-nav--primary > .md-nav__title {
+  font-size: 1.1rem;   /* Makes the text bigger */
+  font-weight: 400;    /* Removes the bolding (400 is normal weight) */
+  margin-bottom: 1rem; /* Adds some space below it for better separation */
+}
+
+/* --- Figure styling for dataset pages --- */
+.md-typeset .dataset-figure {
+  margin: 3rem auto 3rem auto;
+  width: 70%;
+}
+.md-typeset .dataset-figure img {
+  display: block;
+  margin: 0 auto 0.75rem auto;
+}
+.md-typeset .dataset-figure figcaption {
+  font-size: 0.72rem;
+  color: var(--linea-primary-gray);
+  text-align: center;
+}
+
+/* --- Material Icons Styling --- */
+/* Make Material icons larger in tables */
+.md-typeset table .twemoji {
+  font-size: 1.3em !important;
+  color: var(--linea-accent-light-blue);
+}
+
+/* Make Material icons even larger for better visibility */
+.md-typeset table .twemoji svg {
+  width: 1.3em !important;
+  height: 1.3em !important;
+}
+
+/* Make Material icons larger in regular text */
+.md-typeset .twemoji {
+  font-size: 1.3em !important;
+  color: var(--linea-accent-light-blue);
+}
+
+.md-typeset .twemoji svg {
+  width: 1.3em !important;
+  height: 0.8em !important;
 }

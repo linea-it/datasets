@@ -1,243 +1,633 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-        <loc>https://lsdb.linea.org.br/rubin-data.html</loc>
-        <lastmod>2025-08-26</lastmod>
+        <loc>https://data.linea.org.br/rubin-data.html</loc>
+        <lastmod>2025-10-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://lsdb.linea.org.br/rubin-data.html"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://lsdb.linea.org.br/es/rubin-data.html"/>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://lsdb.linea.org.br/pt/rubin-data.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/rubin-data.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/rubin-data.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/rubin-data.html"/>
     </url>
     <url>
-        <loc>https://lsdb.linea.org.br/index.html</loc>
-        <lastmod>2025-08-26</lastmod>
+        <loc>https://data.linea.org.br/index.html</loc>
+        <lastmod>2025-10-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://lsdb.linea.org.br/index.html"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://lsdb.linea.org.br/es/index.html"/>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://lsdb.linea.org.br/pt/index.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/index.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/index.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/index.html"/>
     </url>
     <url>
-        <loc>https://lsdb.linea.org.br/2mass.html</loc>
-        <lastmod>2025-08-26</lastmod>
+        <loc>https://data.linea.org.br/database/index.html</loc>
+        <lastmod>2025-10-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://lsdb.linea.org.br/2mass.html"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://lsdb.linea.org.br/es/2mass.html"/>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://lsdb.linea.org.br/pt/2mass.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/database/index.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/database/index.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/database/index.html"/>
     </url>
     <url>
-        <loc>https://lsdb.linea.org.br/delve.html</loc>
-        <lastmod>2025-08-26</lastmod>
+        <loc>https://data.linea.org.br/database/des_dr2.html</loc>
+        <lastmod>2025-10-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://lsdb.linea.org.br/delve.html"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://lsdb.linea.org.br/es/delve.html"/>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://lsdb.linea.org.br/pt/delve.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/database/des_dr2.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/database/des_dr2.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/database/des_dr2.html"/>
     </url>
     <url>
-        <loc>https://lsdb.linea.org.br/des.html</loc>
-        <lastmod>2025-08-26</lastmod>
+        <loc>https://data.linea.org.br/database/des_y6_gold.html</loc>
+        <lastmod>2025-10-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://lsdb.linea.org.br/des.html"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://lsdb.linea.org.br/es/des.html"/>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://lsdb.linea.org.br/pt/des.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/database/des_y6_gold.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/database/des_y6_gold.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/database/des_y6_gold.html"/>
     </url>
     <url>
-        <loc>https://lsdb.linea.org.br/desi.html</loc>
-        <lastmod>2025-08-26</lastmod>
+        <loc>https://data.linea.org.br/database/gaia_dr3.html</loc>
+        <lastmod>2025-10-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://lsdb.linea.org.br/desi.html"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://lsdb.linea.org.br/es/desi.html"/>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://lsdb.linea.org.br/pt/desi.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/database/gaia_dr3.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/database/gaia_dr3.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/database/gaia_dr3.html"/>
     </url>
     <url>
-        <loc>https://lsdb.linea.org.br/gaia.html</loc>
-        <lastmod>2025-08-26</lastmod>
+        <loc>https://data.linea.org.br/database/lsst_dp0_2.html</loc>
+        <lastmod>2025-10-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://lsdb.linea.org.br/gaia.html"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://lsdb.linea.org.br/es/gaia.html"/>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://lsdb.linea.org.br/pt/gaia.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/database/lsst_dp0_2.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/database/lsst_dp0_2.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/database/lsst_dp0_2.html"/>
     </url>
     <url>
-        <loc>https://lsdb.linea.org.br/lsst.html</loc>
-        <lastmod>2025-08-26</lastmod>
+        <loc>https://data.linea.org.br/database/lsst_dp1.html</loc>
+        <lastmod>2025-10-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://lsdb.linea.org.br/lsst.html"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://lsdb.linea.org.br/es/lsst.html"/>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://lsdb.linea.org.br/pt/lsst.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/database/lsst_dp1.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/database/lsst_dp1.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/database/lsst_dp1.html"/>
     </url>
     <url>
-        <loc>https://lsdb.linea.org.br/sdss.html</loc>
-        <lastmod>2025-08-26</lastmod>
+        <loc>https://data.linea.org.br/database/two_mass_psc.html</loc>
+        <lastmod>2025-10-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://lsdb.linea.org.br/sdss.html"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://lsdb.linea.org.br/es/sdss.html"/>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://lsdb.linea.org.br/pt/sdss.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/database/two_mass_psc.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/database/two_mass_psc.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/database/two_mass_psc.html"/>
     </url>
     <url>
-        <loc>https://lsdb.linea.org.br/wise.html</loc>
-        <lastmod>2025-08-26</lastmod>
+        <loc>https://data.linea.org.br/hpc/index.html</loc>
+        <lastmod>2025-10-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://lsdb.linea.org.br/wise.html"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://lsdb.linea.org.br/es/wise.html"/>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://lsdb.linea.org.br/pt/wise.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/hpc/index.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/hpc/index.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/hpc/index.html"/>
     </url>
     <url>
-        <loc>https://lsdb.linea.org.br/pt/rubin-data.html</loc>
-        <lastmod>2025-08-26</lastmod>
+        <loc>https://data.linea.org.br/hpc/des_dr2.html</loc>
+        <lastmod>2025-10-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://lsdb.linea.org.br/pt/rubin-data.html"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://lsdb.linea.org.br/rubin-data.html"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://lsdb.linea.org.br/es/rubin-data.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/hpc/des_dr2.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/hpc/des_dr2.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/hpc/des_dr2.html"/>
     </url>
     <url>
-        <loc>https://lsdb.linea.org.br/pt/index.html</loc>
-        <lastmod>2025-08-26</lastmod>
+        <loc>https://data.linea.org.br/hpc/des_y6_gold.html</loc>
+        <lastmod>2025-10-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://lsdb.linea.org.br/pt/index.html"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://lsdb.linea.org.br/index.html"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://lsdb.linea.org.br/es/index.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/hpc/des_y6_gold.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/hpc/des_y6_gold.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/hpc/des_y6_gold.html"/>
     </url>
     <url>
-        <loc>https://lsdb.linea.org.br/pt/2mass.html</loc>
-        <lastmod>2025-08-26</lastmod>
+        <loc>https://data.linea.org.br/hpc/lsst_dp0.2.html</loc>
+        <lastmod>2025-10-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://lsdb.linea.org.br/pt/2mass.html"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://lsdb.linea.org.br/2mass.html"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://lsdb.linea.org.br/es/2mass.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/hpc/lsst_dp0.2.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/hpc/lsst_dp0.2.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/hpc/lsst_dp0.2.html"/>
     </url>
     <url>
-        <loc>https://lsdb.linea.org.br/pt/delve.html</loc>
-        <lastmod>2025-08-26</lastmod>
+        <loc>https://data.linea.org.br/hpc/lsst_dp1.html</loc>
+        <lastmod>2025-10-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://lsdb.linea.org.br/pt/delve.html"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://lsdb.linea.org.br/delve.html"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://lsdb.linea.org.br/es/delve.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/hpc/lsst_dp1.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/hpc/lsst_dp1.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/hpc/lsst_dp1.html"/>
     </url>
     <url>
-        <loc>https://lsdb.linea.org.br/pt/des.html</loc>
-        <lastmod>2025-08-26</lastmod>
+        <loc>https://data.linea.org.br/lsdb/index.html</loc>
+        <lastmod>2025-10-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://lsdb.linea.org.br/pt/des.html"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://lsdb.linea.org.br/des.html"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://lsdb.linea.org.br/es/des.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/lsdb/index.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/lsdb/index.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/lsdb/index.html"/>
     </url>
     <url>
-        <loc>https://lsdb.linea.org.br/pt/desi.html</loc>
-        <lastmod>2025-08-26</lastmod>
+        <loc>https://data.linea.org.br/lsdb/2mass.html</loc>
+        <lastmod>2025-10-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://lsdb.linea.org.br/pt/desi.html"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://lsdb.linea.org.br/desi.html"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://lsdb.linea.org.br/es/desi.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/lsdb/2mass.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/lsdb/2mass.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/lsdb/2mass.html"/>
     </url>
     <url>
-        <loc>https://lsdb.linea.org.br/pt/gaia.html</loc>
-        <lastmod>2025-08-26</lastmod>
+        <loc>https://data.linea.org.br/lsdb/delve_dr2.html</loc>
+        <lastmod>2025-10-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://lsdb.linea.org.br/pt/gaia.html"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://lsdb.linea.org.br/gaia.html"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://lsdb.linea.org.br/es/gaia.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/lsdb/delve_dr2.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/lsdb/delve_dr2.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/lsdb/delve_dr2.html"/>
     </url>
     <url>
-        <loc>https://lsdb.linea.org.br/pt/lsst.html</loc>
-        <lastmod>2025-08-26</lastmod>
+        <loc>https://data.linea.org.br/lsdb/des_dr2.html</loc>
+        <lastmod>2025-10-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://lsdb.linea.org.br/pt/lsst.html"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://lsdb.linea.org.br/lsst.html"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://lsdb.linea.org.br/es/lsst.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/lsdb/des_dr2.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/lsdb/des_dr2.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/lsdb/des_dr2.html"/>
     </url>
     <url>
-        <loc>https://lsdb.linea.org.br/pt/sdss.html</loc>
-        <lastmod>2025-08-26</lastmod>
+        <loc>https://data.linea.org.br/lsdb/des_y6_gold.html</loc>
+        <lastmod>2025-10-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://lsdb.linea.org.br/pt/sdss.html"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://lsdb.linea.org.br/sdss.html"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://lsdb.linea.org.br/es/sdss.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/lsdb/des_y6_gold.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/lsdb/des_y6_gold.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/lsdb/des_y6_gold.html"/>
     </url>
     <url>
-        <loc>https://lsdb.linea.org.br/pt/wise.html</loc>
-        <lastmod>2025-08-26</lastmod>
+        <loc>https://data.linea.org.br/lsdb/desi_dr1_zcat.html</loc>
+        <lastmod>2025-10-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://lsdb.linea.org.br/pt/wise.html"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://lsdb.linea.org.br/wise.html"/>
-        <xhtml:link rel="alternate" hreflang="es" href="https://lsdb.linea.org.br/es/wise.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/lsdb/desi_dr1_zcat.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/lsdb/desi_dr1_zcat.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/lsdb/desi_dr1_zcat.html"/>
     </url>
     <url>
-        <loc>https://lsdb.linea.org.br/es/rubin-data.html</loc>
-        <lastmod>2025-08-26</lastmod>
+        <loc>https://data.linea.org.br/lsdb/erosita_dr1_main.html</loc>
+        <lastmod>2025-10-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://lsdb.linea.org.br/es/rubin-data.html"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://lsdb.linea.org.br/rubin-data.html"/>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://lsdb.linea.org.br/pt/rubin-data.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/lsdb/erosita_dr1_main.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/lsdb/erosita_dr1_main.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/lsdb/erosita_dr1_main.html"/>
     </url>
     <url>
-        <loc>https://lsdb.linea.org.br/es/index.html</loc>
-        <lastmod>2025-08-26</lastmod>
+        <loc>https://data.linea.org.br/lsdb/euclid_q1.html</loc>
+        <lastmod>2025-10-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://lsdb.linea.org.br/es/index.html"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://lsdb.linea.org.br/index.html"/>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://lsdb.linea.org.br/pt/index.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/lsdb/euclid_q1.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/lsdb/euclid_q1.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/lsdb/euclid_q1.html"/>
     </url>
     <url>
-        <loc>https://lsdb.linea.org.br/es/2mass.html</loc>
-        <lastmod>2025-08-26</lastmod>
+        <loc>https://data.linea.org.br/lsdb/gaia_dr3.html</loc>
+        <lastmod>2025-10-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://lsdb.linea.org.br/es/2mass.html"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://lsdb.linea.org.br/2mass.html"/>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://lsdb.linea.org.br/pt/2mass.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/lsdb/gaia_dr3.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/lsdb/gaia_dr3.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/lsdb/gaia_dr3.html"/>
     </url>
     <url>
-        <loc>https://lsdb.linea.org.br/es/delve.html</loc>
-        <lastmod>2025-08-26</lastmod>
+        <loc>https://data.linea.org.br/sci_products/index.html</loc>
+        <lastmod>2025-10-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://lsdb.linea.org.br/es/delve.html"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://lsdb.linea.org.br/delve.html"/>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://lsdb.linea.org.br/pt/delve.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/sci_products/index.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/sci_products/index.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/sci_products/index.html"/>
     </url>
     <url>
-        <loc>https://lsdb.linea.org.br/es/des.html</loc>
-        <lastmod>2025-08-26</lastmod>
+        <loc>https://data.linea.org.br/sci_products/pzserver.html</loc>
+        <lastmod>2025-10-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://lsdb.linea.org.br/es/des.html"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://lsdb.linea.org.br/des.html"/>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://lsdb.linea.org.br/pt/des.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/sci_products/pzserver.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/sci_products/pzserver.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/sci_products/pzserver.html"/>
     </url>
     <url>
-        <loc>https://lsdb.linea.org.br/es/desi.html</loc>
-        <lastmod>2025-08-26</lastmod>
+        <loc>https://data.linea.org.br/sci_products/wazp.html</loc>
+        <lastmod>2025-10-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://lsdb.linea.org.br/es/desi.html"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://lsdb.linea.org.br/desi.html"/>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://lsdb.linea.org.br/pt/desi.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/sci_products/wazp.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/sci_products/wazp.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/sci_products/wazp.html"/>
     </url>
     <url>
-        <loc>https://lsdb.linea.org.br/es/gaia.html</loc>
-        <lastmod>2025-08-26</lastmod>
+        <loc>https://data.linea.org.br/en/rubin-data.html</loc>
+        <lastmod>2025-10-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://lsdb.linea.org.br/es/gaia.html"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://lsdb.linea.org.br/gaia.html"/>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://lsdb.linea.org.br/pt/gaia.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/rubin-data.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/rubin-data.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/rubin-data.html"/>
     </url>
     <url>
-        <loc>https://lsdb.linea.org.br/es/lsst.html</loc>
-        <lastmod>2025-08-26</lastmod>
+        <loc>https://data.linea.org.br/en/index.html</loc>
+        <lastmod>2025-10-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://lsdb.linea.org.br/es/lsst.html"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://lsdb.linea.org.br/lsst.html"/>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://lsdb.linea.org.br/pt/lsst.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/index.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/index.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/index.html"/>
     </url>
     <url>
-        <loc>https://lsdb.linea.org.br/es/sdss.html</loc>
-        <lastmod>2025-08-26</lastmod>
+        <loc>https://data.linea.org.br/en/database/index.html</loc>
+        <lastmod>2025-10-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://lsdb.linea.org.br/es/sdss.html"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://lsdb.linea.org.br/sdss.html"/>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://lsdb.linea.org.br/pt/sdss.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/database/index.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/database/index.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/database/index.html"/>
     </url>
     <url>
-        <loc>https://lsdb.linea.org.br/es/wise.html</loc>
-        <lastmod>2025-08-26</lastmod>
+        <loc>https://data.linea.org.br/en/database/des_dr2.html</loc>
+        <lastmod>2025-10-30</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="es" href="https://lsdb.linea.org.br/es/wise.html"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://lsdb.linea.org.br/wise.html"/>
-        <xhtml:link rel="alternate" hreflang="pt" href="https://lsdb.linea.org.br/pt/wise.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/database/des_dr2.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/database/des_dr2.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/database/des_dr2.html"/>
+    </url>
+    <url>
+        <loc>https://data.linea.org.br/en/database/des_y6_gold.html</loc>
+        <lastmod>2025-10-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/database/des_y6_gold.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/database/des_y6_gold.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/database/des_y6_gold.html"/>
+    </url>
+    <url>
+        <loc>https://data.linea.org.br/en/database/gaia_dr3.html</loc>
+        <lastmod>2025-10-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/database/gaia_dr3.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/database/gaia_dr3.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/database/gaia_dr3.html"/>
+    </url>
+    <url>
+        <loc>https://data.linea.org.br/en/database/lsst_dp0_2.html</loc>
+        <lastmod>2025-10-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/database/lsst_dp0_2.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/database/lsst_dp0_2.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/database/lsst_dp0_2.html"/>
+    </url>
+    <url>
+        <loc>https://data.linea.org.br/en/database/lsst_dp1.html</loc>
+        <lastmod>2025-10-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/database/lsst_dp1.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/database/lsst_dp1.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/database/lsst_dp1.html"/>
+    </url>
+    <url>
+        <loc>https://data.linea.org.br/en/database/two_mass_psc.html</loc>
+        <lastmod>2025-10-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/database/two_mass_psc.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/database/two_mass_psc.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/database/two_mass_psc.html"/>
+    </url>
+    <url>
+        <loc>https://data.linea.org.br/en/hpc/index.html</loc>
+        <lastmod>2025-10-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/hpc/index.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/hpc/index.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/hpc/index.html"/>
+    </url>
+    <url>
+        <loc>https://data.linea.org.br/en/hpc/des_dr2.html</loc>
+        <lastmod>2025-10-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/hpc/des_dr2.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/hpc/des_dr2.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/hpc/des_dr2.html"/>
+    </url>
+    <url>
+        <loc>https://data.linea.org.br/en/hpc/des_y6_gold.html</loc>
+        <lastmod>2025-10-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/hpc/des_y6_gold.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/hpc/des_y6_gold.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/hpc/des_y6_gold.html"/>
+    </url>
+    <url>
+        <loc>https://data.linea.org.br/en/hpc/lsst_dp0.2.html</loc>
+        <lastmod>2025-10-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/hpc/lsst_dp0.2.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/hpc/lsst_dp0.2.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/hpc/lsst_dp0.2.html"/>
+    </url>
+    <url>
+        <loc>https://data.linea.org.br/en/hpc/lsst_dp1.html</loc>
+        <lastmod>2025-10-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/hpc/lsst_dp1.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/hpc/lsst_dp1.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/hpc/lsst_dp1.html"/>
+    </url>
+    <url>
+        <loc>https://data.linea.org.br/en/lsdb/index.html</loc>
+        <lastmod>2025-10-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/lsdb/index.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/lsdb/index.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/lsdb/index.html"/>
+    </url>
+    <url>
+        <loc>https://data.linea.org.br/en/lsdb/2mass.html</loc>
+        <lastmod>2025-10-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/lsdb/2mass.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/lsdb/2mass.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/lsdb/2mass.html"/>
+    </url>
+    <url>
+        <loc>https://data.linea.org.br/en/lsdb/delve_dr2.html</loc>
+        <lastmod>2025-10-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/lsdb/delve_dr2.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/lsdb/delve_dr2.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/lsdb/delve_dr2.html"/>
+    </url>
+    <url>
+        <loc>https://data.linea.org.br/en/lsdb/des_dr2.html</loc>
+        <lastmod>2025-10-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/lsdb/des_dr2.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/lsdb/des_dr2.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/lsdb/des_dr2.html"/>
+    </url>
+    <url>
+        <loc>https://data.linea.org.br/en/lsdb/des_y6_gold.html</loc>
+        <lastmod>2025-10-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/lsdb/des_y6_gold.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/lsdb/des_y6_gold.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/lsdb/des_y6_gold.html"/>
+    </url>
+    <url>
+        <loc>https://data.linea.org.br/en/lsdb/desi_dr1_zcat.html</loc>
+        <lastmod>2025-10-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/lsdb/desi_dr1_zcat.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/lsdb/desi_dr1_zcat.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/lsdb/desi_dr1_zcat.html"/>
+    </url>
+    <url>
+        <loc>https://data.linea.org.br/en/lsdb/erosita_dr1_main.html</loc>
+        <lastmod>2025-10-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/lsdb/erosita_dr1_main.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/lsdb/erosita_dr1_main.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/lsdb/erosita_dr1_main.html"/>
+    </url>
+    <url>
+        <loc>https://data.linea.org.br/en/lsdb/euclid_q1.html</loc>
+        <lastmod>2025-10-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/lsdb/euclid_q1.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/lsdb/euclid_q1.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/lsdb/euclid_q1.html"/>
+    </url>
+    <url>
+        <loc>https://data.linea.org.br/en/lsdb/gaia_dr3.html</loc>
+        <lastmod>2025-10-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/lsdb/gaia_dr3.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/lsdb/gaia_dr3.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/lsdb/gaia_dr3.html"/>
+    </url>
+    <url>
+        <loc>https://data.linea.org.br/en/sci_products/index.html</loc>
+        <lastmod>2025-10-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/sci_products/index.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/sci_products/index.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/sci_products/index.html"/>
+    </url>
+    <url>
+        <loc>https://data.linea.org.br/en/sci_products/pzserver-dev.html</loc>
+        <lastmod>2025-10-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/sci_products/pzserver-dev.html"/>
+    </url>
+    <url>
+        <loc>https://data.linea.org.br/en/sci_products/pzserver.html</loc>
+        <lastmod>2025-10-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/sci_products/pzserver.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/sci_products/pzserver.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/sci_products/pzserver.html"/>
+    </url>
+    <url>
+        <loc>https://data.linea.org.br/en/sci_products/wazp.html</loc>
+        <lastmod>2025-10-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/sci_products/wazp.html"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/sci_products/wazp.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/sci_products/wazp.html"/>
+    </url>
+    <url>
+        <loc>https://data.linea.org.br/es/rubin-data.html</loc>
+        <lastmod>2025-10-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/rubin-data.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/rubin-data.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/rubin-data.html"/>
+    </url>
+    <url>
+        <loc>https://data.linea.org.br/es/index.html</loc>
+        <lastmod>2025-10-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/index.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/index.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/index.html"/>
+    </url>
+    <url>
+        <loc>https://data.linea.org.br/es/database/index.html</loc>
+        <lastmod>2025-10-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/database/index.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/database/index.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/database/index.html"/>
+    </url>
+    <url>
+        <loc>https://data.linea.org.br/es/database/des_dr2.html</loc>
+        <lastmod>2025-10-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/database/des_dr2.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/database/des_dr2.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/database/des_dr2.html"/>
+    </url>
+    <url>
+        <loc>https://data.linea.org.br/es/database/des_y6_gold.html</loc>
+        <lastmod>2025-10-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/database/des_y6_gold.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/database/des_y6_gold.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/database/des_y6_gold.html"/>
+    </url>
+    <url>
+        <loc>https://data.linea.org.br/es/database/gaia_dr3.html</loc>
+        <lastmod>2025-10-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/database/gaia_dr3.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/database/gaia_dr3.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/database/gaia_dr3.html"/>
+    </url>
+    <url>
+        <loc>https://data.linea.org.br/es/database/lsst_dp0_2.html</loc>
+        <lastmod>2025-10-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/database/lsst_dp0_2.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/database/lsst_dp0_2.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/database/lsst_dp0_2.html"/>
+    </url>
+    <url>
+        <loc>https://data.linea.org.br/es/database/lsst_dp1.html</loc>
+        <lastmod>2025-10-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/database/lsst_dp1.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/database/lsst_dp1.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/database/lsst_dp1.html"/>
+    </url>
+    <url>
+        <loc>https://data.linea.org.br/es/database/two_mass_psc.html</loc>
+        <lastmod>2025-10-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/database/two_mass_psc.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/database/two_mass_psc.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/database/two_mass_psc.html"/>
+    </url>
+    <url>
+        <loc>https://data.linea.org.br/es/hpc/index.html</loc>
+        <lastmod>2025-10-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/hpc/index.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/hpc/index.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/hpc/index.html"/>
+    </url>
+    <url>
+        <loc>https://data.linea.org.br/es/hpc/des_dr2.html</loc>
+        <lastmod>2025-10-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/hpc/des_dr2.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/hpc/des_dr2.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/hpc/des_dr2.html"/>
+    </url>
+    <url>
+        <loc>https://data.linea.org.br/es/hpc/des_y6_gold.html</loc>
+        <lastmod>2025-10-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/hpc/des_y6_gold.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/hpc/des_y6_gold.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/hpc/des_y6_gold.html"/>
+    </url>
+    <url>
+        <loc>https://data.linea.org.br/es/hpc/lsst_dp0.2.html</loc>
+        <lastmod>2025-10-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/hpc/lsst_dp0.2.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/hpc/lsst_dp0.2.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/hpc/lsst_dp0.2.html"/>
+    </url>
+    <url>
+        <loc>https://data.linea.org.br/es/hpc/lsst_dp1.html</loc>
+        <lastmod>2025-10-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/hpc/lsst_dp1.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/hpc/lsst_dp1.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/hpc/lsst_dp1.html"/>
+    </url>
+    <url>
+        <loc>https://data.linea.org.br/es/lsdb/index.html</loc>
+        <lastmod>2025-10-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/lsdb/index.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/lsdb/index.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/lsdb/index.html"/>
+    </url>
+    <url>
+        <loc>https://data.linea.org.br/es/lsdb/2mass.html</loc>
+        <lastmod>2025-10-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/lsdb/2mass.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/lsdb/2mass.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/lsdb/2mass.html"/>
+    </url>
+    <url>
+        <loc>https://data.linea.org.br/es/lsdb/delve_dr2.html</loc>
+        <lastmod>2025-10-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/lsdb/delve_dr2.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/lsdb/delve_dr2.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/lsdb/delve_dr2.html"/>
+    </url>
+    <url>
+        <loc>https://data.linea.org.br/es/lsdb/des_dr2.html</loc>
+        <lastmod>2025-10-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/lsdb/des_dr2.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/lsdb/des_dr2.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/lsdb/des_dr2.html"/>
+    </url>
+    <url>
+        <loc>https://data.linea.org.br/es/lsdb/des_y6_gold.html</loc>
+        <lastmod>2025-10-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/lsdb/des_y6_gold.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/lsdb/des_y6_gold.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/lsdb/des_y6_gold.html"/>
+    </url>
+    <url>
+        <loc>https://data.linea.org.br/es/lsdb/desi_dr1_zcat.html</loc>
+        <lastmod>2025-10-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/lsdb/desi_dr1_zcat.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/lsdb/desi_dr1_zcat.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/lsdb/desi_dr1_zcat.html"/>
+    </url>
+    <url>
+        <loc>https://data.linea.org.br/es/lsdb/erosita_dr1_main.html</loc>
+        <lastmod>2025-10-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/lsdb/erosita_dr1_main.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/lsdb/erosita_dr1_main.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/lsdb/erosita_dr1_main.html"/>
+    </url>
+    <url>
+        <loc>https://data.linea.org.br/es/lsdb/euclid_q1.html</loc>
+        <lastmod>2025-10-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/lsdb/euclid_q1.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/lsdb/euclid_q1.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/lsdb/euclid_q1.html"/>
+    </url>
+    <url>
+        <loc>https://data.linea.org.br/es/lsdb/gaia_dr3.html</loc>
+        <lastmod>2025-10-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/lsdb/gaia_dr3.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/lsdb/gaia_dr3.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/lsdb/gaia_dr3.html"/>
+    </url>
+    <url>
+        <loc>https://data.linea.org.br/es/sci_products/index.html</loc>
+        <lastmod>2025-10-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/sci_products/index.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/sci_products/index.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/sci_products/index.html"/>
+    </url>
+    <url>
+        <loc>https://data.linea.org.br/es/sci_products/pzserver.html</loc>
+        <lastmod>2025-10-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/sci_products/pzserver.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/sci_products/pzserver.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/sci_products/pzserver.html"/>
+    </url>
+    <url>
+        <loc>https://data.linea.org.br/es/sci_products/wazp.html</loc>
+        <lastmod>2025-10-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://data.linea.org.br/es/sci_products/wazp.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://data.linea.org.br/en/sci_products/wazp.html"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://data.linea.org.br/sci_products/wazp.html"/>
     </url>
 </urlset>
