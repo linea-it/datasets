@@ -1,7 +1,8 @@
 # Top-level nav for the default language (pt)
 nav:
   - Início: pt/index.md
-  - LSDB Surveys: 
+  - LSDB Surveys:
+      - LSDB Surveys: pt/lsdb/index.md
       - 2MASS: pt/lsdb/2mass.md
       - DELVE DR2: pt/lsdb/delve_dr2.md
       - DES: 
@@ -13,7 +14,7 @@ nav:
       - Euclid Q1: pt/lsdb/euclid_q1.md
       - Gaia: 
           - Gaia DR3: pt/lsdb/gaia_dr3.md
-  # - Banco de Dados: 
+  - Banco de Dados: pt/database/index.md
   #     - 2MASS PSC: pt/database/two_mass_psc.md
   #     - DES:
   #         - DES DR2: pt/database/des_dr2.md
@@ -22,16 +23,21 @@ nav:
   #     - LSST:
   #         - LSST DP0.2: pt/database/lsst_dp0_2.md 
   #         - LSST DP1: pt/database/lsst_dp1.md      
-  # - HPC: 
+  - HPC: pt/hpc/index.md 
   #     - DES:
   #         - DES DR2: pt/hpc/des_dr2.md
   #         - DES Y6 Gold: pt/hpc/des_y6_gold.md 
   #     - LSST:
   #         - LSST DP0.2: pt/hpc/lsst_dp0.2.md 
   #         - LSST DP1: pt/hpc/lsst_dp1.md
+  - Produtos científicos:
+      - Produtos científicos: pt/sci_products/index.md
+      - Photo-z Server: pt/sci_products/pzserver.md
+      - WaZP Cluster Catalogs: pt/sci_products/wazp.md
+
 
 # Site information
-site_name:  Datasets 
+site_name:  Data 
 site_author: LIneA Team 
 site_url: "https://data.linea.org.br"
 repo_name: linea-it/datasets
@@ -67,6 +73,11 @@ theme:
         name: Switch to light mode
       primary: '#283663'
       accent: '#00B1EB'
+  icon:
+    admonition:
+      private: material/lock
+      
+
 
 extra_css:
   - stylesheets/extra.css
@@ -133,6 +144,9 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.tilde
   - pymdownx.snippets
+  - pymdownx.blocks.admonition:
+      types:
+        - private
 
 # Plugins
 plugins:
@@ -143,14 +157,15 @@ plugins:
           name: Português
           build: true
           default: true
-          site_name: "Datasets"
+          site_name: "Data"
         - locale: en
           name: English
           build: true
-          site_name: "Datasets"
+          site_name: "Data"
           nav:
             - Home: en/index.md
-            - LSDB Surveys: 
+            - LSDB Surveys:
+                - LSDB Surveys: en/lsdb/index.md
                 - 2MASS: en/lsdb/2mass.md
                 - DELVE DR2: en/lsdb/delve_dr2.md
                 - DES: 
@@ -162,7 +177,7 @@ plugins:
                 - Euclid Q1: en/lsdb/euclid_q1.md
                 - Gaia: 
                     - Gaia DR3: en/lsdb/gaia_dr3.md
-            # - Databases: 
+            - Databases: en/database/index.md
             #     - 2MASS PSC: en/database/two_mass_psc.md
             #     - DES:
             #         - DES DR2: en/database/des_dr2.md
@@ -171,19 +186,24 @@ plugins:
             #     - LSST:
             #         - LSST DP0.2: en/database/lsst_dp0_2.md 
             #         - LSST DP1: en/database/lsst_dp1.md
-            # - HPC: 
+            - HPC: en/hpc/index.md
             #     - DES:
             #         - DES DR2: en/hpc/des_dr2.md
             #         - DES Y6 Gold: en/hpc/des_y6_gold.md 
             #     - LSST:
             #         - LSST DP0.2: en/hpc/lsst_dp0.2.md 
             #         - LSST DP1: en/hpc/lsst_dp1.md
+            - Scientific Products:
+                - Scientific Products: en/sci_products/index.md
+                - Photo-z Server: en/sci_products/pzserver.md
+                - WaZP Cluster Catalogs: en/sci_products/wazp.md
         - locale: es
           name: Español
           build: true
           nav:
             - Inicio: es/index.md
-            - LSDB Surveys: 
+            - LSDB Surveys:
+                - LSDB Surveys: es/lsdb/index.md
                 - 2MASS: es/lsdb/2mass.md
                 - DELVE DR2: es/lsdb/delve_dr2.md
                 - DES: 
@@ -195,7 +215,7 @@ plugins:
                 - Euclid Q1: es/lsdb/euclid_q1.md
                 - Gaia: 
                     - Gaia DR3: es/lsdb/gaia_dr3.md
-            # - Banco de Dados: 
+            - Banco de Dados: es/database/index.md
             #     - 2MASS PSC: es/database/two_mass_psc.md
             #     - DES:
             #         - DES DR2: es/database/des_dr2.md
@@ -204,13 +224,17 @@ plugins:
             #     - LSST:
             #         - LSST DP0.2: es/database/lsst_dp0_2.md 
             #         - LSST DP1: es/database/lsst_dp1.md
-            # - HPC: 
+            - HPC: es/hpc/index.md
             #     - DES:
             #         - DES DR2: es/hpc/des_dr2.md
             #         - DES Y6 Gold: es/hpc/des_y6_gold.md 
             #     - LSST:
             #         - LSST DP0.2: es/hpc/lsst_dp0.2.md 
             #         - LSST DP1: es/hpc/lsst_dp1.md
+            - Productos científicos:
+                - Productos científicos: es/sci_products/index.md
+                - Photo-z Server: es/sci_products/pzserver.md
+                - WaZP Cluster Catalogs: es/sci_products/wazp.md
   - search:
       enabled: true
   - git-revision-date-localized:

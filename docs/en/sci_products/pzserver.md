@@ -1,6 +1,15 @@
 # Photo-z Server Data 
 
-Back to [Photo-z Server documentation](../sci-platforms/pz_server.md) 
+!!! Warning "Warning"
+    Page under construction. Some content may be incomplete or out of date.
+
+The Photo-z Server (PZ Server) is a web-based platform developed by LIneA as part of Brazil’s in-kind contribution to the Rubin Observatory LSST project. 
+
+This page provides an overview of some datasets available on the Photo-z Server along with access instructions. For more details on the platform’s features and functionalities, please refer to the full [Photo-z Server documentation](https://docs.linea.org.br/en/sci-platforms/pz_server.html).
+
+!!! abstract "🔒 Restricted Access"
+    In accordance with the Rubin Observatory and IDAC-BR Data Policies, access to LSST data—including derived products hosted on the Photo-z Server—is restricted to authorized LSST Community members with valid RSP accounts.
+
 
 
 ## Datasets classification   
@@ -157,11 +166,8 @@ As mentioned in Section 3.4 and Appendix A.1 from the tech note [SITCOMTN-154](h
 
 ### Validation Results 
 
-Photo-z point estimates, QP Ensaembles, and evaluation metrics related to the results shown in Table 4. Files uploaded from directories listed in Table 7 and described in the Appendix A.4 from the tech note [SITCOMTN-154](https://sitcomtn-154.lsst.io/)4.
+Photo-z point estimates, QP Ensaembles, and evaluation metrics related to the results shown in Table 4. Files uploaded from directories listed in Table 7 and described in the Appendix A.4 from the tech note [SITCOMTN-154](https://sitcomtn-154.lsst.io/).
 
-
-!!! Danger "ATTENTION: dp1_optimize_4band files to be updated"  
-    TO DO: upload new files for the dp1_optimize_4band analysis as soon as TQ send the new paths.
 
 
 | Gold baseline                                                                                                                     | Gold DP1 optimize                                                                                                                         |                                                          Gold DP1 optimize 4band                                                         |
@@ -310,11 +316,3 @@ pz_server.get_product('<dataset_name>')
 
 
 
-
-
-
-
-
-
-Back to [Photo-z Server documentation](../sci-platforms/pz_server.md) 
- 
