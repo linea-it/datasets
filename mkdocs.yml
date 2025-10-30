@@ -32,7 +32,7 @@ nav:
   #         - LSST DP1: pt/hpc/lsst_dp1.md
   - Produtos científicos:
       - Produtos científicos: pt/sci_products/index.md
-      - Photo-z Server: pt/sci_products/photoz_server.md
+      - Photo-z Server: pt/sci_products/pzserver.md
       - WaZP Cluster Catalogs: pt/sci_products/wazp.md
 
 
@@ -195,7 +195,7 @@ plugins:
             #         - LSST DP1: en/hpc/lsst_dp1.md
             - Scientific Products:
                 - Scientific Products: en/sci_products/index.md
-                - Photo-z Server: en/sci_products/photoz_server.md
+                - Photo-z Server: en/sci_products/pzserver.md
                 - WaZP Cluster Catalogs: en/sci_products/wazp.md
         - locale: es
           name: Español
@@ -233,7 +233,7 @@ plugins:
             #         - LSST DP1: es/hpc/lsst_dp1.md
             - Productos científicos:
                 - Productos científicos: es/sci_products/index.md
-                - Photo-z Server: es/sci_products/photoz_server.md
+                - Photo-z Server: es/sci_products/pzserver.md
                 - WaZP Cluster Catalogs: es/sci_products/wazp.md
   - search:
       enabled: true
