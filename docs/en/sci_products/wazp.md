@@ -16,24 +16,24 @@ Optical clusters are cross-matched with SZE clusters from SPT and ACT. Nearly al
 ## Data Access
 
 
-- Cluster catalog: [y6a2_dnf_wazp_v5.0.12.6801_clusters.fits](https://datasets/wazp/y6a2_dnf_wazp_v5.0.12.6801_clusters.fits)
-- Cluster members: [y6a2_dnf_wazp_v5.0.12.6801_members.fits](https://datasets/wazp/y6a2_dnf_wazp_v5.0.12.6801_members.fits)
-- Footprint map: [y6a2_dnf_wazp_v5.0.12.6801_footprint.fits](https://datasets/wazp/y6a2_dnf_wazp_v5.0.12.6801_footprint.fits)
+- Cluster catalog: [y6a2_dnf_wazp_v5.0.12.6801_clusters.fits](https://datasets.linea.org.br/wazp/y6a2_dnf_wazp_v5.0.12.6801_clusters.fits)
+- Cluster members: [y6a2_dnf_wazp_v5.0.12.6801_members.fits](https://datasets.linea.org.br/wazp/y6a2_dnf_wazp_v5.0.12.6801_members.fits)
+- Footprint map: [y6a2_dnf_wazp_v5.0.12.6801_footprint.fits](https://datasets.linea.org.br/wazp/y6a2_dnf_wazp_v5.0.12.6801_footprint.fits)
 
 
 ### Download with wget
 
 ```bash
-$ wget -e robots=off -r -np -nH --cut-dirs=1 -c -R "index.html*" -l 0 https://datasets/wazp/y6a2_dnf_wazp_v5.0.12.6801_clusters.fits
+$ wget -e robots=off -r -np -nH --cut-dirs=1 -c -R "index.html*" -l 0 https://datasets.linea.org.br/wazp/y6a2_dnf_wazp_v5.0.12.6801_clusters.fits
 ```
 
 
 ```bash
-$ wget -e robots=off -r -np -nH --cut-dirs=1 -c -R "index.html*" -l 0 https://datasets/wazp/y6a2_dnf_wazp_v5.0.12.6801_members.fits
+$ wget -e robots=off -r -np -nH --cut-dirs=1 -c -R "index.html*" -l 0 https://datasets.linea.org.br/wazp/y6a2_dnf_wazp_v5.0.12.6801_members.fits
 ```
 
 ```bash
-$ wget -e robots=off -r -np -nH --cut-dirs=1 -c -R "index.html*" -l 0 https://datasets/wazp/y6a2_dnf_wazp_v5.0.12.6801_footprint.fitshttps://datasets/wazp/y6a2_dnf_wazp_v5.0.12.6801_footprint.fits
+$ wget -e robots=off -r -np -nH --cut-dirs=1 -c -R "index.html*" -l 0 https://datasets.linea.org.br/wazp/y6a2_dnf_wazp_v5.0.12.6801_footprint.fitshttps://datasets/wazp/y6a2_dnf_wazp_v5.0.12.6801_footprint.fits
 ```
 
 

@@ -12,22 +12,22 @@ Os aglomerados ópticos foram cruzados com amostras SZE dos telescópios SPT e A
 
 ## Acesso aos Dados
 
-- Catálogo de aglomerados: [y6a2_dnf_wazp_v5.0.12.6801_clusters.fits](https://datasets/wazp/y6a2_dnf_wazp_v5.0.12.6801_clusters.fits)
-- Membros dos aglomerados: [y6a2_dnf_wazp_v5.0.12.6801_members.fits](https://datasets/wazp/y6a2_dnf_wazp_v5.0.12.6801_members.fits)
-- Mapa da cobertura: [y6a2_dnf_wazp_v5.0.12.6801_footprint.fits](https://datasets/wazp/y6a2_dnf_wazp_v5.0.12.6801_footprint.fits)
+- Catálogo de aglomerados: [y6a2_dnf_wazp_v5.0.12.6801_clusters.fits](https://datasets.linea.org.br/wazp/y6a2_dnf_wazp_v5.0.12.6801_clusters.fits)
+- Membros dos aglomerados: [y6a2_dnf_wazp_v5.0.12.6801_members.fits](https://datasets.linea.org.br/wazp/y6a2_dnf_wazp_v5.0.12.6801_members.fits)
+- Mapa da cobertura: [y6a2_dnf_wazp_v5.0.12.6801_footprint.fits](https://datasdatasets.linea.org.brts/wazp/y6a2_dnf_wazp_v5.0.12.6801_footprint.fits)
 
 ### Download com wget
 
 ```bash
-$ wget -e robots=off -r -np -nH --cut-dirs=1 -c -R "index.html*" -l 0 https://datasets/wazp/y6a2_dnf_wazp_v5.0.12.6801_clusters.fits
+$ wget -e robots=off -r -np -nH --cut-dirs=1 -c -R "index.html*" -l 0 https://datasets.linea.org.br/wazp/y6a2_dnf_wazp_v5.0.12.6801_clusters.fits
 ```
 
 ```
-$ wget -e robots=off -r -np -nH --cut-dirs=1 -c -R "index.html*" -l 0 https://datasets/wazp/y6a2_dnf_wazp_v5.0.12.6801_members.fits
+$ wget -e robots=off -r -np -nH --cut-dirs=1 -c -R "index.html*" -l 0 https://datasets.linea.org.br/wazp/y6a2_dnf_wazp_v5.0.12.6801_members.fits
 ```
 
 ```bash
-$ wget -e robots=off -r -np -nH --cut-dirs=1 -c -R "index.html*" -l 0 https://datasets/wazp/y6a2_dnf_wazp_v5.0.12.6801_footprint.fits
+$ wget -e robots=off -r -np -nH --cut-dirs=1 -c -R "index.html*" -l 0 https://datasets.linea.org.br/wazp/y6a2_dnf_wazp_v5.0.12.6801_footprint.fits
 ```
 
 <div class="button-container"> <a href="https://des.ncsa.illinois.edu/releases/y6a2/Y6cluster-wazp" class="button-link">Descrição das Colunas</a> <a href="https://arxiv.org/abs/2507.05360t" class="button-link">Artigo Científico</a> </div> 

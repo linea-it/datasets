@@ -12,22 +12,22 @@ Los cúmulos ópticos se cruzaron con muestras SZE de los telescopios SPT y ACT.
 
 ## Acceso a Datos
 
-- Catálogo de cúmulos: [y6a2_dnf_wazp_v5.0.12.6801_clusters.fits](https://datasets/wazp/y6a2_dnf_wazp_v5.0.12.6801_clusters.fits)
-- Miembros de los cúmulos: [y6a2_dnf_wazp_v5.0.12.6801_members.fits](https://datasets/wazp/y6a2_dnf_wazp_v5.0.12.6801_members.fits)
-- Mapa de cobertura: [y6a2_dnf_wazp_v5.0.12.6801_footprint.fits](https://datasets/wazp/y6a2_dnf_wazp_v5.0.12.6801_footprint.fits)
+- Catálogo de cúmulos: [y6a2_dnf_wazp_v5.0.12.6801_clusters.fits](https://datasets.linea.org.br/wazp/y6a2_dnf_wazp_v5.0.12.6801_clusters.fits)
+- Miembros de los cúmulos: [y6a2_dnf_wazp_v5.0.12.6801_members.fits](https://datasets.linea.org.br/wazp/y6a2_dnf_wazp_v5.0.12.6801_members.fits)
+- Mapa de cobertura: [y6a2_dnf_wazp_v5.0.12.6801_footprint.fits](https://datasets.linea.org.br/wazp/y6a2_dnf_wazp_v5.0.12.6801_footprint.fits)
 
 ### Descargar con wget
 
 ```bash
-$ wget -e robots=off -r -np -nH --cut-dirs=1 -c -R "index.html*" -l 0 https://datasets/wazp/y6a2_dnf_wazp_v5.0.12.6801_clusters.fits
+$ wget -e robots=off -r -np -nH --cut-dirs=1 -c -R "index.html*" -l 0 https://datasets.linea.org.br/wazp/y6a2_dnf_wazp_v5.0.12.6801_clusters.fits
 ```
 
 ```
-$ wget -e robots=off -r -np -nH --cut-dirs=1 -c -R "index.html*" -l 0 https://datasets/wazp/y6a2_dnf_wazp_v5.0.12.6801_members.fits
+$ wget -e robots=off -r -np -nH --cut-dirs=1 -c -R "index.html*" -l 0 https://datasets.linea.org.br/wazp/y6a2_dnf_wazp_v5.0.12.6801_members.fits
 ```
 
 ```bash
-$ wget -e robots=off -r -np -nH --cut-dirs=1 -c -R "index.html*" -l 0 https://datasets/wazp/y6a2_dnf_wazp_v5.0.12.6801_footprint.fits
+$ wget -e robots=off -r -np -nH --cut-dirs=1 -c -R "index.html*" -l 0 https://datasets.linea.org.br/wazp/y6a2_dnf_wazp_v5.0.12.6801_footprint.fits
 ```
 
 <div class="button-container"> <a href="https://des.ncsa.illinois.edu/releases/y6a2/Y6cluster-wazp" class="button-link">Descripción de Columnas</a> <a href="https://arxiv.org/abs/2507.05360t" class="button-link">Artículo Científico</a> </div>
