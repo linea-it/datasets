@@ -1,7 +1,8 @@
 # Top-level nav for the default language (pt)
 nav:
   - Início: pt/index.md
-  - LSDB Surveys: 
+  - LSDB Surveys:
+      - LSDB Surveys: pt/lsdb/index.md
       - 2MASS: pt/lsdb/2mass.md
       - DELVE DR2: pt/lsdb/delve_dr2.md
       - DES: 
@@ -151,14 +152,15 @@ plugins:
           name: Português
           build: true
           default: true
-          site_name: "Datasets"
+          site_name: "Data"
         - locale: en
           name: English
           build: true
-          site_name: "Datasets"
+          site_name: "Data"
           nav:
             - Home: en/index.md
-            - LSDB Surveys: 
+            - LSDB Surveys:
+                - LSDB Surveys: en/lsdb/index.md
                 - 2MASS: en/lsdb/2mass.md
                 - DELVE DR2: en/lsdb/delve_dr2.md
                 - DES: 
@@ -191,7 +193,8 @@ plugins:
           build: true
           nav:
             - Inicio: es/index.md
-            - LSDB Surveys: 
+            - LSDB Surveys:
+                - LSDB Surveys: es/lsdb/index.md
                 - 2MASS: es/lsdb/2mass.md
                 - DELVE DR2: es/lsdb/delve_dr2.md
                 - DES: 
