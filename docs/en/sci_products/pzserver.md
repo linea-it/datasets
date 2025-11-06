@@ -1,15 +1,15 @@
 # Photo-z Server Data 
 
 !!! Warning "Warning"
-    Page under construction. Some content may be incomplete or out of date.
+    Page under construction. Some content may be incomplete.
 
 The Photo-z Server (PZ Server) is a web-based platform developed by LIneA as part of Brazil’s in-kind contribution to the Rubin Observatory LSST project. 
 
-This page provides an overview of some datasets available on the Photo-z Server along with access instructions. For more details on the platform’s features and functionalities, please refer to the full [Photo-z Server documentation](https://docs.linea.org.br/en/sci-platforms/pz_server.html).
+The Photo-z Server administrators maintain and periodically update a curated list of data resources to support the LSST Community with photo-z-related data products. This page provides an overview of some datasets available on the Photo-z Server along with access instructions. For more details on the platform’s features and functionalities, please refer to the full [**Photo-z Server User Documentation**](https://docs.linea.org.br/en/sci-platforms/pz_server.html).
 
-!!! abstract "🔒 Restricted Access"
-    In accordance with the Rubin Observatory and IDAC-BR Data Policies, access to LSST data—including derived products hosted on the Photo-z Server—is restricted to authorized LSST Community members with valid RSP accounts.
 
+!!! abstract "  🔒 Restricted Access"
+    In accordance with the Rubin Observatory and IDAC-BR Data Policies, access to LSST data — including derived products hosted on the Photo-z Server — is restricted to authorized LSST Community members with valid RSP accounts.
 
 
 ## Datasets classification   
@@ -37,7 +37,7 @@ Besides data uploaded by users, the [User-generated Data Products](https://pzser
 
 
 
-The datasets described in the tech note are available in the [Photo-z Server](https://pzserver-dev.linea.org.br) as data products with `SITCOMTN-154` suffix. Their links and short description are organized in product types below. 
+The datasets described in the tech note are available in the [Photo-z Server](https://pzserver.linea.org.br) as data products with `SITCOMTN-154` suffix. Their links and short description are organized in product types below. 
 
 
 ### Object Catalogs 
@@ -53,12 +53,12 @@ Data products containing object tables described in Section 2.1 and listed in Ta
 |[SV_38 gold_4_band SITCOMTN-154](https://pzserver.linea.org.br/product/79_sv_38_gold_4_band_sitcomtn154)| SV_38|gold_4_band|169,034| 
 
  
-All DP1 fields comprehensive Gold dataset beyond the fields ECDFS+EDFS+SV_95 and SV_38, where spectroscopic data are available (dataset not listed in Table 1 from the tech note [SITCOMTN-154](https://sitcomtn-154.lsst.io/)):   
+All DP1 fields comprehensive Gold dataset beyond the fields ECDFS+EDFS+SV_95 and SV_38, where spectroscopic data are available (dataset **not** listed in Table 1 from the tech note [SITCOMTN-154](https://sitcomtn-154.lsst.io/)):   
 
 
 | Data Product                 | Data set        | Selection   | Number of objects | 
 |------------------------------|-----------------|-------------|-------------------|
-|[DP1 Gold all SITCOMTN-154](https://pzserver.linea.org.br/product/80_dp1_gold_all_sitcomtn154)| All fields | gold | 686,334|
+|[DP1 Gold all](https://pzserver.linea.org.br/product/80_dp1_gold_all_sitcomtn154)| All fields | gold | 686,334|
    
 
 
