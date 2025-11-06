@@ -8,7 +8,7 @@ The Photo-z Server (PZ Server) is a web-based platform developed by LIneA as par
 The Photo-z Server administrators maintain and periodically update a curated list of data resources to support the LSST Community with photo-z-related data products. This page provides an overview of some datasets available on the Photo-z Server along with access instructions. For more details on the platform’s features and functionalities, please refer to the full [**Photo-z Server User Documentation**](https://docs.linea.org.br/en/sci-platforms/pz_server.html).
 
 
-!!! abstract "  🔒 Restricted Access"
+!!! info "Restricted Access"
     In accordance with the Rubin Observatory and IDAC-BR Data Policies, access to LSST data — including derived products hosted on the Photo-z Server — is restricted to authorized LSST Community members with valid RSP accounts.
 
 
