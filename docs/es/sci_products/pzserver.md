@@ -16,7 +16,7 @@ Los administradores del Photo-z Server mantienen y actualizan periódicamente un
 
 <font size=4> Conjuntos de Datos Oficiales </font><br>
 
-Los conjuntos de datos oficiales serán producidos por el equipo de Gestión de Datos de Rubin y estarán disponibles para la Comunidad LSST a través del Photo-z Server. Estos conjuntos de datos incluirán catálogos de corrimiento al rojo de referencia, conjuntos de entrenamiento y estimaciones de photo-z asociadas a las publicaciones de datos de LSST. Los conjuntos de datos se publicarán de manera escalonada, comenzando con la primera publicación de datos (DR1) y continuando con publicaciones posteriores a medida que avance el estudio LSST.
+Los conjuntos de datos oficiales serán producidos por el equipo de Gestión de Datos de Rubin y estarán disponibles para la Comunidad LSST a través del Photo-z Server. Estos conjuntos de datos incluirán catálogos de redshifts de referencia, conjuntos de entrenamiento y estimaciones de photo-z asociadas a las publicaciones de datos de LSST. Los conjuntos de datos se publicarán de manera escalonada, comenzando con la primera publicación de datos (DR1) y continuando con publicaciones posteriores a medida que avance el estudio LSST.
 
 Por ahora, la página de [Productos de Datos Oficiales del Observatorio Rubin](https://pzserver.linea.org.br/oficial_products) está vacía.
 
@@ -64,9 +64,9 @@ Conjunto de datos Gold completo de todos los campos DP1 más allá de los campos
 
 
 
-### Catálogos de Corrimiento al Rojo de Referencia 
+### Catálogos de Redshifts de Referencia 
 
-#### Catálogos de Corrimiento al Rojo de Referencia de Estudios Individuales 
+#### Catálogos de Redshifts de Referencia de Estudios Individuales 
 
 Productos de datos que contienen catálogos de corrimientos al rojo de referencia (antes del cruce con la tabla de Objetos DP1) separados por el estudio de origen, según se lista en la Tabla 2 de la nota técnica [SITCOMTN-154](https://sitcomtn-154.lsst.io/).
 
@@ -99,11 +99,11 @@ Datos espectroscópicos adicionales del DESI DR1 fueron utilizados como un conju
 
 | Producto de Datos | Referencia       | Número de Corrimientos al Rojo | 
 |-------------------|------------------|--------------------------------|
-| [DESI DR1 dentro del área de cobertura DP1](https://pzserver.linea.org.br/product/34_desi_dr1_inside_dp1)| [DESI Collaboration et al. (2025)](https://arxiv.org/abs/2503.14745) |50.634 |
+| [DESI DR1 inside DP1](https://pzserver.linea.org.br/product/34_desi_dr1_inside_dp1)| [DESI Collaboration et al. (2025)](https://arxiv.org/abs/2503.14745) |50.634 |
 
 
 
-#### Catálogo de Corrimiento al Rojo Combinado
+#### Catálogo de Redshifts Combinado
 
 Un único archivo que contiene todos los corrimientos al rojo de referencia combinados de los estudios individuales listados arriba (excluyendo DESI), según se describe en la Sección 2.2.1 de la nota técnica [SITCOMTN-154](https://sitcomtn-154.lsst.io/).
 
@@ -121,7 +121,7 @@ Un único archivo que contiene todos los corrimientos al rojo de referencia comb
 
 ### Conjuntos de Entrenamiento y Prueba 
 
-En el Photo-z Server, el tipo de producto "Training Set" abarca todas las muestras resultantes del cruce entre un corrimiento al rojo de referencia y un catálogo de objetos. Esto puede incluir conjuntos de entrenamiento y prueba juntos en un mismo archivo o submuestras independientes cargadas por separado. Para este último caso, tanto los conjuntos de entrenamiento como los de prueba están etiquetados como "Training Set".
+En el Photo-z Server, el tipo de producto "Training Set" abarca todas las muestras resultantes del cruce entre una amostra de redshifts de referencia y un catálogo de objetos. Esto puede incluir conjuntos de entrenamiento y prueba juntos en un mismo archivo o submuestras independientes cargadas por separado. Para este último caso, tanto los conjuntos de entrenamiento como los de prueba están etiquetados como "Training Set".
 
 
 Productos de datos que contienen conjuntos de entrenamiento y prueba generados a partir del catálogo ComCam ECDFS z listados en la Tabla 1 de la nota técnica [SITCOMTN-154](https://sitcomtn-154.lsst.io/) son:
@@ -215,7 +215,7 @@ Tablas de PZ producidas como parte de los estudios iniciales con datos de comisi
 Datos públicos recopilados de la literatura y alojados en el Photo-z Server.
 
 
-### Catálogos de Corrimiento al Rojo de Referencia 
+### Catálogos de Redshifts de Referencia 
 
 #### Estudios Individuales
 
@@ -296,7 +296,7 @@ pz_server.get_product('<dataset_name>')
 
 ### Conjuntos de Entrenamiento   
 
-El resultado del cruce espacial entre las compilaciones de corrimiento al rojo y los datos fotométricos de LSST.   
+El resultado del cruce espacial entre las compilaciones de redshifts y los datos fotométricos de LSST.   
 
 | Producto de Datos | Fecha de Lanzamiento | # de Galaxias | Estado | 
 |-------------------|----------------------|---------------|---     |

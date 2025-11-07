@@ -99,7 +99,7 @@ Dados espectroscópicos adicionais do DESI DR1 foram usados como um conjunto de 
 
 | Produto de Dados | Referência       | Número de Redshifts | 
 |------------------|------------------|----------------------|
-| [DESI DR1 dentro da área de cobertura DP1](https://pzserver.linea.org.br/product/34_desi_dr1_inside_dp1)| [DESI Collaboration et al. (2025)](https://arxiv.org/abs/2503.14745) |50.634 |
+| [DESI DR1 inside DP1](https://pzserver.linea.org.br/product/34_desi_dr1_inside_dp1)| [DESI Collaboration et al. (2025)](https://arxiv.org/abs/2503.14745) |50.634 |
 
 
 
