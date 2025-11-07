@@ -1,15 +1,15 @@
 # Photo-z Server Data 
 
 !!! Warning "Warning"
-    Page under construction. Some content may be incomplete or out of date.
+    Page under construction. Some content may be incomplete.
 
 The Photo-z Server (PZ Server) is a web-based platform developed by LIneA as part of Brazil’s in-kind contribution to the Rubin Observatory LSST project. 
 
-This page provides an overview of some datasets available on the Photo-z Server along with access instructions. For more details on the platform’s features and functionalities, please refer to the full [Photo-z Server documentation](https://docs.linea.org.br/en/sci-platforms/pz_server.html).
+The Photo-z Server administrators maintain and periodically update a curated list of data resources to support the LSST Community with photo-z-related data products. This page provides an overview of some datasets available on the Photo-z Server along with access instructions. For more details on the platform’s features and functionalities, please refer to the full [**Photo-z Server User Documentation**](https://docs.linea.org.br/en/sci-platforms/pz_server.html).
 
-!!! abstract "🔒 Restricted Access"
-    In accordance with the Rubin Observatory and IDAC-BR Data Policies, access to LSST data—including derived products hosted on the Photo-z Server—is restricted to authorized LSST Community members with valid RSP accounts.
 
+!!! info "Restricted Access"
+    In accordance with the Rubin Observatory and IDAC-BR Data Policies, access to LSST data — including derived products hosted on the Photo-z Server — is restricted to authorized LSST Community members with valid RSP accounts.
 
 
 ## Datasets classification   
@@ -37,7 +37,7 @@ Besides data uploaded by users, the [User-generated Data Products](https://pzser
 
 
 
-The datasets described in the tech note are available in the [Photo-z Server](https://pzserver-dev.linea.org.br) as data products with `SITCOMTN-154` suffix. Their links and short description are organized in product types below. 
+The datasets described in the tech note are available in the [Photo-z Server](https://pzserver.linea.org.br) as data products with `SITCOMTN-154` suffix. Their links and short description are organized in product types below. 
 
 
 ### Object Catalogs 
@@ -53,12 +53,12 @@ Data products containing object tables described in Section 2.1 and listed in Ta
 |[SV_38 gold_4_band SITCOMTN-154](https://pzserver.linea.org.br/product/79_sv_38_gold_4_band_sitcomtn154)| SV_38|gold_4_band|169,034| 
 
  
-All DP1 fields comprehensive Gold dataset beyond the fields ECDFS+EDFS+SV_95 and SV_38, where spectroscopic data are available (dataset not listed in Table 1 from the tech note [SITCOMTN-154](https://sitcomtn-154.lsst.io/)):   
+All DP1 fields comprehensive Gold dataset beyond the fields ECDFS+EDFS+SV_95 and SV_38, where spectroscopic data are available (dataset **not** listed in Table 1 from the tech note [SITCOMTN-154](https://sitcomtn-154.lsst.io/)):   
 
 
 | Data Product                 | Data set        | Selection   | Number of objects | 
 |------------------------------|-----------------|-------------|-------------------|
-|[DP1 Gold all SITCOMTN-154](https://pzserver.linea.org.br/product/80_dp1_gold_all_sitcomtn154)| All fields | gold | 686,334|
+|[DP1 Gold all](https://pzserver.linea.org.br/product/80_dp1_gold_all_sitcomtn154)| All fields | gold | 686,334|
    
 
 
@@ -155,10 +155,6 @@ Estimator data models listed in Table 7 and described in the Appendix A.3 from t
 
 
 
-
-
-
-
 <font size=4> Configuration Files </font><br>
  
 As mentioned in Section 3.4 and Appendix A.1 from the tech note [SITCOMTN-154](https://sitcomtn-154.lsst.io/), the configuration files [dp1.yaml](https://github.com/LSSTDESC/rail_project_config/blob/main/dp1/dp1.yaml) (complete set of configurations tested, labeled as analysis _flavors_) and [dp1_v4.yaml](https://github.com/LSSTDESC/rail_project_config/blob/main/dp1/dp1_v4.yaml) (optimized configuration parameters) are available on the GitHub repository [`rail_project_config`](https://github.com/LSSTDESC/rail_project_config).
@@ -170,39 +166,44 @@ Photo-z point estimates, QP Ensaembles, and evaluation metrics related to the re
 
 
 
-| Gold baseline                                                                                                                     | Gold DP1 optimize                                                                                                                         |                                                          Gold DP1 optimize 4band                                                         |
-| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------: |
-| [BPZ test gold baseline SITCOMTN-154](https://pzserver.linea.org.br/product/113_bpz_test_gold_baseline_sitcomtn154)               | [BPZ test gold DP1 optimize SITCOMTN-154](https://pzserver.linea.org.br/product/120_bpz_test_gold_dp1_optimize_sitcomtn154)               |        [BPZ test gold dp1_optimize_4band](https://pzserver.linea.org.br/product/147_bpz_test_gold_dp1_optimize_4band_sitcomtn154)        |
-| [CMNN test gold baseline SITCOMTN-154](https://pzserver.linea.org.br/product/114_cmnn_test_gold_baseline_sitcomtn154)             | [CMNN test gold DP1 optimize SITCOMTN-154](https://pzserver.linea.org.br/product/121_cmnn_test_gold_dp1_optimize_sitcomtn154)             |       [CMNN test gold dp1_optimize_4band](https://pzserver.linea.org.br/product/148_cmnn_test_gold_dp1_optimize_4band_sitcomtn154)       |
-| [DNF test gold baseline SITCOMTN-154](https://pzserver.linea.org.br/product/115_dnf_test_gold_baseline_sitcomtn154)               | [DNF test gold DP1 optimize SITCOMTN-154](https://pzserver.linea.org.br/product/122_dnf_test_gold_dp1_optimize_sitcomtn154)               |        [DNF test gold dp1_optimize_4band](https://pzserver.linea.org.br/product/149_dnf_test_gold_dp1_optimize_4band_sitcomtn154)        |
-| [FlexZBoost test gold baseline SITCOMTN-154](https://pzserver.linea.org.br/product/116_flexzboost_test_gold_baseline_sitcomtn154) | [FlexZBoost test gold DP1 optimize SITCOMTN-154](https://pzserver.linea.org.br/product/123_flexzboost_test_gold_dp1_optimize_sitcomtn154) | [FlexZBoost test gold dp1_optimize_4band](https://pzserver.linea.org.br/product/150_flexzboost_test_gold_dp1_optimize_4band_sitcomtn154) |
-| [GPz test gold baseline SITCOMTN-154](https://pzserver.linea.org.br/product/117_gpz_test_gold_baseline_sitcomtn154)               | [GPz test gold DP1 optimize SITCOMTN-154](https://pzserver.linea.org.br/product/124_gpz_test_gold_dp1_optimize_sitcomtn154)               |        [GPz test gold dp1_optimize_4band](https://pzserver.linea.org.br/product/151_gpz_test_gold_dp1_optimize_4band_sitcomtn154)        |
-| [kNN test gold baseline SITCOMTN-154](https://pzserver.linea.org.br/product/118_knn_test_gold_baseline_sitcomtn154)               | [kNN test gold DP1 optimize SITCOMTN-154](https://pzserver.linea.org.br/product/125_knn_test_gold_dp1_optimize_sitcomtn154)               |        [kNN test gold dp1_optimize_4band](https://pzserver.linea.org.br/product/152_knn_test_gold_dp1_optimize_4band_sitcomtn154)        |
-| N/A                                                                                                                               | [LePhare test gold DP1 optimize SITCOMTN-154](https://pzserver.linea.org.br/product/126_lephare_test_gold_dp1_optimize_sitcomtn154)       |    [LePhare test gold dp1_optimize_4band](https://pzserver.linea.org.br/product/153_lephare_test_gold_dp1_optimize_4band_sitcomtn154)    |
-| [TPZ test gold baseline SITCOMTN-154](https://pzserver.linea.org.br/product/119_tpz_test_gold_baseline_sitcomtn154)               | [TPZ test gold DP1 optimize SITCOMTN-154](https://pzserver.linea.org.br/product/127_tpz_test_gold_dp1_optimize_sitcomtn154)               |        [TPZ test gold dp1_optimize_4band](https://pzserver.linea.org.br/product/154_tpz_test_gold_dp1_optimize_4band_sitcomtn154)        |
+
+| Gold baseline | Gold DP1 optimize | Gold DP1 optimize  4band | 
+|---|---|:-:| 
+| [BPZ test gold baseline SITCOMTN-154](https://pzserver.linea.org.br/product/113_bpz_test_gold_baseline_sitcomtn154)               | [BPZ test gold DP1 optimize SITCOMTN-154](https://pzserver.linea.org.br/product/120_bpz_test_gold_dp1_optimize_sitcomtn154)               | :material-hammer-wrench: |
+| [CMNN test gold baseline SITCOMTN-154](https://pzserver.linea.org.br/product/114_cmnn_test_gold_baseline_sitcomtn154)             | [CMNN test gold DP1 optimize SITCOMTN-154](https://pzserver.linea.org.br/product/121_cmnn_test_gold_dp1_optimize_sitcomtn154)             | :material-hammer-wrench: |
+| [DNF test gold baseline SITCOMTN-154](https://pzserver.linea.org.br/product/115_dnf_test_gold_baseline_sitcomtn154)               | [DNF test gold DP1 optimize SITCOMTN-154](https://pzserver.linea.org.br/product/122_dnf_test_gold_dp1_optimize_sitcomtn154)               | :material-hammer-wrench: |
+| [FlexZBoost test gold baseline SITCOMTN-154](https://pzserver.linea.org.br/product/116_flexzboost_test_gold_baseline_sitcomtn154) | [FlexZBoost test gold DP1 optimize SITCOMTN-154](https://pzserver.linea.org.br/product/123_flexzboost_test_gold_dp1_optimize_sitcomtn154) | :material-hammer-wrench: |
+| [GPz test gold baseline SITCOMTN-154](https://pzserver.linea.org.br/product/117_gpz_test_gold_baseline_sitcomtn154)               | [GPz test gold DP1 optimize SITCOMTN-154](https://pzserver.linea.org.br/product/124_gpz_test_gold_dp1_optimize_sitcomtn154)               | :material-hammer-wrench: |
+| [kNN test gold baseline SITCOMTN-154](https://pzserver.linea.org.br/product/118_knn_test_gold_baseline_sitcomtn154)               | [kNN test gold DP1 optimize SITCOMTN-154](https://pzserver.linea.org.br/product/125_knn_test_gold_dp1_optimize_sitcomtn154)               | :material-hammer-wrench: |
+| N/A   | [LePhare test gold DP1 optimize SITCOMTN-154](https://pzserver.linea.org.br/product/126_lephare_test_gold_dp1_optimize_sitcomtn154)       | :material-hammer-wrench: |
+| [TPZ test gold baseline SITCOMTN-154](https://pzserver.linea.org.br/product/119_tpz_test_gold_baseline_sitcomtn154)               | [TPZ test gold DP1 optimize SITCOMTN-154](https://pzserver.linea.org.br/product/127_tpz_test_gold_dp1_optimize_sitcomtn154)               | :material-hammer-wrench: |
+
+
+**Legend**<br>
+:material-hammer-wrench: In preparation
+
+
 
 
 ### Photo-z Estimates 
 
 #### Photo-z Tables 
 
-PZ tables produced as part of the initial studies with commissioning data described in [SITCOMTN-154](https://sitcomtn-154.lsst.io/). Data uploaded from the directories listed in Table 7. For more datasets from the tech note, visit https://docs.linea.org.br/en/data/pz_server_data.html
+PZ tables produced as part of the initial studies with commissioning data described in [SITCOMTN-154](https://sitcomtn-154.lsst.io/). Data uploaded from the directories listed in Table 7. 
+
 
 | Data Product  | Number of objects |
 |---------------|-------------------|
 | [PZ table dp1_all gold baseline SITCOMTN-154](https://pzserver.linea.org.br/product/128_pz_table_dp1_all_gold_baseline_sitcomtn154) | 686,334  | 
-| PZ table dp1_all gold dp1_optimize | 375,610 | 
-| PZ table dp1_all gold dp1_optimize 4band | ⏳ | 
 | [PZ table dp1_sv38 gold baseline SITCOMTN-154](https://pzserver.linea.org.br/product/129_pz_table_dp1_sv38_gold_baseline_sitcomtn154) | 169,034  | 
-| PZ table dp1_sv_38 gold dp1_optimize | ⏳ | 
-| PZ table dp1_sv_38 gold dp1_optimize 4band | ⏳ | 
-
-⏳ = in progress, please check back later. 
-
-
-| Data Product  | Number of objects |
-|---------------|-------------------|
 [PZ table DESI gold baseline](https://pzserver.linea.org.br/product/130_pz_table_desi_gold_baseline_sitcomtn154) | 2728  |
+| PZ table dp1_all gold dp1_optimize | :material-hammer-wrench: <!--375,610-->  | 
+| PZ table dp1_sv_38 gold dp1_optimize | :material-hammer-wrench:  | 
+| PZ table dp1_all gold dp1_optimize 4band | :material-hammer-wrench:  | 
+| PZ table dp1_sv_38 gold dp1_optimize 4band | :material-hammer-wrench:  | 
+
+**Legend**<br>
+:material-hammer-wrench: In preparation
 
 
 
@@ -213,103 +214,107 @@ PZ tables produced as part of the initial studies with commissioning data descri
 
 Public data collected from the literature and hosted on the Photo-z Server.
 
-!!! warning "ATTENTION: External Datasets"  
-    ⏳ Documentation about external datasets is incomplete, still in preparation.
-
-
-
-
 
 ### Reference Redshift Catalogs 
 
 #### Individual Surveys
 
-The PZ Server hosts several public spectroscopic redshift catalogs from different surveys that can be used as reference datasets for training and validation of photo-z estimates. The data products listed below are the original catalogs, not filtered to the ECDFS field nor cleaned with the selection criteria described in Section 2.2.1 from the tech note [SITCOMTN-154](https://sitcomtn-154.lsst.io/).
+The PZ Server hosts several public spectroscopic redshift catalogs from different surveys that can be used as reference datasets for training and validation of photo-z estimates. The data products listed below are the original catalogs, without any filter or data selection. 
+
+| Data Product | Reference | Number of Redshifts | Status |
+|--------------|-----------|---------------------|---| 
+| 2dFGRS Final Data Release | [Colless et al. (2001)](https://ui.adsabs.harvard.edu/abs/2001MNRAS.328.1039C) | 245,591 | :material-hammer-wrench:  | 
+| 2dFLens | [Blake et al. (2016)](https://ui.adsabs.harvard.edu/abs/2016MNRAS.462.4240B) | 70,079 | :material-hammer-wrench:  | 
+| 2MRS v240 | [Huchra et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012ApJS..199...26H) | 240,496 | :material-hammer-wrench:  | 
+| 3D-HST v415 | [Momcheva et al. (2016)](https://ui.adsabs.harvard.edu/abs/2016ApJS..225...27M) | 207,967 |:material-hammer-wrench:  | 
+| 6dFGS DR3| [Jones et al. (2009)](https://ui.adsabs.harvard.edu/abs/2009MNRAS.399..683J) | 136,304 | :material-hammer-wrench:  | 
+| ACES | - | - | :material-clock-outline: | 
+| ATLAS | - | - | :material-clock-outline: | 
+| ASTRODEEP | - | - | :material-clock-outline: | 
+| ASTRODEEP-JWST | - | - | :material-clock-outline: | 
+| C3R2 DR3 | - | - | :material-clock-outline: | 
+| CANUCS SMACS | - | - | :material-clock-outline: | 
+| CDB | - | - | :material-clock-outline: | 
+| CLASH-VLT FR | - | - | :material-clock-outline: | 
+| COSMOS 2025 | - | - | :material-clock-outline: | 
+| DEEP2 DR4 | - | - | :material-clock-outline: | 
+| DEIMOS 10K | - | - | :material-clock-outline: | 
+| DESI EDR | [DESI Collaboration et al. (2025)](https://arxiv.org/abs/2503.14745) | 2,451,325 |  :material-hammer-wrench:  | 
+| DESI DR1 (Inside DP1) | [DESI Collaboration et al. (2025)](https://arxiv.org/abs/2503.14745) | 50,634 | :material-hammer-wrench:  | 
+| Euclid Q1 SPE | - | - | :material-clock-outline: |
+| FMOS-COSMOS | - | - | :material-clock-outline: |
+| AMA DR4 | - | - | :material-clock-outline: |
+| GLASS | - | - | :material-clock-outline: |
+| HectoMAP DR2 | - | - | :material-clock-outline: |
+| HETDEX DR1 | - | - | :material-clock-outline: |
+| JADES DR3 | [D’Eugenio et al. (2025)](https://ui.adsabs.harvard.edu/abs/2025ApJS..277....4D) | 8,172 |:material-hammer-wrench:  | 
+| LEGA-C DR3 |  - | - | :material-clock-outline: |
+| MOSDEF (MOSFIRE) FR |  - | - | :material-clock-outline: |
+| MUSE DR1 | - | - | :material-clock-outline: |
+| OzDES DR2 | [Lidman et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020MNRAS.496...19L) | 38,624 |:material-hammer-wrench:  | 
+| PRIMUS DR1| [Cool et al. (2013)](https://ui.adsabs.harvard.edu/abs/2013ApJ...767..118C) | 213,696 |:material-hammer-wrench:  | 
+| SAGA DR2 | - |  | :material-clock-outline: |
+| SDSS DR17 | - |  | :material-clock-outline: |
+| SpARCS | - |  | :material-clock-outline: |
+| SPT-GMOS | - |  | :material-clock-outline: |
+| UDS | - |  | :material-clock-outline: |
+| VANDELS DR4 | [Garilli et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021A&A...647A.150G) | 2,165 |:material-hammer-wrench:  | 
+| VIPERS | - | -  | :material-clock-outline: |
+| VLT-VIMOS v201 | [Balestra et al. (2010)](https://ui.adsabs.harvard.edu/abs/2010A&A...512A..12B) | 5,052 |:material-hammer-wrench:  | 
+| VUDS |  - | -  | :material-clock-outline: |
+| VVDS Final Data Release | [Le Fèvre et al. (2005)](https://ui.adsabs.harvard.edu/abs/2005A&A...439..845L) | 40,944 |:material-hammer-wrench:  | 
+| WiggleZ | - | -  | :material-clock-outline: | 
+| zCOSMOS 20k/10k | - | -  | :material-clock-outline: | 
+| ZFIRE | - | -  | :material-clock-outline: | 
 
 
-The links and short description of these datasets are organized in the table below.  
+**Legend**<br>
+:material-clock-outline: Planned &emsp; :material-hammer-wrench: In preparation &emsp; :material-check: Available 
 
-| Data Product | Reference | Number of Redshifts |
-|--------------|-----------|---------------------|
-| [2dFGRS Final Data Release](https://pzserver-dev.linea.org.br/product/385_2dfgrs_final_data_release) | [Colless et al. (2001)](https://ui.adsabs.harvard.edu/abs/2001MNRAS.328.1039C) | 245,591 |
-| [2dFLens](https://pzserver-dev.linea.org.br/product/386_2dflens) | [Blake et al. (2016)](https://ui.adsabs.harvard.edu/abs/2016MNRAS.462.4240B) | 70,079 |
-| [2MRS v240](https://pzserver-dev.linea.org.br/product/387_2mrs_v240) | [Huchra et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012ApJS..199...26H) | 240,496 |
-| [3D-HST v415](https://pzserver-dev.linea.org.br/product/493_3dhst_v415) | [Momcheva et al. (2016)](https://ui.adsabs.harvard.edu/abs/2016ApJS..225...27M) | 207,967 |
-| [6dFGS DR3](https://pzserver-dev.linea.org.br/product/396_6dfgs_dr3) | [Jones et al. (2009)](https://ui.adsabs.harvard.edu/abs/2009MNRAS.399..683J) | 136,304 |
-|[ACES]()|[]() | ⏳ |
-|[ATLAS]()|[]()| ⏳ |
-|[ASTRODEEP]()|[]()| ⏳|
-|[ASTRODEEP-JWST]()|[]()| ⏳|
-|[C3R2	DR3]()|[]()|⏳ |
-|[CANUCS	SMACS]()|[]()|⏳ |
-|[CDB]()|[]()|⏳ |
-|[CLASH-VLT	FR]()|[]()|⏳ |
-|[COSMOS 2025]()|[]()|⏳ |
-|[DEEP2	DR4]()|[]()|⏳ |
-|[DEIMOS 10K]()|[]()|⏳ |
-|[DESI EDR](https://pzserver-dev.linea.org.br/product/148_desi_edr) | [DESI Collaboration et al. (2025)](https://arxiv.org/abs/2503.14745) | 2,451,325 |
-|[DESI DR1 (Inside DP1)](https://pzserver-dev.linea.org.br/product/389_desi_dr1_inside_dp1) | [DESI Collaboration et al. (2025)](https://arxiv.org/abs/2503.14745) | 50,634 |
-|[Euclid	Q1 SPE]() | | ⏳ | 
-|[FMOS-COSMOS]() | | ⏳ | 
-|[AMA	DR4]() | | ⏳ | 
-|[GLASS]() | | ⏳ | 
-|[HectoMAP	DR2]() | | ⏳ | 
-|[HETDEX	DR1]() | | ⏳ | 
-|[JADES DR3](https://pzserver-dev.linea.org.br/product/390_jades_dr3) | [D’Eugenio et al. (2025)](https://ui.adsabs.harvard.edu/abs/2025ApJS..277....4D) | 8,172 |
-|[LEGA-C	DR3]()|[]()|⏳ |
-|[MOSDEF (MOSFIRE)	FR]()|[]()|⏳ |
-|[MUSE	DR1]()|[]()|⏳ |
-|[OzDES DR2](https://pzserver-dev.linea.org.br/product/391_ozdes_dr2) | [Lidman et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020MNRAS.496...19L) | 38,624 |
-|[PRIMUS DR1](https://pzserver-dev.linea.org.br/product/392_primus_dr1) | [Cool et al. (2013)](https://ui.adsabs.harvard.edu/abs/2013ApJ...767..118C) | 213,696 |
-|[SAGA	DR2]()|[]()|⏳ |
-|[SDSS	DR17]()|[]()|⏳ |
-|[SpARCS	]()|[]()|⏳ |
-|[SPT-GMOS	]()|[]()|⏳ |
-|[UDS]()|[]()|⏳ |
-|[VANDELS DR4](https://pzserver-dev.linea.org.br/product/393_vandels_dr4) | [Garilli et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021A&A...647A.150G) | 2,165 |
-|[VIPERS]()|[]()|⏳ |
-|[VLT-VIMOS v201](https://pzserver-dev.linea.org.br/product/492_vltvimos_v201) | [Balestra et al. (2010)](https://ui.adsabs.harvard.edu/abs/2010A&A...512A..12B) | 5,052 |
-|[VUDS]()|[]()|⏳ |
-|[VVDS Final Data Release](https://pzserver-dev.linea.org.br/product/394_vvds_final_data_release) | [Le Fèvre et al. (2005)](https://ui.adsabs.harvard.edu/abs/2005A&A...439..845L) | 40,944 |
-|[WiggleZ]()|[]()|⏳ |
-|[zCOSMOS	20k/10k]()|[]()|⏳ |
-|[ZFIRE]()|[]()|⏳ |
-
-⏳: in progress, please check back later.
 
 
 #### Combined catalogs
 
 
-| Data product | # of surveys | # of redshifts |
-|---           |---           |---             |
-|              |              |                |
+| Data product | Release Date | # of surveys | # of redshifts | Status | 
+|---           |---           |---           |---             |---     |  
+| All combined redshifts | Nov 2025 |   -  | -  | :material-hammer-wrench:  | 
+| Combined redshifts in DP1 footprint | Nov 2025 |    -  | -   |  :material-hammer-wrench:  |          
 
 
+**Legend**<br>
+:material-clock-outline: Planned &emsp; :material-hammer-wrench: In preparation &emsp; :material-check: Available 
+
+<!--
 Quick access via `pzserver` library: 
 
 ```python
 pz_server.get_product('<dataset_name>') 
 ``` 
+-->
+
 
 ### Training Sets   
 
-The result of the spatial cross-matching between the public redshifts compilations and public photometric data.   
+The result of the spatial cross-matching between the redshift compilations and LSST photometric data.   
 
-| Data product | Matched photo. catalog | # of matched spec-z surveys | # of galaxies | 
-|---           | ---                    | --                          |---            |
-|   ⏳         | DP1 Object             |        -                    |        -      |
+| Data product | Release Date | # of galaxies | Status | 
+|---           |---           |---            |---     |
+| DP1 matched  | Nov 2025     |   -           | :material-hammer-wrench:  | 
 
 
+**Legend**<br>
+:material-clock-outline: Planned &emsp; :material-hammer-wrench: In preparation &emsp; :material-check: Available 
 
+
+<!--
 Quick access via `pzserver` library: 
 
 ```python
 pz_server.get_product('<dataset_name>') 
 ``` 
 
-
-⏳: in progress, please check back later.
+--> 
 
 
 
