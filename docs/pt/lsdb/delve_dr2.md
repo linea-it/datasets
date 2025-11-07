@@ -69,5 +69,5 @@ $ wget -e robots=off -r -np -nH --cut-dirs=1 -c -R "index.html*" -l 0 https://li
 <div class="button-container">
 <a href="https://datalab.noirlab.edu/data/delve" class="button-link">Lançamento Oficial</a>
 <a href="https://datalab.noirlab.edu/data/delve" class="button-link">Descrições das Colunas</a>
-<a href="https://arxiv.org/abs/2203.16565" class="button-link">Artigo de Pesquisa</a>
+<a href="https://arxiv.org/abs/2203.16565" class="button-link">Artigo Científico</a>
 </div>

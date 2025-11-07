@@ -45,5 +45,5 @@ $ wget -e robots=off -r -np -nH --cut-dirs=2 -c -R "index.html*" -l 0 https://li
 <div class="button-container">
 <a href="https://www.darkenergysurvey.org/dr2/" class="button-link">Lançamento Oficial</a>
 <a href="https://des.ncsa.illinois.edu/releases/dr2/dr2-access" class="button-link">Descrições das Colunas</a>
-<a href="https://arxiv.org/abs/2101.05765" class="button-link">Artigo de Pesquisa</a>
+<a href="https://arxiv.org/abs/2101.05765" class="button-link">Artigo Científico</a>
 </div>

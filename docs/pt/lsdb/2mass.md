@@ -40,5 +40,5 @@ $ wget -e robots=off -r -np -nH --cut-dirs=1 -c -R "index.html*" -l 0 https://li
 <div class="button-container">
 <a href="https://irsa.ipac.caltech.edu/data/2MASS/docs/releases/allsky/doc/sec2_2.html" class="button-link">Lançamento Oficial</a>
 <a href="https://irsa.ipac.caltech.edu/data/2MASS/docs/releases/allsky/doc/sec2_2a.html" class="button-link">Descrições das Colunas</a>
-<a href="https://ui.adsabs.harvard.edu/abs/2006AJ....131.1163S/abstract" class="button-link">Publicação Científica</a>
+<a href="https://ui.adsabs.harvard.edu/abs/2006AJ....131.1163S/abstract" class="button-link">Artigo Científico</a>
 </div>

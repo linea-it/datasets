@@ -43,5 +43,5 @@ $ wget -e robots=off -r -np -nH --cut-dirs=1 -c -R "index.html*" -l 0 https://li
 <div class="button-container">
 <a href="https://www.cosmos.esa.int/en/web/euclid/euclid-q1-data-release" class="button-link">Lançamento Oficial</a>
 <a href="https://euclid.esac.esa.int/dr/q1/dpdd/merdpd/dpcards/mer_finalcatalog.html#detailed-description-of-the-data-product" class="button-link">Descrições das Colunas</a>
-<a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250315302E/abstract" class="button-link">Artigo de Pesquisa</a>
+<a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250315302E/abstract" class="button-link">Artigo Científico</a>
 </div>
