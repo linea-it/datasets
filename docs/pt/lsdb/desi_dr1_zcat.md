@@ -44,7 +44,7 @@ $ wget -e robots=off -r -np -nH --cut-dirs=2 -c -R "index.html*" -l 0 https://li
 <div class="button-container">
 <a href="https://data.desi.lbl.gov/doc/releases/dr1" class="button-link">Lançamento Oficial</a>
 <a href="https://desidatamodel.readthedocs.io/en/latest/column_descriptions.html" class="button-link">Descrições das Colunas</a>
-<a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250314745D" class="button-link">Artigo de Pesquisa</a>
+<a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250314745D" class="button-link">Artigo Científico</a>
 </div>
 
 ## Agradecimentos

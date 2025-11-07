@@ -43,5 +43,5 @@ $ wget -e robots=off -r -np -nH --cut-dirs=1 -c -R "index.html*" -l 0 https://li
 <div class="button-container">
 <a href="https://erosita.mpe.mpg.de/dr1" class="button-link">Lançamento Oficial</a>
 <a href="https://erosita.mpe.mpg.de/dr1/AllSkySurveyData_dr1/Catalogues_dr1/MerloniA_DR1/eRASS1_Main.html" class="button-link">Descrições das Colunas</a>
-<a href="https://ui.adsabs.harvard.edu/abs/2024A%26A...682A..34M" class="button-link">Artigo de Pesquisa</a>
+<a href="https://ui.adsabs.harvard.edu/abs/2024A%26A...682A..34M" class="button-link">Artigo Científico</a>
 </div>

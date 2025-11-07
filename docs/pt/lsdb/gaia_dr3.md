@@ -44,5 +44,5 @@ $ wget -e robots=off -r -np -nH --cut-dirs=1 -c -R "index.html*" -l 0 https://li
 <div class="button-container">
 <a href="https://www.cosmos.esa.int/web/gaia/dr3" class="button-link">Lançamento Oficial</a>
 <a href="https://gea.esac.esa.int/archive/documentation/GDR3/Gaia_archive/chap_datamodel/sec_dm_main_source_catalogue/ssec_dm_gaia_source.html" class="button-link">Descrições das Colunas</a>
-<a href="https://ui.adsabs.harvard.edu/abs/2022arXiv220800211G/abstract" class="button-link">Artigo de Pesquisa</a>
+<a href="https://ui.adsabs.harvard.edu/abs/2022arXiv220800211G/abstract" class="button-link">Artigo Científico</a>
 </div>
