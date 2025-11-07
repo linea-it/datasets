@@ -33,7 +33,7 @@ $ wget -e robots=off -r -np -nH --cut-dirs=1 -c -R "index.html*" -l 0 https://da
 ```
 
 ```bash
-$ wget -e robots=off -r -np -nH --cut-dirs=1 -c -R "index.html*" -l 0 https://datasets.linea.org.br/wazp/y6a2_dnf_wazp_v5.0.12.6801_footprint.fitshttps://datasets/wazp/y6a2_dnf_wazp_v5.0.12.6801_footprint.fits
+$ wget -e robots=off -r -np -nH --cut-dirs=1 -c -R "index.html*" -l 0 https://datasets.linea.org.br/wazp/y6a2_dnf_wazp_v5.0.12.6801_footprint.fits
 ```
 
 

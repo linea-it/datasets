@@ -22,7 +22,7 @@ Los cúmulos ópticos se cruzaron con muestras SZE de los telescopios SPT y ACT.
 $ wget -e robots=off -r -np -nH --cut-dirs=1 -c -R "index.html*" -l 0 https://datasets.linea.org.br/wazp/y6a2_dnf_wazp_v5.0.12.6801_clusters.fits
 ```
 
-```
+```bash
 $ wget -e robots=off -r -np -nH --cut-dirs=1 -c -R "index.html*" -l 0 https://datasets.linea.org.br/wazp/y6a2_dnf_wazp_v5.0.12.6801_members.fits
 ```
 
@@ -30,6 +30,10 @@ $ wget -e robots=off -r -np -nH --cut-dirs=1 -c -R "index.html*" -l 0 https://da
 $ wget -e robots=off -r -np -nH --cut-dirs=1 -c -R "index.html*" -l 0 https://datasets.linea.org.br/wazp/y6a2_dnf_wazp_v5.0.12.6801_footprint.fits
 ```
 
-<div class="button-container"> <a href="https://des.ncsa.illinois.edu/releases/y6a2/Y6cluster-wazp" class="button-link">Descripción de Columnas</a> <a href="https://arxiv.org/abs/2507.05360t" class="button-link">Artículo Científico</a> </div>
+
+<div class="button-container">
+<a href="https://des.ncsa.illinois.edu/releases/y6a2/Y6cluster-wazp" class="button-link">Descripción de Columnas</a>
+<a href="https://arxiv.org/abs/2507.05360t" class="button-link">Artículo de Investigación</a>
+</div>
 
 
