@@ -1,9 +1,10 @@
 # Rubin Data Preview 1 (DP1) Object (lite)
 
-O Legacy Survey of Space and Time (LSST) do Observatório Vera C. Rubin é um levantamento astronômico de 10 anos projetado para mapear todo o céu do hemisfério sul com um nível de detalhe sem precedentes. Ele busca responder questões fundamentais sobre energia escura, matéria escura, a estrutura da Via Láctea e o Sistema Solar. Esta coleção de catálogos foi gerada pelo pipeline DASH e é uma versão reduzida da coleção object. Aprenda como acessar os dados pelo link abaixo.
+O Legacy Survey of Space and Time (LSST) do Observatório Vera C. Rubin é um levantamento astronômico de 10 anos projetado para mapear todo o céu do hemisfério sul com um nível de detalhe sem precedentes. Ele busca responder questões fundamentais sobre energia escura, matéria escura, a estrutura da Via Láctea e o Sistema Solar. A coleção apresentada aqui foi gerada pelo pipeline DASH e corresponde a uma versão reduzida (lite) da coleção object.
 
+O Data Preview 1 (DP1) é o primeiro release interno preliminar contendo dados observados pelo projeto. Ele inclui produtos de imagem e catálogos gerados pelo Rubin Science Pipelines v29 a partir de observações realizadas com a Câmera de Comissionamento do LSST em sete campos de aproximadamente 1 grau quadrado ao longo de sete semanas no final de 2024.
 
-O Data Preview 1 (DP1) é o primeiro release interno preliminar contendo dados observados. Ele inclui produtos de imagens e catálogos gerados pelo Rubin Science Pipelines v29 a partir de observações realizadas com a Câmera de Comissionamento do LSST em sete campos de aproximadamente 1 grau quadrado ao longo de um período de sete semanas no final de 2024.
+Para saber como acessar esses dados, consulte o link indicado abaixo.
 
 
 <figure class="dataset-figure">
@@ -19,7 +20,7 @@ O Data Preview 1 (DP1) é o primeiro release interno preliminar contendo dados o
 
 
 !!! warning "Dados Sob Embargo"
-    Este conjunto de dados está atualmente sob embargo e só pode ser acessado por usuários autorizados. Consulte a Política de Direitos de Acesso aos Dados do Rubin Observatory para mais informações.
+    Este conjunto de dados está atualmente sob embargo e só pode ser acessado por usuários autorizados. Consulte a [Política de Direitos de Acesso aos Dados do Rubin Observatory](https://rubinobservatory.org/for-scientists/data-products/data-policy) para mais informações.
 
 
 <div class="button-container"> 
