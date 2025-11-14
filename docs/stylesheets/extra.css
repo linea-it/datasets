@@ -87,6 +87,7 @@
 /* --- Custom Button Styling --- */
 
 .md-typeset .button-link,
+/*
 .button-link {
   display: inline-block;
   padding: 0.5rem 1rem;
@@ -102,6 +103,26 @@
   min-height: 30px;
   text-align: center;
 }
+*/
+
+.button-link {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  background-color: var(--linea-primary-blue);
+  color: white;
+  text-decoration: none !important;
+  border-radius: 0.25rem;
+  font-weight: 500;
+  transition: background-color 0.2s ease;
+  margin: 0.5rem 0.25rem;
+  min-width: 200px;
+  width: auto;            /* allow growth */
+  flex: 0 0 auto;         /* prevent flex-compression */
+  line-height: 1.0;
+  min-height: 30px;
+  text-align: center;
+  white-space: nowrap;     /* keep text on one line */
+}
 
 .md-typeset .button-link:hover,
 .button-link:hover {
@@ -111,10 +132,20 @@
 }
 
 /* Container for side-by-side buttons */
+/*
 .button-container {
   display: flex;
   gap: 0.5rem;
   flex-wrap: wrap;
+  margin: 1rem 0;
+}
+*/
+
+.button-container {
+  display: flex;
+  gap: 0.5rem;             /* keep your default spacing */
+  flex-wrap: nowrap;       /* prevent wrapping, keep buttons on one line */
+  overflow-x: auto;        /* allow horizontal scroll if necessary */
   margin: 1rem 0;
 }
 

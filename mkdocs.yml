@@ -3,6 +3,8 @@ nav:
   - Início: pt/index.md
   - LSDB Surveys:
       - LSDB Surveys: pt/lsdb/index.md
+      - Rubin DP1:
+          - Rubin DP1 Object (Lite): pt/lsdb/rubin_dp1_object_lite.md
       - 2MASS: pt/lsdb/2mass.md
       - DELVE DR2: pt/lsdb/delve_dr2.md
       - DES: 
@@ -166,6 +168,8 @@ plugins:
             - Home: en/index.md
             - LSDB Surveys:
                 - LSDB Surveys: en/lsdb/index.md
+                - Rubin DP1:
+                    - Rubin DP1 Object (Lite): en/lsdb/rubin_dp1_object_lite.md
                 - 2MASS: en/lsdb/2mass.md
                 - DELVE DR2: en/lsdb/delve_dr2.md
                 - DES: 
@@ -204,6 +208,8 @@ plugins:
             - Inicio: es/index.md
             - LSDB Surveys:
                 - LSDB Surveys: es/lsdb/index.md
+                - Rubin DP1:
+                    - Rubin DP1 Object (Lite): es/lsdb/rubin_dp1_object_lite.md
                 - 2MASS: es/lsdb/2mass.md
                 - DELVE DR2: es/lsdb/delve_dr2.md
                 - DES: 
