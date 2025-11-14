@@ -86,14 +86,17 @@ if CLUSTER_TYPE == "slurm":
 
 ---
 
-## Lendo o catálogo Rubin DP1 com LSDB
+## Lendo o catálogo Rubin DP1 usando LSDB
 
-Após configurar o ambiente e o cluster, você pode abrir o catálogo usando:
+Você pode abrir o catálogo Rubin DP1 diretamente usando a variável de ambiente global `DP1_CATALOGS`, que deve apontar para o diretório base contendo as coleções do DP1. Em seguida, basta usar o LSDB para carregar o catálogo.
 
 ```python
+import os
 import lsdb
 
-cat = lsdb.open_catalog("path/to/collection")
-```
+dp1_base = os.environ.get("DP1_CATALOGS")
 
-Substitua `"path/to/collection"` pelo caminho disponibilizado na sua área de trabalho do HPC conforme a organização do dataset DP1.
+catalog_path = os.path.join(dp1_base, "object_collection")
+
+cat = lsdb.open_catalog(catalog_path)
+```
