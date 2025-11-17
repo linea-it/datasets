@@ -1,0 +1,34 @@
+# Rubin Data Preview 1 (DP1) Object (lite)
+
+El Legacy Survey of Space and Time (LSST) del Observatorio Vera C. Rubin es un levantamiento astronómico de 10 años diseñado para mapear todo el cielo del hemisferio sur con un nivel de detalle sin precedentes. Su objetivo es abordar preguntas fundamentales sobre la energía oscura, la materia oscura, la estructura de la Vía Láctea y el Sistema Solar. La colección presentada aquí fue generada por el pipeline DASH y corresponde a una versión reducida (lite) de la colección object.
+
+El Data Preview 1 (DP1) es la primera versión interna preliminar que contiene datos observados del proyecto. Incluye productos de imagen y catálogos generados por los Rubin Science Pipelines v29 a partir de observaciones realizadas con la Cámara de Comisionamiento del LSST en siete campos de aproximadamente un grado cuadrado cada uno, a lo largo de un período de siete semanas a finales de 2024.
+
+Para saber cómo acceder a estos datos, consulte el enlace indicado a continuación.
+
+
+<figure class="dataset-figure">
+<img src="../../images/rubin/rubin_dp1_object_lite.webp" alt="Rubin DP1 Object (Lite) Catalog">
+<figcaption>Fuente de la imagen: https://data.lsdb.io</figcaption>
+</figure>
+
+## Metadatos del Catálogo
+
+| Número de filas     | Número de columnas | Número de particiones | Tamaño en disco |
+|--------------------|-------------------|---------------------|--------------|
+| 2,299,726        | 74                | 389               | 11 GiB        |
+
+
+!!! warning "Datos Bajo Embargo"
+    Este conjunto de datos se encuentra actualmente bajo embargo y solo es accesible para usuarios autorizados. Consulte la [Política de Derechos de Datos del Observatorio Rubin](https://rubinobservatory.org/for-scientists/data-products/data-policy) para obtener más información.
+
+<div class="button-container">
+<a href="how_to_access_rubin_dp1.html" class="button-link">Cómo acceder a Rubin DP1</a>
+<a href="https://dp1.lsst.io/" class="button-link">Documentación</a>
+
+
+<a href="https://sdm-schemas.lsst.io/dp1.html" class="button-link">Descripciones de Columnas</a>
+<!-- <a href="https://rubinobs.atlassian.net/browse/DM-50260" class="button-link">Ticket en Jira</a>
+<a href="https://github.com/lsst-sitcom/linccf/tree/main/dash" class="button-link">Pipeline DASH</a> -->
+<a href="https://docs.lsdb.io/en/latest/citation.html" class="button-link">Cómo citar</a>
+</div>
