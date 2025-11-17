@@ -223,11 +223,11 @@ El PZ Server aloja varios catálogos públicos de corrimientos al rojo espectros
 
 | Producto de Datos | Referencia | Número de Corrimientos al Rojo | Estado |
 |-------------------|-----------|--------------------------------|---| 
-| 2dFGRS Final Data Release | [Colless et al. (2001)](https://ui.adsabs.harvard.edu/abs/2001MNRAS.328.1039C) | 245.591 | :material-hammer-wrench:  | 
-| 2dFLens | [Blake et al. (2016)](https://ui.adsabs.harvard.edu/abs/2016MNRAS.462.4240B) | 70.079 | :material-hammer-wrench:  | 
-| 2MRS v240 | [Huchra et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012ApJS..199...26H) | 240.496 | :material-hammer-wrench:  | 
-| 3D-HST v415 | [Momcheva et al. (2016)](https://ui.adsabs.harvard.edu/abs/2016ApJS..225...27M) | 207.967 |:material-hammer-wrench:  | 
-| 6dFGS DR3| [Jones et al. (2009)](https://ui.adsabs.harvard.edu/abs/2009MNRAS.399..683J) | 136.304 | :material-hammer-wrench:  | 
+| [2dFGRS Final Data Release](https://pzserver.linea.org.br/product/170_2dfgrs_final_data_release) | [Colless et al. (2001)](https://ui.adsabs.harvard.edu/abs/2001MNRAS.328.1039C) | 245,591 | :material-check:  | 
+| [2dFLens Final Data Release](https://pzserver.linea.org.br/product/171_2dflens_final_data_release) | [Blake et al. (2016)](https://ui.adsabs.harvard.edu/abs/2016MNRAS.462.4240B) | 70,079 | :material-check:  | 
+| [2MRS v240](https://pzserver.linea.org.br/product/172_2mrs_v240) | [Huchra et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012ApJS..199...26H) | 240,496 | :material-check:  | 
+| [3D-HST v415](https://pzserver.linea.org.br/product/173_3dhst_v415) | [Momcheva et al. (2016)](https://ui.adsabs.harvard.edu/abs/2016ApJS..225...27M) | 207,967 | :material-check:  | 
+| [6dFGS DR3](https://pzserver.linea.org.br/product/174_6dfgs_dr3) | [Jones et al. (2009)](https://ui.adsabs.harvard.edu/abs/2009MNRAS.399..683J) | 136,304 | :material-check:  | 
 | ACES | - | - | :material-clock-outline: | 
 | ATLAS | - | - | :material-clock-outline: | 
 | ASTRODEEP | - | - | :material-clock-outline: | 
