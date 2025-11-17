@@ -31,7 +31,7 @@ See below a table summarizing the main datasets available for download or query 
 | Gaia DR3 Source |:material-account-group:    |:material-account-group:        | -   |
 | LSST DP0.1      |-     |-         |:material-lock:   |
 | LSST DP0.2      |-     | :material-lock:       |:material-lock:   |
-| LSST DP1        |:material-clock-outline:    |:material-hammer-wrench:        |:material-hammer-wrench:   |
+| LSST DP1        |:material-lock:    |:material-lock:        |:material-lock:   |
 | WISE            |:material-clock-outline:    | -        | -   |
 | ZTF             |:material-clock-outline:    | -        | -   |
 
