@@ -88,13 +88,13 @@ if CLUSTER_TYPE == "slurm":
 
 ## Reading the Rubin DP1 catalog using LSDB
 
-You can open the Rubin DP1 catalog directly using the global environment variable `DP1_CATALOGS`, which should point to the base directory containing the DP1 collections. Then, simply use LSDB to load the catalog.
+You can open the Rubin DP1 catalog directly using the global environment variable `DP1_HATS`, which should point to the base directory containing the DP1 collections. Then, simply use LSDB to load the catalog.
 
 ```python
 import os
 import lsdb
 
-dp1_base = os.environ.get("DP1_CATALOGS")
+dp1_base = os.environ.get("DP1_HATS")
 
 catalog_path = os.path.join(dp1_base, "object_collection")
 
