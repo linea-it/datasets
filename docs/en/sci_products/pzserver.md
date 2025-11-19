@@ -230,8 +230,8 @@ The PZ Server hosts several public spectroscopic redshift catalogs from differen
 | [6dFGS DR3](https://pzserver.linea.org.br/product/174_6dfgs_dr3) | [Jones et al. (2009)](https://ui.adsabs.harvard.edu/abs/2009MNRAS.399..683J) | 136,304 | :material-check:  | 
 | ACES | - | - | :material-clock-outline: | 
 | ATLAS | - | - | :material-clock-outline: | 
-| ASTRODEEP | - | - | :material-clock-outline: | 
-| ASTRODEEP-JWST | - | - | :material-clock-outline: | 
+| [ASTRODEEP GS43](https://pzserver.linea.org.br/product/176_astrodeep_gs43) | [Merlin et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021A&A...649A..22M/abstract) | 35,108 | :material-check:  | 
+| [ASTRODEEP JWST](https://pzserver.linea.org.br/product/177_astrodeep_jwst) | [Merlin et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...691A.240M/abstract) | 531,173 | :material-check:  | 
 | C3R2 DR3 | - | - | :material-clock-outline: | 
 | CANUCS SMACS | - | - | :material-clock-outline: | 
 | CDB | - | - | :material-clock-outline: | 
@@ -240,14 +240,14 @@ The PZ Server hosts several public spectroscopic redshift catalogs from differen
 | DEEP2 DR4 | - | - | :material-clock-outline: | 
 | DEIMOS 10K | - | - | :material-clock-outline: | 
 | DESI EDR | [DESI Collaboration et al. (2025)](https://arxiv.org/abs/2503.14745) | 2,451,325 |  :material-hammer-wrench:  | 
-| DESI DR1 (Inside DP1) | [DESI Collaboration et al. (2025)](https://arxiv.org/abs/2503.14745) | 50,634 | :material-hammer-wrench:  | 
+| [DESI DR1 within LSST DP1](https://pzserver.linea.org.br/product/178_desi_dr1_within_lsst_dp1) | [DESI Collaboration et al. (2025)](https://ui.adsabs.harvard.edu/abs/2025arXiv250314745D/abstract) | 50,634 | :material-check:  | 
 | Euclid Q1 SPE | - | - | :material-clock-outline: |
 | FMOS-COSMOS | - | - | :material-clock-outline: |
 | AMA DR4 | - | - | :material-clock-outline: |
 | GLASS | - | - | :material-clock-outline: |
 | HectoMAP DR2 | - | - | :material-clock-outline: |
 | HETDEX DR1 | - | - | :material-clock-outline: |
-| JADES DR3 | [D’Eugenio et al. (2025)](https://ui.adsabs.harvard.edu/abs/2025ApJS..277....4D) | 8,172 |:material-hammer-wrench:  | 
+| [JADES DR3](https://pzserver.linea.org.br/product/179_jades_dr3) | [D'Eugenio et al. (2025)](https://ui.adsabs.harvard.edu/abs/2025ApJS..277....4D/abstract) | 8,172 | :material-check:  | 
 | LEGA-C DR3 |  - | - | :material-clock-outline: |
 | MOSDEF (MOSFIRE) FR |  - | - | :material-clock-outline: |
 | MUSE DR1 | - | - | :material-clock-outline: |
