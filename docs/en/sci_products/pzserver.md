@@ -239,7 +239,7 @@ The PZ Server hosts several public spectroscopic redshift catalogs from differen
 | COSMOS 2025 | - | - | :material-clock-outline: | 
 | DEEP2 DR4 | - | - | :material-clock-outline: | 
 | DEIMOS 10K | - | - | :material-clock-outline: | 
-| DESI EDR | [DESI Collaboration et al. (2025)](https://arxiv.org/abs/2503.14745) | 2,451,325 |  :material-hammer-wrench:  | 
+| DESI EDR | [DESI Collaboration et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....168...58D/abstract) | 2,451,325 |  :material-hammer-wrench:  | 
 | [DESI DR1 within LSST DP1](https://pzserver.linea.org.br/product/178_desi_dr1_within_lsst_dp1) | [DESI Collaboration et al. (2025)](https://ui.adsabs.harvard.edu/abs/2025arXiv250314745D/abstract) | 50,634 | :material-check:  | 
 | Euclid Q1 SPE | - | - | :material-clock-outline: |
 | FMOS-COSMOS | - | - | :material-clock-outline: |
@@ -249,9 +249,9 @@ The PZ Server hosts several public spectroscopic redshift catalogs from differen
 | HETDEX DR1 | - | - | :material-clock-outline: |
 | [JADES DR3](https://pzserver.linea.org.br/product/179_jades_dr3) | [D'Eugenio et al. (2025)](https://ui.adsabs.harvard.edu/abs/2025ApJS..277....4D/abstract) | 8,172 | :material-check:  | 
 | LEGA-C DR3 |  - | - | :material-clock-outline: |
-| MOSDEF (MOSFIRE) FR |  - | - | :material-clock-outline: |
+| [MOSDEF Final Data Release](https://pzserver.linea.org.br/product/181_mosdef_final_data_release) | [Kriek et al. (2015)](https://ui.adsabs.harvard.edu/abs/2015ApJS..218...15K/abstract) | 1,791 | :material-check:  |
 | MUSE DR1 | - | - | :material-clock-outline: |
-| OzDES DR2 | [Lidman et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020MNRAS.496...19L) | 38,624 |:material-hammer-wrench:  | 
+| [OzDES DR2](https://pzserver.linea.org.br/product/182_ozdes_dr2) | [Lidman et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020MNRAS.496...19L/abstract) | 38,624 | :material-check:  | 
 | PRIMUS DR1| [Cool et al. (2013)](https://ui.adsabs.harvard.edu/abs/2013ApJ...767..118C) | 213,696 |:material-hammer-wrench:  | 
 | SAGA DR2 | - |  | :material-clock-outline: |
 | SDSS DR17 | - |  | :material-clock-outline: |
