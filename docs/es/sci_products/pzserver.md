@@ -252,13 +252,13 @@ El PZ Server aloja varios catálogos públicos de corrimientos al rojo espectros
 | [MOSDEF Final Data Release](https://pzserver.linea.org.br/product/181_mosdef_final_data_release) | [Kriek et al. (2015)](https://ui.adsabs.harvard.edu/abs/2015ApJS..218...15K/abstract) | 1,791 | :material-check:  |
 | MUSE DR1 | - | - | :material-clock-outline: |
 | [OzDES DR2](https://pzserver.linea.org.br/product/182_ozdes_dr2) | [Lidman et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020MNRAS.496...19L/abstract) | 38,624 | :material-check:  |  
-| PRIMUS DR1| [Cool et al. (2013)](https://ui.adsabs.harvard.edu/abs/2013ApJ...767..118C) | 213.696 |:material-hammer-wrench:  | 
+| [PRIMUS DR1](https://pzserver.linea.org.br/product/183_primus_dr1) | [Coil et al. (2011)](https://ui.adsabs.harvard.edu/abs/2011ApJ...741....8C/abstract) | 213,696 | :material-check:  | 
 | SAGA DR2 | - |  | :material-clock-outline: |
 | SDSS DR17 | - |  | :material-clock-outline: |
 | SpARCS | - |  | :material-clock-outline: |
 | SPT-GMOS | - |  | :material-clock-outline: |
 | UDS | - |  | :material-clock-outline: |
-| VANDELS DR4 | [Garilli et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021A&A...647A.150G) | 2.165 |:material-hammer-wrench:  | 
+| [VANDELS DR4](https://pzserver.linea.org.br/product/185_vandels_dr4) | [Garilli et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021A%26A...647A.150G/abstract) | 2,165 | :material-check:  | 
 | VIPERS | - | -  | :material-clock-outline: |
 | VLT-VIMOS v201 | [Balestra et al. (2010)](https://ui.adsabs.harvard.edu/abs/2010A&A...512A..12B) | 5.052 |:material-hammer-wrench:  | 
 | VUDS |  - | -  | :material-clock-outline: |
