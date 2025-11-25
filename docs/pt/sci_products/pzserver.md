@@ -260,9 +260,9 @@ O PZ Server hospeda vários catálogos públicos de redshifts espectroscópicos 
 | UDS | - |  | :material-clock-outline: |
 | [VANDELS DR4](https://pzserver.linea.org.br/product/185_vandels_dr4) | [Garilli et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021A%26A...647A.150G/abstract) | 2,165 | :material-check:  | 
 | VIPERS | - | -  | :material-clock-outline: |
-| VLT-VIMOS v201 | [Balestra et al. (2010)](https://ui.adsabs.harvard.edu/abs/2010A&A...512A..12B) | 5.052 |:material-hammer-wrench:  | 
-| VUDS |  - | -  | :material-clock-outline: |
-| VVDS Final Data Release | [Le Fèvre et al. (2005)](https://ui.adsabs.harvard.edu/abs/2005A&A...439..845L) | 40.944 |:material-hammer-wrench:  | 
+| [VLT VIMOS V2.0.1](https://pzserver.linea.org.br/product/186_vlt_vimos_v201) | [Balestra et al. (2010)](https://ui.adsabs.harvard.edu/abs/2010A%26A...512A..12B/abstract) | 5,052 | :material-check:  | 
+| [VUDS DR1](https://pzserver.linea.org.br/product/187_vuds_dr1) | [Tasca et al. (2017)](https://ui.adsabs.harvard.edu/abs/2017A%26A...600A.110T/abstract) | 698 | :material-check:  | 
+| [VVDS Final Data Release](https://pzserver.linea.org.br/product/188_vvds_final_data_release) | [Le Fèvre et al. (2013)](https://ui.adsabs.harvard.edu/abs/2013A%26A...559A..14L/abstract) | 40,944 | :material-check:  | 
 | WiggleZ | - | -  | :material-clock-outline: | 
 | zCOSMOS 20k/10k | - | -  | :material-clock-outline: | 
 | ZFIRE | - | -  | :material-clock-outline: | 
