@@ -272,39 +272,38 @@ O PZ Server hospeda vários catálogos públicos de redshifts espectroscópicos 
 :material-clock-outline: Planejado &emsp; :material-hammer-wrench: Em preparação &emsp; :material-check: Disponível 
 
 
+### Compilados de Catálogos de Redshift (CRC)
 
-#### Catálogos Combinados
+Gerados pelo pipeline **[Combine Redshift Catalogs](https://docs.linea.org.br/sci-platforms/pz_server_crc.html)** do **[LSST Photo-z Server](https://docs.linea.org.br/sci-platforms/pz_server.html)**.
 
+| Produto de Dados | Data de Lançamento | # de Levantamentos | # de Objetos | Status |
+|------------------|--------------------|--------------------|--------------|--------|
+| [CRC_CAT_F3_v1](https://pzserver.linea.org.br/product/194_crc_linea_2025_11_cat_f3_v1) | 2025-11-25 | 18 | 1 569 746 | :material-check: |
+| [CRC_CMD_F3_v1](https://pzserver.linea.org.br/product/193_crc_linea_2025_11_cmd_f3_v1) | 2025-11-25 | 18 | 1 569 746 | :material-check: |
+| [CRC_CRD_F3_v1](https://pzserver.linea.org.br/product/195_crc_linea_2025_11_crd_f3_v1) | 2025-11-25 | 18 | 1 026 130 | :material-check: |
+| [CRC_CAT_F0_v1](https://pzserver.linea.org.br/product/201_crc_cat_f0_v1) | 2025-11-25 | 18 | 1 863 704 | :material-check: |
+| [CRC_CMD_F0_v1](https://pzserver.linea.org.br/product/200_crc_cmd_f0_v1) | 2025-11-25 | 18 | 1 863 704 | :material-check: |
+| [CRC_CRD_F0_v1](https://pzserver.linea.org.br/product/202_crc_crd_f0_v1) | 2025-11-25 | 18 | 1 243 643 | :material-check: |
 
-| Produto de Dados | Data de Lançamento | # de Levantamentos | # de Redshifts | Status | 
-|------------------|--------------------|--------------------|----------------|---     |  
-| Todos os redshifts combinados | Nov 2025 |   -  | -  | :material-hammer-wrench:  | 
-| Redshifts combinados na área de cobertura DP1 | Nov 2025 |    -  | -   |  :material-hammer-wrench:  |          
-
-
-**Legenda**<br>
-:material-clock-outline: Planejado &emsp; :material-hammer-wrench: Em preparação &emsp; :material-check: Disponível 
-
-<!--
-Acesso rápido via biblioteca `pzserver`: 
-
-```python
-pz_server.get_product('<dataset_name>') 
-``` 
--->
+**Legenda**  
+:material-clock-outline: Planejado &emsp; :material-hammer-wrench: Em preparação &emsp; :material-check: Disponível
 
 
-### Conjuntos de Treinamento   
+### Conjuntos de Treinamento (TSM)
 
-O resultado do cruzamento espacial entre as compilações de redshift e os dados fotométricos do LSST.   
+Gerados pelo pipeline **[Training Set Maker (TSM)](https://docs.linea.org.br/sci-platforms/pz_server_tsm.html)** do **[LSST Photo-z Server](https://docs.linea.org.br/sci-platforms/pz_server.html)**.
 
-| Produto de Dados | Data de Lançamento | # de Galáxias | Status | 
-|------------------|--------------------|--------------  |---     |
-| DP1 matched  | Nov 2025     |   -           | :material-hammer-wrench:  | 
+| Produto de Dados | Data de Lançamento | # de Objetos | Status |
+|------------------|--------------------|--------------|--------|
+| [TSM_CATF3v1_DP1McMSFD](https://pzserver.linea.org.br/product/199_tsm_catf3v1_dp1mcmsfd) | 2025-11-25 | 34 709 | :material-check: |
+| [TSM_CMDF3v1_DP1McMSFD](https://pzserver.linea.org.br/product/197_tsm_linea_2025_11_cmdf3v1_dp1mcmsfd) | 2025-11-25 | 34 709 | :material-check: |
+| [TSM_CRDF3v1_DP1McMSFD](https://pzserver.linea.org.br/product/198_tsm_crdf3v1_dp1mcmsfd) | 2025-11-25 | 21 870 | :material-check: |
+| [TSM_CATF0v1_DP1McMSFD](https://pzserver.linea.org.br/product/203_tsm_catf0v1_dp1mcmsfd) | 2025-11-25 | 43 134 | :material-check: |
+| [TSM_CMDF0v1_DP1McMSFD](https://pzserver.linea.org.br/product/205_tsm_cmdf0v1_dp1mcmsfd) | 2025-11-25 | 43 134 | :material-check: |
+| [TSM_CRDF0v1_DP1McMSFD](https://pzserver.linea.org.br/product/204_tsm_crdf0v1_dp1mcmsfd) | 2025-11-25 | 30 199 | :material-check: |
 
-
-**Legenda**<br>
-:material-clock-outline: Planejado &emsp; :material-hammer-wrench: Em preparação &emsp; :material-check: Disponível 
+**Legenda**  
+:material-clock-outline: Planejado &emsp; :material-hammer-wrench: Em preparação &emsp; :material-check: Disponível
 
 
 <!--
