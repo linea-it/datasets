@@ -230,8 +230,8 @@ The PZ Server hosts several public spectroscopic redshift catalogs from differen
 | [6dFGS DR3](https://pzserver.linea.org.br/product/174_6dfgs_dr3) | [Jones et al. (2009)](https://ui.adsabs.harvard.edu/abs/2009MNRAS.399..683J) | 136,304 | :material-check:  | 
 | ACES | - | - | :material-clock-outline: | 
 | ATLAS | - | - | :material-clock-outline: | 
-| ASTRODEEP | - | - | :material-clock-outline: | 
-| ASTRODEEP-JWST | - | - | :material-clock-outline: | 
+| [ASTRODEEP GS43](https://pzserver.linea.org.br/product/176_astrodeep_gs43) | [Merlin et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021A&A...649A..22M/abstract) | 35,108 | :material-check:  | 
+| [ASTRODEEP JWST](https://pzserver.linea.org.br/product/177_astrodeep_jwst) | [Merlin et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...691A.240M/abstract) | 531,173 | :material-check:  | 
 | C3R2 DR3 | - | - | :material-clock-outline: | 
 | CANUCS SMACS | - | - | :material-clock-outline: | 
 | CDB | - | - | :material-clock-outline: | 
@@ -239,30 +239,30 @@ The PZ Server hosts several public spectroscopic redshift catalogs from differen
 | COSMOS 2025 | - | - | :material-clock-outline: | 
 | DEEP2 DR4 | - | - | :material-clock-outline: | 
 | DEIMOS 10K | - | - | :material-clock-outline: | 
-| DESI EDR | [DESI Collaboration et al. (2025)](https://arxiv.org/abs/2503.14745) | 2,451,325 |  :material-hammer-wrench:  | 
-| DESI DR1 (Inside DP1) | [DESI Collaboration et al. (2025)](https://arxiv.org/abs/2503.14745) | 50,634 | :material-hammer-wrench:  | 
+| DESI EDR | [DESI Collaboration et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....168...58D/abstract) | 2,451,325 |  :material-hammer-wrench:  | 
+| [DESI DR1 within LSST DP1](https://pzserver.linea.org.br/product/178_desi_dr1_within_lsst_dp1) | [DESI Collaboration et al. (2025)](https://ui.adsabs.harvard.edu/abs/2025arXiv250314745D/abstract) | 50,634 | :material-check:  | 
 | Euclid Q1 SPE | - | - | :material-clock-outline: |
 | FMOS-COSMOS | - | - | :material-clock-outline: |
 | AMA DR4 | - | - | :material-clock-outline: |
 | GLASS | - | - | :material-clock-outline: |
 | HectoMAP DR2 | - | - | :material-clock-outline: |
 | HETDEX DR1 | - | - | :material-clock-outline: |
-| JADES DR3 | [D’Eugenio et al. (2025)](https://ui.adsabs.harvard.edu/abs/2025ApJS..277....4D) | 8,172 |:material-hammer-wrench:  | 
+| [JADES DR3](https://pzserver.linea.org.br/product/179_jades_dr3) | [D'Eugenio et al. (2025)](https://ui.adsabs.harvard.edu/abs/2025ApJS..277....4D/abstract) | 8,172 | :material-check:  | 
 | LEGA-C DR3 |  - | - | :material-clock-outline: |
-| MOSDEF (MOSFIRE) FR |  - | - | :material-clock-outline: |
+| [MOSDEF Final Data Release](https://pzserver.linea.org.br/product/181_mosdef_final_data_release) | [Kriek et al. (2015)](https://ui.adsabs.harvard.edu/abs/2015ApJS..218...15K/abstract) | 1,791 | :material-check:  |
 | MUSE DR1 | - | - | :material-clock-outline: |
-| OzDES DR2 | [Lidman et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020MNRAS.496...19L) | 38,624 |:material-hammer-wrench:  | 
-| PRIMUS DR1| [Cool et al. (2013)](https://ui.adsabs.harvard.edu/abs/2013ApJ...767..118C) | 213,696 |:material-hammer-wrench:  | 
+| [OzDES DR2](https://pzserver.linea.org.br/product/182_ozdes_dr2) | [Lidman et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020MNRAS.496...19L/abstract) | 38,624 | :material-check:  | 
+| [PRIMUS DR1](https://pzserver.linea.org.br/product/183_primus_dr1) | [Coil et al. (2011)](https://ui.adsabs.harvard.edu/abs/2011ApJ...741....8C/abstract) | 213,696 | :material-check:  | 
 | SAGA DR2 | - |  | :material-clock-outline: |
 | SDSS DR17 | - |  | :material-clock-outline: |
 | SpARCS | - |  | :material-clock-outline: |
 | SPT-GMOS | - |  | :material-clock-outline: |
 | UDS | - |  | :material-clock-outline: |
-| VANDELS DR4 | [Garilli et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021A&A...647A.150G) | 2,165 |:material-hammer-wrench:  | 
+| [VANDELS DR4](https://pzserver.linea.org.br/product/185_vandels_dr4) | [Garilli et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021A%26A...647A.150G/abstract) | 2,165 | :material-check:  | 
 | VIPERS | - | -  | :material-clock-outline: |
-| VLT-VIMOS v201 | [Balestra et al. (2010)](https://ui.adsabs.harvard.edu/abs/2010A&A...512A..12B) | 5,052 |:material-hammer-wrench:  | 
-| VUDS |  - | -  | :material-clock-outline: |
-| VVDS Final Data Release | [Le Fèvre et al. (2005)](https://ui.adsabs.harvard.edu/abs/2005A&A...439..845L) | 40,944 |:material-hammer-wrench:  | 
+| [VLT VIMOS V2.0.1](https://pzserver.linea.org.br/product/186_vlt_vimos_v201) | [Balestra et al. (2010)](https://ui.adsabs.harvard.edu/abs/2010A%26A...512A..12B/abstract) | 5,052 | :material-check:  | 
+| [VUDS DR1](https://pzserver.linea.org.br/product/187_vuds_dr1) | [Tasca et al. (2017)](https://ui.adsabs.harvard.edu/abs/2017A%26A...600A.110T/abstract) | 698 | :material-check:  | 
+| [VVDS Final Data Release](https://pzserver.linea.org.br/product/188_vvds_final_data_release) | [Le Fèvre et al. (2013)](https://ui.adsabs.harvard.edu/abs/2013A%26A...559A..14L/abstract) | 40,944 | :material-check:  |
 | WiggleZ | - | -  | :material-clock-outline: | 
 | zCOSMOS 20k/10k | - | -  | :material-clock-outline: | 
 | ZFIRE | - | -  | :material-clock-outline: | 
@@ -272,39 +272,38 @@ The PZ Server hosts several public spectroscopic redshift catalogs from differen
 :material-clock-outline: Planned &emsp; :material-hammer-wrench: In preparation &emsp; :material-check: Available 
 
 
+### Compiled Redshift Catalogs (CRC)
 
-#### Combined catalogs
+Generated by the **[Combine Redshift Catalogs](https://docs.linea.org.br/sci-platforms/pz_server_crc.html)** pipeline of the **[LSST Photo-z Server](https://docs.linea.org.br/sci-platforms/pz_server.html)**.
 
+| Data Product | Release Date | # of Surveys | # of Objects | Status |
+|--------------|--------------|--------------|--------------|--------|
+| [CRC_CAT_F3_v1](https://pzserver.linea.org.br/product/194_crc_linea_2025_11_cat_f3_v1) | 2025-11-25 | 18 | 1,569,746 | :material-check: |
+| [CRC_CMD_F3_v1](https://pzserver.linea.org.br/product/193_crc_linea_2025_11_cmd_f3_v1) | 2025-11-25 | 18 | 1,569,746 | :material-check: |
+| [CRC_CRD_F3_v1](https://pzserver.linea.org.br/product/195_crc_linea_2025_11_crd_f3_v1) | 2025-11-25 | 18 | 1,026,130 | :material-check: |
+| [CRC_CAT_F0_v1](https://pzserver.linea.org.br/product/201_crc_cat_f0_v1) | 2025-11-25 | 18 | 1,863,704 | :material-check: |
+| [CRC_CMD_F0_v1](https://pzserver.linea.org.br/product/200_crc_cmd_f0_v1) | 2025-11-25 | 18 | 1,863,704 | :material-check: |
+| [CRC_CRD_F0_v1](https://pzserver.linea.org.br/product/202_crc_crd_f0_v1) | 2025-11-25 | 18 | 1,243,643 | :material-check: |
 
-| Data product | Release Date | # of surveys | # of redshifts | Status | 
-|---           |---           |---           |---             |---     |  
-| All combined redshifts | Nov 2025 |   -  | -  | :material-hammer-wrench:  | 
-| Combined redshifts in DP1 footprint | Nov 2025 |    -  | -   |  :material-hammer-wrench:  |          
-
-
-**Legend**<br>
-:material-clock-outline: Planned &emsp; :material-hammer-wrench: In preparation &emsp; :material-check: Available 
-
-<!--
-Quick access via `pzserver` library: 
-
-```python
-pz_server.get_product('<dataset_name>') 
-``` 
--->
+**Legend**  
+:material-clock-outline: Planned &emsp; :material-hammer-wrench: In preparation &emsp; :material-check: Available
 
 
-### Training Sets   
+### Training Sets (TSM)
 
-The result of the spatial cross-matching between the redshift compilations and LSST photometric data.   
+Generated by the **[Training Set Maker (TSM)](https://docs.linea.org.br/sci-platforms/pz_server_tsm.html)** pipeline of the **[LSST Photo-z Server](https://docs.linea.org.br/sci-platforms/pz_server.html)**.
 
-| Data product | Release Date | # of galaxies | Status | 
-|---           |---           |---            |---     |
-| DP1 matched  | Nov 2025     |   -           | :material-hammer-wrench:  | 
+| Data Product | Release Date | # of Objects | Status |
+|--------------|--------------|--------------|--------|
+| [TSM_CATF3v1_DP1McMSFD](https://pzserver.linea.org.br/product/199_tsm_catf3v1_dp1mcmsfd) | 2025-11-25 | 34,709 | :material-check: |
+| [TSM_CMDF3v1_DP1McMSFD](https://pzserver.linea.org.br/product/197_tsm_linea_2025_11_cmdf3v1_dp1mcmsfd) | 2025-11-25 | 34,709 | :material-check: |
+| [TSM_CRDF3v1_DP1McMSFD](https://pzserver.linea.org.br/product/198_tsm_crdf3v1_dp1mcmsfd) | 2025-11-25 | 21,870 | :material-check: |
+| [TSM_CATF0v1_DP1McMSFD](https://pzserver.linea.org.br/product/203_tsm_catf0v1_dp1mcmsfd) | 2025-11-25 | 43,134 | :material-check: |
+| [TSM_CMDF0v1_DP1McMSFD](https://pzserver.linea.org.br/product/205_tsm_cmdf0v1_dp1mcmsfd) | 2025-11-25 | 43,134 | :material-check: |
+| [TSM_CRDF0v1_DP1McMSFD](https://pzserver.linea.org.br/product/204_tsm_crdf0v1_dp1mcmsfd) | 2025-11-25 | 30,199 | :material-check: |
 
-
-**Legend**<br>
-:material-clock-outline: Planned &emsp; :material-hammer-wrench: In preparation &emsp; :material-check: Available 
+**Legend**  
+:material-clock-outline: Planned &emsp; :material-hammer-wrench: In preparation &emsp; :material-check: Available
 
 
 <!--
