@@ -236,7 +236,7 @@ El PZ Server aloja varios catálogos públicos de corrimientos al rojo espectros
 | CANUCS SMACS | - | - | :material-clock-outline: | 
 | CDB | - | - | :material-clock-outline: | 
 | CLASH-VLT FR | - | - | :material-clock-outline: | 
-| COSMOS 2025 | - | - | :material-clock-outline: | 
+| [COSMOS Specz Compilation DR1](https://pzserver.linea.org.br/product/212_cosmos_specz_compilation_dr1) | [Khostovan et al. (2025)](https://ui.adsabs.harvard.edu/abs/2026ApJS..282....6K/abstract) | 482,579 | :material-check:  |
 | DEEP2 DR4 | - | - | :material-clock-outline: | 
 | DEIMOS 10K | - | - | :material-clock-outline: | 
 | DESI EDR | [DESI Collaboration et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....168...58D/abstract) | 2,451,325 |  :material-hammer-wrench:  | 
