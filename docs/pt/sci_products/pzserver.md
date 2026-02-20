@@ -265,7 +265,7 @@ O PZ Server hospeda vários catálogos públicos de redshifts espectroscópicos 
 | [VUDS DR1](https://pzserver.linea.org.br/product/187_vuds_dr1) | [Tasca et al. (2017)](https://ui.adsabs.harvard.edu/abs/2017A%26A...600A.110T/abstract) | 698 | :material-check:  | 
 | [VVDS Final Data Release](https://pzserver.linea.org.br/product/188_vvds_final_data_release) | [Le Fèvre et al. (2013)](https://ui.adsabs.harvard.edu/abs/2013A%26A...559A..14L/abstract) | 40,944 | :material-check:  | 
 | WiggleZ | - | -  | :material-clock-outline: | 
-| zCOSMOS 20k/10k | - | -  | :material-clock-outline: | 
+| [zCOSMOS Final Release](https://pzserver.linea.org.br/product/218_zcosmos_final_release) | [Lilly et al. (2016)](https://www.eso.org/rm/api/v1/public/releaseDescriptions/66) | 20,689 | :material-check:  | 
 | ZFIRE | - | -  | :material-clock-outline: | 
 
 
