@@ -243,7 +243,7 @@ O PZ Server hospeda vários catálogos públicos de redshifts espectroscópicos 
 | DESI EDR | [DESI Collaboration et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....168...58D/abstract) | 2,451,325 |  :material-hammer-wrench:  | 
 | [DESI DR1 within LSST DP1](https://pzserver.linea.org.br/product/178_desi_dr1_within_lsst_dp1) | [DESI Collaboration et al. (2025)](https://ui.adsabs.harvard.edu/abs/2025arXiv250314745D/abstract) | 50,634 | :material-check:  | 
 | Euclid Q1 SPE | - | - | :material-clock-outline: |
-| FMOS-COSMOS | - | - | :material-clock-outline: |
+| [FMOS-COSMOS](https://pzserver.linea.org.br/product/219_fmoscosmos) | [Kashino et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019ApJS..241...10K/abstract) | 5,484 | :material-check:  |
 | AMA DR4 | - | - | :material-clock-outline: |
 | GLASS | - | - | :material-clock-outline: |
 | HectoMAP DR2 | - | - | :material-clock-outline: |
