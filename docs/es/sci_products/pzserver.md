@@ -236,13 +236,14 @@ El PZ Server aloja varios catálogos públicos de corrimientos al rojo espectros
 | CANUCS SMACS | - | - | :material-clock-outline: | 
 | CDB | - | - | :material-clock-outline: | 
 | CLASH-VLT FR | - | - | :material-clock-outline: | 
-| COSMOS 2025 | - | - | :material-clock-outline: | 
+| [COSMOS Specz Compilation DR1](https://pzserver.linea.org.br/product/212_cosmos_specz_compilation_dr1) | [Khostovan et al. (2025)](https://ui.adsabs.harvard.edu/abs/2026ApJS..282....6K/abstract) | 482,579 | :material-check:  |
+| [COSMOS Web DR1 - Column Selection](https://pzserver.linea.org.br/product/214_cosmos_web_dr1__column_selection) | [Shuntov et al. (2025)](https://www.aanda.org/articles/aa/abs/2025/12/aa55799-25/aa55799-25.html) | 784,016 | :material-check:  |
 | DEEP2 DR4 | - | - | :material-clock-outline: | 
-| DEIMOS 10K | - | - | :material-clock-outline: | 
+| [DEIMOS 10K](https://pzserver.linea.org.br/product/215_deimos_10k) | [Hasinger et al. (2018)](https://ui.adsabs.harvard.edu/abs/2018ApJ...858...77H/abstract) | 10,770 | :material-check:  |
 | DESI EDR | [DESI Collaboration et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....168...58D/abstract) | 2,451,325 |  :material-hammer-wrench:  | 
 | [DESI DR1 within LSST DP1](https://pzserver.linea.org.br/product/178_desi_dr1_within_lsst_dp1) | [DESI Collaboration et al. (2025)](https://ui.adsabs.harvard.edu/abs/2025arXiv250314745D/abstract) | 50,634 | :material-check:  | 
 | Euclid Q1 SPE | - | - | :material-clock-outline: |
-| FMOS-COSMOS | - | - | :material-clock-outline: |
+| [FMOS-COSMOS](https://pzserver.linea.org.br/product/219_fmoscosmos) | [Kashino et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019ApJS..241...10K/abstract) | 5,484 | :material-check:  |
 | AMA DR4 | - | - | :material-clock-outline: |
 | GLASS | - | - | :material-clock-outline: |
 | HectoMAP DR2 | - | - | :material-clock-outline: |
@@ -264,7 +265,7 @@ El PZ Server aloja varios catálogos públicos de corrimientos al rojo espectros
 | [VUDS DR1](https://pzserver.linea.org.br/product/187_vuds_dr1) | [Tasca et al. (2017)](https://ui.adsabs.harvard.edu/abs/2017A%26A...600A.110T/abstract) | 698 | :material-check:  | 
 | [VVDS Final Data Release](https://pzserver.linea.org.br/product/188_vvds_final_data_release) | [Le Fèvre et al. (2013)](https://ui.adsabs.harvard.edu/abs/2013A%26A...559A..14L/abstract) | 40,944 | :material-check:  |
 | WiggleZ | - | -  | :material-clock-outline: | 
-| zCOSMOS 20k/10k | - | -  | :material-clock-outline: | 
+| [zCOSMOS Final Release](https://pzserver.linea.org.br/product/218_zcosmos_final_release) | [Lilly et al. (2016)](https://www.eso.org/rm/api/v1/public/releaseDescriptions/66) | 20,689 | :material-check:  | 
 | ZFIRE | - | -  | :material-clock-outline: | 
 
 
