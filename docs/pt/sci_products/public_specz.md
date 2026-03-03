@@ -13,11 +13,11 @@ Em breve, esta amostra será disponibilizada para os usuários do [**LIneA Scien
 ### Download 
 
 ```bash
-$ wget -e robots=off -r -np -nH --cut-dirs=1 -c -R "index.html*" -l 0 https://dev.linea.org.br/~julia/des_dr2/public_specz_compilation.pq
+$ wget -c https://datasets.linea.org.br/redshifts/public_specz_compilation.pq
 ```
 ### Caracterização 
 
-A caracterização detalhada do catálogo compilado de _redshifts_ espectroscópicos públicos pode ser encontrada [neste notebook](https://dev.linea.org.br/~julia/des_dr2/public-specz-compilation.html). **Obs: o método de acesso aos dados utilizado no notebook está desatualizado, favor desconsiderá-lo.**    
+A caracterização detalhada do catálogo compilado de _redshifts_ espectroscópicos públicos pode ser encontrada [neste notebook](https://datasets.linea.org.br/redshifts/public-specz-compilation.html). **Obs: o método de acesso aos dados utilizado no notebook está desatualizado, favor desconsiderá-lo.**    
 
 
 ## Conjunto de treinamento público para _redshifts_ fotométricos
@@ -25,9 +25,9 @@ A caracterização detalhada do catálogo compilado de _redshifts_ espectroscóp
 ### Download
 
 ```bash
-$ wget -e robots=off -r -np -nH --cut-dirs=1 -c -R "index.html*" -l 0 https://dev.linea.org.br/~julia/des_dr2/public_pz_training_set.pq
+$ wget -c https://datasets.linea.org.br/redshifts/public_pz_training_set.pq
 ```
 
 ### Caracterização
 
-A caracterização detalhada do conjunto de treinamento público para _redshifts_ fotométricos pode ser encontrada [neste notebook](https://dev.linea.org.br/~julia/des_dr2/public-training-set-des-dr2.html). **Obs: o método de acesso aos dados utilizado no notebook está desatualizado, favor desconsiderá-lo.**
+A caracterização detalhada do conjunto de treinamento público para _redshifts_ fotométricos pode ser encontrada [neste notebook](https://datasets.linea.org.br/redshifts/public-training-set-des-dr2.html). **Obs: o método de acesso aos dados utilizado no notebook está desatualizado, favor desconsiderá-lo.**
