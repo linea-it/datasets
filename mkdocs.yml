@@ -200,6 +200,7 @@ plugins:
             #         - LSST DP1: en/hpc/lsst_dp1.md
             - Scientific Products:
                 - Scientific Products: en/sci_products/index.md
+                - Public Spec-zs: en/sci_products/public_specz.md
                 - Photo-z Server: en/sci_products/pzserver.md
                 - WaZP Cluster Catalogs: en/sci_products/wazp.md
         - locale: es
@@ -240,6 +241,7 @@ plugins:
             #         - LSST DP1: es/hpc/lsst_dp1.md
             - Productos científicos:
                 - Productos científicos: es/sci_products/index.md
+                - Public Spec-zs: es/sci_products/public_specz.md
                 - Photo-z Server: es/sci_products/pzserver.md
                 - WaZP Cluster Catalogs: es/sci_products/wazp.md
   - search:
