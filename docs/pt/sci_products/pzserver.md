@@ -238,6 +238,7 @@ O PZ Server hospeda vários catálogos públicos de redshifts espectroscópicos 
 | CLASH-VLT FR | - | - | :material-clock-outline: | 
 | [COSMOS Specz Compilation DR1](https://pzserver.linea.org.br/product/212_cosmos_specz_compilation_dr1) | [Khostovan et al. (2025)](https://ui.adsabs.harvard.edu/abs/2026ApJS..282....6K/abstract) | 482,579 | :material-check:  |
 | [COSMOS Web DR1 - Column Selection](https://pzserver.linea.org.br/product/214_cosmos_web_dr1__column_selection) | [Shuntov et al. (2025)](https://www.aanda.org/articles/aa/abs/2025/12/aa55799-25/aa55799-25.html) | 784,016 | :material-check:  |
+| [COSMOS Web DR1 - LEPHARE Extension](https://pzserver.linea.org.br/product/220_cosmos_web_dr1__lephare_extension) | [Shuntov et al. (2025)](https://www.aanda.org/articles/aa/abs/2025/12/aa55799-25/aa55799-25.html) | 784,016 | :material-check:  |
 | DEEP2 DR4 | - | - | :material-clock-outline: | 
 | [DEIMOS 10K](https://pzserver.linea.org.br/product/215_deimos_10k) | [Hasinger et al. (2018)](https://ui.adsabs.harvard.edu/abs/2018ApJ...858...77H/abstract) | 10,770 | :material-check:  |
 | DESI EDR | [DESI Collaboration et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....168...58D/abstract) | 2,451,325 |  :material-hammer-wrench:  | 
