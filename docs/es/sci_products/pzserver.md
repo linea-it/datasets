@@ -229,6 +229,7 @@ El PZ Server aloja varios catálogos públicos de corrimientos al rojo espectros
 | [3D-HST v415](https://pzserver.linea.org.br/product/173_3dhst_v415) | [Momcheva et al. (2016)](https://ui.adsabs.harvard.edu/abs/2016ApJS..225...27M) | 207,967 | :material-check:  | 
 | [6dFGS DR3](https://pzserver.linea.org.br/product/174_6dfgs_dr3) | [Jones et al. (2009)](https://ui.adsabs.harvard.edu/abs/2009MNRAS.399..683J) | 136,304 | :material-check:  | 
 | ACES | - | - | :material-clock-outline: | 
+| AMA DR4 | - | - | :material-clock-outline: |
 | ATLAS | - | - | :material-clock-outline: | 
 | [ASTRODEEP GS43](https://pzserver.linea.org.br/product/176_astrodeep_gs43) | [Merlin et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021A&A...649A..22M/abstract) | 35,108 | :material-check:  | 
 | [ASTRODEEP JWST](https://pzserver.linea.org.br/product/177_astrodeep_jwst) | [Merlin et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...691A.240M/abstract) | 531,173 | :material-check:  | 
@@ -243,9 +244,10 @@ El PZ Server aloja varios catálogos públicos de corrimientos al rojo espectros
 | [DEIMOS 10K](https://pzserver.linea.org.br/product/215_deimos_10k) | [Hasinger et al. (2018)](https://ui.adsabs.harvard.edu/abs/2018ApJ...858...77H/abstract) | 10,770 | :material-check:  |
 | DESI EDR | [DESI Collaboration et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....168...58D/abstract) | 2,451,325 |  :material-hammer-wrench:  | 
 | [DESI DR1 within LSST DP1](https://pzserver.linea.org.br/product/178_desi_dr1_within_lsst_dp1) | [DESI Collaboration et al. (2025)](https://ui.adsabs.harvard.edu/abs/2025arXiv250314745D/abstract) | 50,634 | :material-check:  | 
+| [ELAISFBMC](https://pzserver.linea.org.br/product/233_elaisfbmc) | [Rowan-Robinson et al. (2004)](https://ui.adsabs.harvard.edu/abs/2004MNRAS.351.1290R/abstract) | 3762 | :material-check:  | 
+| [ELAISS1OID](https://pzserver.linea.org.br/product/232_elaiss1oid) | [Feruglio et al. (2008)](https://ui.adsabs.harvard.edu/abs/2008A%26A...488..417F/abstract) | 478 | :material-check:  | 
 | Euclid Q1 SPE | - | - | :material-clock-outline: |
 | [FMOS-COSMOS](https://pzserver.linea.org.br/product/219_fmoscosmos) | [Kashino et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019ApJS..241...10K/abstract) | 5,484 | :material-check:  |
-| AMA DR4 | - | - | :material-clock-outline: |
 | GLASS | - | - | :material-clock-outline: |
 | HectoMAP DR2 | - | - | :material-clock-outline: |
 | HETDEX DR1 | - | - | :material-clock-outline: |

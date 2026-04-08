@@ -222,13 +222,14 @@ Public data collected from the literature and hosted on the Photo-z Server.
 The PZ Server hosts several public spectroscopic redshift catalogs from different surveys that can be used as reference datasets for training and validation of photo-z estimates. The data products listed below are the original catalogs, without any filter or data selection. 
 
 | Data Product | Reference | Number of Redshifts | Status |
-|--------------|-----------|---------------------|---| 
+|-------------------|-----------|--------------------------------|---| 
 | [2dFGRS Final Data Release](https://pzserver.linea.org.br/product/170_2dfgrs_final_data_release) | [Colless et al. (2001)](https://ui.adsabs.harvard.edu/abs/2001MNRAS.328.1039C) | 245,591 | :material-check:  | 
 | [2dFLens Final Data Release](https://pzserver.linea.org.br/product/171_2dflens_final_data_release) | [Blake et al. (2016)](https://ui.adsabs.harvard.edu/abs/2016MNRAS.462.4240B) | 70,079 | :material-check:  | 
 | [2MRS v240](https://pzserver.linea.org.br/product/172_2mrs_v240) | [Huchra et al. (2012)](https://ui.adsabs.harvard.edu/abs/2012ApJS..199...26H) | 240,496 | :material-check:  | 
 | [3D-HST v415](https://pzserver.linea.org.br/product/173_3dhst_v415) | [Momcheva et al. (2016)](https://ui.adsabs.harvard.edu/abs/2016ApJS..225...27M) | 207,967 | :material-check:  | 
 | [6dFGS DR3](https://pzserver.linea.org.br/product/174_6dfgs_dr3) | [Jones et al. (2009)](https://ui.adsabs.harvard.edu/abs/2009MNRAS.399..683J) | 136,304 | :material-check:  | 
 | ACES | - | - | :material-clock-outline: | 
+| AMA DR4 | - | - | :material-clock-outline: |
 | ATLAS | - | - | :material-clock-outline: | 
 | [ASTRODEEP GS43](https://pzserver.linea.org.br/product/176_astrodeep_gs43) | [Merlin et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021A&A...649A..22M/abstract) | 35,108 | :material-check:  | 
 | [ASTRODEEP JWST](https://pzserver.linea.org.br/product/177_astrodeep_jwst) | [Merlin et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...691A.240M/abstract) | 531,173 | :material-check:  | 
@@ -237,15 +238,16 @@ The PZ Server hosts several public spectroscopic redshift catalogs from differen
 | CDB | - | - | :material-clock-outline: | 
 | CLASH-VLT FR | - | - | :material-clock-outline: | 
 | [COSMOS Specz Compilation DR1](https://pzserver.linea.org.br/product/212_cosmos_specz_compilation_dr1) | [Khostovan et al. (2025)](https://ui.adsabs.harvard.edu/abs/2026ApJS..282....6K/abstract) | 482,579 | :material-check:  |
-| [COSMOS Web DR1 - Column Selection](https://pzserver.linea.org.br/product/214_cosmos_web_dr1__column_selection) | [Shuntov et al. (2025)](https://www.aanda.org/articles/aa/abs/2025/12/aa55799-25/aa55799-25.html) | 784,016 | :material-check:  | 
+| [COSMOS Web DR1 - Column Selection](https://pzserver.linea.org.br/product/214_cosmos_web_dr1__column_selection) | [Shuntov et al. (2025)](https://www.aanda.org/articles/aa/abs/2025/12/aa55799-25/aa55799-25.html) | 784,016 | :material-check:  |
 | [COSMOS Web DR1 - LEPHARE Extension](https://pzserver.linea.org.br/product/220_cosmos_web_dr1__lephare_extension) | [Shuntov et al. (2025)](https://www.aanda.org/articles/aa/abs/2025/12/aa55799-25/aa55799-25.html) | 784,016 | :material-check:  |
 | DEEP2 DR4 | - | - | :material-clock-outline: | 
 | [DEIMOS 10K](https://pzserver.linea.org.br/product/215_deimos_10k) | [Hasinger et al. (2018)](https://ui.adsabs.harvard.edu/abs/2018ApJ...858...77H/abstract) | 10,770 | :material-check:  |
 | DESI EDR | [DESI Collaboration et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....168...58D/abstract) | 2,451,325 |  :material-hammer-wrench:  | 
 | [DESI DR1 within LSST DP1](https://pzserver.linea.org.br/product/178_desi_dr1_within_lsst_dp1) | [DESI Collaboration et al. (2025)](https://ui.adsabs.harvard.edu/abs/2025arXiv250314745D/abstract) | 50,634 | :material-check:  | 
+| [ELAISFBMC](https://pzserver.linea.org.br/product/233_elaisfbmc) | [Rowan-Robinson et al. (2004)](https://ui.adsabs.harvard.edu/abs/2004MNRAS.351.1290R/abstract) | 3762 | :material-check:  | 
+| [ELAISS1OID](https://pzserver.linea.org.br/product/232_elaiss1oid) | [Feruglio et al. (2008)](https://ui.adsabs.harvard.edu/abs/2008A%26A...488..417F/abstract) | 478 | :material-check:  | 
 | Euclid Q1 SPE | - | - | :material-clock-outline: |
 | [FMOS-COSMOS](https://pzserver.linea.org.br/product/219_fmoscosmos) | [Kashino et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019ApJS..241...10K/abstract) | 5,484 | :material-check:  |
-| AMA DR4 | - | - | :material-clock-outline: |
 | GLASS | - | - | :material-clock-outline: |
 | HectoMAP DR2 | - | - | :material-clock-outline: |
 | HETDEX DR1 | - | - | :material-clock-outline: |
@@ -253,7 +255,7 @@ The PZ Server hosts several public spectroscopic redshift catalogs from differen
 | LEGA-C DR3 |  - | - | :material-clock-outline: |
 | [MOSDEF Final Data Release](https://pzserver.linea.org.br/product/181_mosdef_final_data_release) | [Kriek et al. (2015)](https://ui.adsabs.harvard.edu/abs/2015ApJS..218...15K/abstract) | 1,791 | :material-check:  |
 | MUSE DR1 | - | - | :material-clock-outline: |
-| [OzDES DR2](https://pzserver.linea.org.br/product/182_ozdes_dr2) | [Lidman et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020MNRAS.496...19L/abstract) | 38,624 | :material-check:  | 
+| [OzDES DR2](https://pzserver.linea.org.br/product/182_ozdes_dr2) | [Lidman et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020MNRAS.496...19L/abstract) | 38,624 | :material-check:  |  
 | [PRIMUS DR1](https://pzserver.linea.org.br/product/183_primus_dr1) | [Coil et al. (2011)](https://ui.adsabs.harvard.edu/abs/2011ApJ...741....8C/abstract) | 213,696 | :material-check:  | 
 | SAGA DR2 | - |  | :material-clock-outline: |
 | SDSS DR17 | - |  | :material-clock-outline: |
@@ -266,7 +268,7 @@ The PZ Server hosts several public spectroscopic redshift catalogs from differen
 | [VUDS DR1](https://pzserver.linea.org.br/product/187_vuds_dr1) | [Tasca et al. (2017)](https://ui.adsabs.harvard.edu/abs/2017A%26A...600A.110T/abstract) | 698 | :material-check:  | 
 | [VVDS Final Data Release](https://pzserver.linea.org.br/product/188_vvds_final_data_release) | [Le Fèvre et al. (2013)](https://ui.adsabs.harvard.edu/abs/2013A%26A...559A..14L/abstract) | 40,944 | :material-check:  |
 | WiggleZ | - | -  | :material-clock-outline: | 
-| [zCOSMOS Final Release](https://pzserver.linea.org.br/product/218_zcosmos_final_release) | [Lilly et al. (2016)](https://www.eso.org/rm/api/v1/public/releaseDescriptions/66) | 20,689 | :material-check:  |
+| [zCOSMOS Final Release](https://pzserver.linea.org.br/product/218_zcosmos_final_release) | [Lilly et al. (2016)](https://www.eso.org/rm/api/v1/public/releaseDescriptions/66) | 20,689 | :material-check:  | 
 | ZFIRE | - | -  | :material-clock-outline: | 
 
 
