@@ -250,6 +250,7 @@ O PZ Server hospeda vários catálogos públicos de redshifts espectroscópicos 
 | [FMOS-COSMOS](https://pzserver.linea.org.br/product/219_fmoscosmos) | [Kashino et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019ApJS..241...10K/abstract) | 5,484 | :material-check:  |
 | GLASS | - | - | :material-clock-outline: |
 | HectoMAP DR2 | - | - | :material-clock-outline: |
+| [HELP DR1 - DMU23 - ELAIS-S1](https://pzserver.linea.org.br/product/234_help_dr1_dmu23_elaiss1) | [Shirley et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.507..129S/abstract) | 18,422 | :material-check:  | 
 | HETDEX DR1 | - | - | :material-clock-outline: |
 | [JADES DR3](https://pzserver.linea.org.br/product/179_jades_dr3) | [D'Eugenio et al. (2025)](https://ui.adsabs.harvard.edu/abs/2025ApJS..277....4D/abstract) | 8,172 | :material-check:  | 
 | LEGA-C DR3 |  - | - | :material-clock-outline: |
