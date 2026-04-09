@@ -20,20 +20,33 @@ Para navegar, use el menú de la izquierda y explore los diferentes conjuntos de
 Vea a continuación una tabla que resume los principales conjuntos de datos disponibles para descarga o consulta a través de los diferentes servicios: 
 
 
-| Survey / release| LSDB | Base de datos | HPC | 
-|---              |:-:   |:-:            |:-:  |
-| 2MASS PSC       |:material-account-group:    |:material-account-group:        | -   | 
-| COSMO DC2       |-     |-         |:material-lock:   |
-| DELVE DR2       |:material-account-group:    | -        | -   |
-| DES DR2 Main    |:material-account-group:    |:material-account-group:        |:material-lock:   |
-| DES DR2 Y6 Gold |:material-account-group:    |:material-hammer-wrench:        |:material-lock:   |
-| DESI DR1        |:material-account-group:    |:material-clock-outline:        | -   |
-| Gaia DR3 Source |:material-account-group:    |:material-account-group:        | -   |
-| LSST DP0.1      |-     |-         |:material-lock:   |
-| LSST DP0.2      |-     | :material-lock:       |:material-lock:   |
-| LSST DP1        |:material-lock:    |:material-lock:        |:material-lock:   |
-| WISE            |:material-clock-outline:    | -        | -   |
-| ZTF             |:material-clock-outline:    | -        | -   |
+| Survey / release| LSDB                     | Base de datos              | HPC                     | HiPS | 
+|---              |:-:                       |:-:                         |:-:                      |:-:   |
+| 2MASS PSC       |:material-account-group:  |:material-account-group:    |:material-lock:          | :material-account-group: |  
+| COSMO DC2       | -                        | -                          |:material-lock:          | -    |
+| DELVE DR2       |:material-account-group:  | -                          |:material-lock:          | -    | 
+| DES DR2 Main    |:material-account-group:  |:material-account-group:    |:material-lock:          |:material-account-group:  | 
+| DES DR2 Y6 Gold |:material-account-group:  |:material-hammer-wrench:    |:material-lock:          |:material-hammer-wrench:  | 
+| DESI DR1        |:material-account-group:  | -                          |:material-lock:          | -   | 
+| eRASS1 Main     |:material-account-group:  | -                          |:material-lock:          | -   | 
+| Euclid Q1in     |:material-account-group:  | -                          |:material-lock:          | -   | 
+| Gaia DR3 Source |:material-account-group:  |:material-account-group:    |:material-lock:          | :material-account-group: |  
+| HSC             |:material-clock-outline:  | -                          |:material-clock-outline: | -   |
+| LSST DP0.1      | -                        | -                          |:material-lock:          | -   | 
+| LSST DP0.2      | -                        |:material-lock:             |:material-lock:          | -   | 
+| LSST DP1        |:material-lock:           |:material-lock:             |:material-lock:          | -   | 
+| MPC             | -                        |:material-account-group:    | -                       | -   |
+| Pan-STARRS      |:material-account-group:  | -                          |:material-lock:          | -   |
+| S-PLUS          |:material-clock-outline:  | -                          |:material-clock-outline: | -   |
+| SDSS DR7        |:material-account-group:  | -                          |:material-lock:          | -   |
+| SIMBAD          | -                        | -                          | -                       |:material-account-group:  | 
+| SkyMapper       |:material-clock-outline:  | -                          |:material-clock-outline: | -   |
+| TESS            |:material-clock-outline:  | -                          |:material-clock-outline: | -   |
+| TNS             |:material-clock-outline:  | -                          |:material-clock-outline: | -   |
+| VSX             |:material-clock-outline:  | -                          |:material-clock-outline: | -   |
+| WISE            |:material-account-group:  | -                          |:material-lock:          | -   |
+| ZTF             |:material-account-group:  | -                          |:material-lock:          | -   |
+
 
 **Leyenda**<br>
 :material-account-group: Público &emsp; :material-lock: Restringido &emsp; :material-clock-outline: Planificado &emsp; :material-hammer-wrench: En preparación
