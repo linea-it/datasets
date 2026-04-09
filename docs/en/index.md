@@ -22,7 +22,7 @@ See below a table summarizing the main datasets available for download or query 
 
 | Survey / release| LSDB                     | Database                   | HPC                     | HiPS | 
 |---              |:-:                       |:-:                         |:-:                      |:-:   |
-| 2MASS PSC       |:material-account-group:  |:material-account-group:    |:material-lock:          | :material-account-group: |  
+| 2MASS PSC       |:material-account-group:  |:material-account-group:    |:material-lock:          | -    |  
 | COSMO DC2       | -                        | -                          |:material-lock:          | -    |
 | DELVE DR2       |:material-account-group:  | -                          |:material-lock:          | -    | 
 | DES DR2 Main    |:material-account-group:  |:material-account-group:    |:material-lock:          |:material-account-group:  | 
@@ -30,22 +30,22 @@ See below a table summarizing the main datasets available for download or query 
 | DESI DR1        |:material-account-group:  | -                          |:material-lock:          | -   | 
 | eRASS1 Main     |:material-account-group:  | -                          |:material-lock:          | -   | 
 | Euclid Q1in     |:material-account-group:  | -                          |:material-lock:          | -   | 
-| Gaia DR3 Source |:material-account-group:  |:material-account-group:    |:material-lock:          | :material-account-group: |  
+| Gaia DR3 Source |:material-account-group:  |:material-account-group:    |:material-lock:          | -   | 
 | HSC             |:material-clock-outline:  | -                          |:material-clock-outline: | -   |
 | LSST DP0.1      | -                        | -                          |:material-lock:          | -   | 
 | LSST DP0.2      | -                        |:material-lock:             |:material-lock:          | -   | 
-| LSST DP1        |:material-lock:           |:material-lock:             |:material-lock:          | -   | 
+| LSST DP1        |:material-lock:           |:material-lock:             |:material-lock:          | :material-lock:  | 
 | MPC             | -                        |:material-account-group:    | -                       | -   |
 | Pan-STARRS      |:material-account-group:  | -                          |:material-lock:          | -   |
 | S-PLUS          |:material-clock-outline:  | -                          |:material-clock-outline: | -   |
 | SDSS DR7        |:material-account-group:  | -                          |:material-lock:          | -   |
-| SIMBAD          | -                        | -                          | -                       |:material-account-group:  | 
+| SIMBAD          | -                        | -                          | -                       | -   | 
 | SkyMapper       |:material-clock-outline:  | -                          |:material-clock-outline: | -   |
 | TESS            |:material-clock-outline:  | -                          |:material-clock-outline: | -   |
 | TNS             |:material-clock-outline:  | -                          |:material-clock-outline: | -   |
 | VSX             |:material-clock-outline:  | -                          |:material-clock-outline: | -   |
 | WISE            |:material-account-group:  | -                          |:material-lock:          | -   |
-| ZTF             |:material-account-group:  | -                          |:material-lock:          | -   |
+| ZTF             |:material-clock-outline:  | -                          |:material-clock-outline: | -   |
 
 
 
