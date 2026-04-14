@@ -1,7 +1,6 @@
 # Data 
 
-!!! Warning "Aviso"
-    Página en construcción. Es posible que parte del contenido esté incompleto o desactualizado.
+
 
 Bienvenido a la página de documentación de datos de LIneA. Aquí encontrará información sobre los conjuntos de datos disponibles e instrucciones sobre cómo acceder a ellos. 
 
@@ -29,7 +28,7 @@ Vea a continuación una tabla que resume los principales conjuntos de datos disp
 | DES DR2 Y6 Gold |:material-account-group:  |:material-hammer-wrench:    |:material-lock:          |:material-hammer-wrench:  | 
 | DESI DR1        |:material-account-group:  | -                          |:material-lock:          | -   | 
 | eRASS1 Main     |:material-account-group:  | -                          |:material-lock:          | -   | 
-| Euclid Q1in     |:material-account-group:  | -                          |:material-lock:          | -   | 
+| Euclid Q1       |:material-account-group:  | -                          |:material-lock:          | -   | 
 | Gaia DR3 Source |:material-account-group:  |:material-account-group:    |:material-lock:          | -   | 
 | HSC             |:material-clock-outline:  | -                          |:material-clock-outline: | -   |
 | LSST DP0.1      | -                        | -                          |:material-lock:          | -   | 

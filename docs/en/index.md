@@ -1,8 +1,5 @@
 # Data 
 
-!!! Warning "Warning"
-    Page under construction. Some content may be incomplete or outdated.
-
 Welcome to the LIneA data documentation page. Here you will find information about the available datasets and instructions on how to access them. 
 
 To access the main user documentation page, with information about all services and tools offered by LIneA to the astronomical community and the general public, visit: [https://docs.linea.org.br](https://docs.linea.org.br).  
@@ -29,7 +26,7 @@ See below a table summarizing the main datasets available for download or query 
 | DES DR2 Y6 Gold |:material-account-group:  |:material-hammer-wrench:    |:material-lock:          |:material-hammer-wrench:  | 
 | DESI DR1        |:material-account-group:  | -                          |:material-lock:          | -   | 
 | eRASS1 Main     |:material-account-group:  | -                          |:material-lock:          | -   | 
-| Euclid Q1in     |:material-account-group:  | -                          |:material-lock:          | -   | 
+| Euclid Q1       |:material-account-group:  | -                          |:material-lock:          | -   | 
 | Gaia DR3 Source |:material-account-group:  |:material-account-group:    |:material-lock:          | -   | 
 | HSC             |:material-clock-outline:  | -                          |:material-clock-outline: | -   |
 | LSST DP0.1      | -                        | -                          |:material-lock:          | -   | 
