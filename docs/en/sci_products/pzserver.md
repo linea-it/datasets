@@ -262,6 +262,7 @@ The PZ Server hosts several public spectroscopic redshift catalogs from differen
 | SDSS DR17 | - |  | :material-clock-outline: |
 | SpARCS | - |  | :material-clock-outline: |
 | SPT-GMOS | - |  | :material-clock-outline: |
+| [SWIRE REVISED PHOTO-Z](https://pzserver.linea.org.br/product/245_swire_revised_photoz) | [Rowan-Robinson et al. (2013)](https://ui.adsabs.harvard.edu/abs/2013MNRAS.428.1958R/abstract) | 1,152,665 | :material-check:  | 
 | UDS | - |  | :material-clock-outline: |
 | [VANDELS DR4](https://pzserver.linea.org.br/product/185_vandels_dr4) | [Garilli et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021A%26A...647A.150G/abstract) | 2,165 | :material-check:  | 
 | VIPERS | - | -  | :material-clock-outline: |
