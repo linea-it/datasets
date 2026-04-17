@@ -250,6 +250,7 @@ O PZ Server hospeda vários catálogos públicos de redshifts espectroscópicos 
 | [FMOS-COSMOS](https://pzserver.linea.org.br/product/219_fmoscosmos) | [Kashino et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019ApJS..241...10K/abstract) | 5,484 | :material-check:  |
 | GLASS | - | - | :material-clock-outline: |
 | HectoMAP DR2 | - | - | :material-clock-outline: |
+| [HELP DR1 - DMU23 - ELAIS-S1](https://pzserver.linea.org.br/product/234_help_dr1_dmu23_elaiss1) | [Shirley et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.507..129S/abstract) | 18,422 | :material-check:  | 
 | HETDEX DR1 | - | - | :material-clock-outline: |
 | [JADES DR3](https://pzserver.linea.org.br/product/179_jades_dr3) | [D'Eugenio et al. (2025)](https://ui.adsabs.harvard.edu/abs/2025ApJS..277....4D/abstract) | 8,172 | :material-check:  | 
 | LEGA-C DR3 |  - | - | :material-clock-outline: |
@@ -261,6 +262,7 @@ O PZ Server hospeda vários catálogos públicos de redshifts espectroscópicos 
 | SDSS DR17 | - |  | :material-clock-outline: |
 | SpARCS | - |  | :material-clock-outline: |
 | SPT-GMOS | - |  | :material-clock-outline: |
+| [SWIRE REVISED PHOTO-Z](https://pzserver.linea.org.br/product/245_swire_revised_photoz) | [Rowan-Robinson et al. (2013)](https://ui.adsabs.harvard.edu/abs/2013MNRAS.428.1958R/abstract) | 1,152,665 | :material-check:  | 
 | UDS | - |  | :material-clock-outline: |
 | [VANDELS DR4](https://pzserver.linea.org.br/product/185_vandels_dr4) | [Garilli et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021A%26A...647A.150G/abstract) | 2,165 | :material-check:  | 
 | VIPERS | - | -  | :material-clock-outline: |
@@ -281,12 +283,8 @@ Gerados pelo pipeline **[Combine Redshift Catalogs](https://docs.linea.org.br/sc
 
 | Produto de Dados | Data de Lançamento | # de Levantamentos | # de Objetos | Status |
 |------------------|--------------------|--------------------|--------------|--------|
-| [CRC_CAT_F3_v1](https://pzserver.linea.org.br/product/194_crc_linea_2025_11_cat_f3_v1) | 2025-11-25 | 18 | 1 569 746 | :material-check: |
-| [CRC_CMD_F3_v1](https://pzserver.linea.org.br/product/193_crc_linea_2025_11_cmd_f3_v1) | 2025-11-25 | 18 | 1 569 746 | :material-check: |
-| [CRC_CRD_F3_v1](https://pzserver.linea.org.br/product/195_crc_linea_2025_11_crd_f3_v1) | 2025-11-25 | 18 | 1 026 130 | :material-check: |
-| [CRC_CAT_F0_v1](https://pzserver.linea.org.br/product/201_crc_cat_f0_v1) | 2025-11-25 | 18 | 1 863 704 | :material-check: |
-| [CRC_CMD_F0_v1](https://pzserver.linea.org.br/product/200_crc_cmd_f0_v1) | 2025-11-25 | 18 | 1 863 704 | :material-check: |
-| [CRC_CRD_F0_v1](https://pzserver.linea.org.br/product/202_crc_crd_f0_v1) | 2025-11-25 | 18 | 1 243 643 | :material-check: |
+| [REF_Z_CLEAN](https://pzserver.linea.org.br/product/222_ref_z_clean) | 03-03-2026 | 23 | 1,301,897 | :material-check: |
+| [REF_Z_COMPLETE](https://pzserver.linea.org.br/product/223_ref_z_complete) | 03-03-2025 | 23 | 3,167,242 | :material-check: |
 
 **Legenda**  
 :material-clock-outline: Planejado &emsp; :material-hammer-wrench: Em preparação &emsp; :material-check: Disponível
@@ -298,12 +296,7 @@ Gerados pelo pipeline **[Training Set Maker (TSM)](https://docs.linea.org.br/sci
 
 | Produto de Dados | Data de Lançamento | # de Objetos | Status |
 |------------------|--------------------|--------------|--------|
-| [TSM_CATF3v1_DP1McMSFD](https://pzserver.linea.org.br/product/199_tsm_catf3v1_dp1mcmsfd) | 2025-11-25 | 34 709 | :material-check: |
-| [TSM_CMDF3v1_DP1McMSFD](https://pzserver.linea.org.br/product/197_tsm_linea_2025_11_cmdf3v1_dp1mcmsfd) | 2025-11-25 | 34 709 | :material-check: |
-| [TSM_CRDF3v1_DP1McMSFD](https://pzserver.linea.org.br/product/198_tsm_crdf3v1_dp1mcmsfd) | 2025-11-25 | 21 870 | :material-check: |
-| [TSM_CATF0v1_DP1McMSFD](https://pzserver.linea.org.br/product/203_tsm_catf0v1_dp1mcmsfd) | 2025-11-25 | 43 134 | :material-check: |
-| [TSM_CMDF0v1_DP1McMSFD](https://pzserver.linea.org.br/product/205_tsm_cmdf0v1_dp1mcmsfd) | 2025-11-25 | 43 134 | :material-check: |
-| [TSM_CRDF0v1_DP1McMSFD](https://pzserver.linea.org.br/product/204_tsm_crdf0v1_dp1mcmsfd) | 2025-11-25 | 30 199 | :material-check: |
+| [DP1_TRAIN_CMODEL](https://pzserver.linea.org.br/product/226_dp1_train_cmodel) | 03-03-2026 | 21,870 | :material-check: |
 
 **Legenda**  
 :material-clock-outline: Planejado &emsp; :material-hammer-wrench: Em preparação &emsp; :material-check: Disponível
