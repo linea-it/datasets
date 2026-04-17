@@ -284,12 +284,8 @@ Generados por el pipeline **[Combine Redshift Catalogs](https://docs.linea.org.b
 
 | Producto de Datos | Fecha de Lanzamiento | # de Levantamientos | # de Objetos | Estado |
 |-------------------|----------------------|----------------------|--------------|--------|
-| [CRC_CAT_F3_v1](https://pzserver.linea.org.br/product/194_crc_linea_2025_11_cat_f3_v1) | 25-11-2025 | 18 | 1.569.746 | :material-check: |
-| [CRC_CMD_F3_v1](https://pzserver.linea.org.br/product/193_crc_linea_2025_11_cmd_f3_v1) | 25-11-2025 | 18 | 1.569.746 | :material-check: |
-| [CRC_CRD_F3_v1](https://pzserver.linea.org.br/product/195_crc_linea_2025_11_crd_f3_v1) | 25-11-2025 | 18 | 1.026.130 | :material-check: |
-| [CRC_CAT_F0_v1](https://pzserver.linea.org.br/product/201_crc_cat_f0_v1) | 25-11-2025 | 18 | 1.863.704 | :material-check: |
-| [CRC_CMD_F0_v1](https://pzserver.linea.org.br/product/200_crc_cmd_f0_v1) | 25-11-2025 | 18 | 1.863.704 | :material-check: |
-| [CRC_CRD_F0_v1](https://pzserver.linea.org.br/product/202_crc_crd_f0_v1) | 25-11-2025 | 18 | 1.243.643 | :material-check: |
+| [REF_Z_CLEAN](https://pzserver.linea.org.br/product/222_ref_z_clean) | 03-03-2026 | 23 | 1,301,897 | :material-check: |
+| [REF_Z_COMPLETE](https://pzserver.linea.org.br/product/223_ref_z_complete) | 03-03-2025 | 23 | 3,167,242 | :material-check: |
 
 **Leyenda**  
 :material-clock-outline: Planificado &emsp; :material-hammer-wrench: En preparación &emsp; :material-check: Disponible
@@ -301,12 +297,7 @@ Generados por el pipeline **[Training Set Maker (TSM)](https://docs.linea.org.br
 
 | Producto de Datos | Fecha de Lanzamiento | # de Objetos | Estado |
 |-------------------|----------------------|--------------|--------|
-| [TSM_CATF3v1_DP1McMSFD](https://pzserver.linea.org.br/product/199_tsm_catf3v1_dp1mcmsfd) | 25-11-2025 | 34.709 | :material-check: |
-| [TSM_CMDF3v1_DP1McMSFD](https://pzserver.linea.org.br/product/197_tsm_linea_2025_11_cmdf3v1_dp1mcmsfd) | 25-11-2025 | 34.709 | :material-check: |
-| [TSM_CRDF3v1_DP1McMSFD](https://pzserver.linea.org.br/product/198_tsm_crdf3v1_dp1mcmsfd) | 25-11-2025 | 21.870 | :material-check: |
-| [TSM_CATF0v1_DP1McMSFD](https://pzserver.linea.org.br/product/203_tsm_catf0v1_dp1mcmsfd) | 25-11-2025 | 43.134 | :material-check: |
-| [TSM_CMDF0v1_DP1McMSFD](https://pzserver.linea.org.br/product/205_tsm_cmdf0v1_dp1mcmsfd) | 25-11-2025 | 43.134 | :material-check: |
-| [TSM_CRDF0v1_DP1McMSFD](https://pzserver.linea.org.br/product/204_tsm_crdf0v1_dp1mcmsfd) | 25-11-2025 | 30.199 | :material-check: |
+| [DP1_TRAIN_CMODEL](https://pzserver.linea.org.br/product/226_dp1_train_cmodel) | 03-03-2026 | 21,870 | :material-check: |
 
 **Leyenda**  
 :material-clock-outline: Planificado &emsp; :material-hammer-wrench: En preparación &emsp; :material-check: Disponible
