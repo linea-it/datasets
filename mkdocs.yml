@@ -16,6 +16,13 @@ nav:
       - Euclid Q1: pt/lsdb/euclid_q1.md
       - Gaia: 
           - Gaia DR3: pt/lsdb/gaia_dr3.md
+      - Pan-STARRS1:
+          - Pan-STARRS1 (objects): pt/lsdb/ps1_objects.md 
+          - Pan-STARRS1 (detection): pt/lsdb/ps1_detection.md
+      - SDSS DR7 Spectra: pt/lsdb/sdss_dr7_spectra.md 
+      - WISE:
+          - AllWISE: pt/lsdb/wise_allwise.md
+          - NEOWISE: pt/lsdb/wise_neowise.md
   - Banco de Dados: pt/database/index.md
   #     - 2MASS PSC: pt/database/two_mass_psc.md
   #     - DES:
@@ -182,6 +189,13 @@ plugins:
                 - Euclid Q1: en/lsdb/euclid_q1.md
                 - Gaia: 
                     - Gaia DR3: en/lsdb/gaia_dr3.md
+                - Pan-STARRS1:
+                    - Pan-STARRS1 (objects): en/lsdb/ps1_objects.md 
+                    - Pan-STARRS1 (detection): en/lsdb/ps1_detection.md                   
+                - SDSS DR7 Spectra: en/lsdb/sdss_dr7_spectra.md
+                - WISE:
+                    - AllWISE: en/lsdb/wise_allwise.md
+                    - NEOWISE: en/lsdb/wise_neowise.md
             - Databases: en/database/index.md
             #     - 2MASS PSC: en/database/two_mass_psc.md
             #     - DES:
@@ -223,6 +237,13 @@ plugins:
                 - Euclid Q1: es/lsdb/euclid_q1.md
                 - Gaia: 
                     - Gaia DR3: es/lsdb/gaia_dr3.md
+                - Pan-STARRS1:
+                    - Pan-STARRS1 (objects): es/lsdb/ps1_objects.md 
+                    - Pan-STARRS1 (detection): es/lsdb/ps1_detection.md                    
+                - SDSS DR7 Spectra: es/lsdb/sdss_dr7_spectra.md
+                - WISE:
+                    - AllWISE: es/lsdb/wise_allwise.md
+                    - NEOWISE: es/lsdb/wise_neowise.md
             - Banco de Dados: es/database/index.md
             #     - 2MASS PSC: es/database/two_mass_psc.md
             #     - DES:
