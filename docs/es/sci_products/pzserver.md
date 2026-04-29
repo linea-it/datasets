@@ -243,16 +243,20 @@ El PZ Server aloja varios catálogos públicos de corrimientos al rojo espectros
 | DEEP2 DR4 | - | - | :material-clock-outline: | 
 | [DEIMOS 10K](https://pzserver.linea.org.br/product/215_deimos_10k) | [Hasinger et al. (2018)](https://ui.adsabs.harvard.edu/abs/2018ApJ...858...77H/abstract) | 10,770 | :material-check:  |
 | DESI EDR | [DESI Collaboration et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....168...58D/abstract) | 2,451,325 |  :material-hammer-wrench:  | 
+| [DESI DR1 lite within Rubin DP2 footprint](https://pzserver.linea.org.br/product/252_desi_dr1_lite_within_rubin_dp2_footprint) | [DESI Collaboration et al. (2025)](https://ui.adsabs.harvard.edu/abs/2025arXiv250314745D/abstract) | 3,097,997 | :material-check:  | 
 | [DESI DR1 within LSST DP1](https://pzserver.linea.org.br/product/178_desi_dr1_within_lsst_dp1) | [DESI Collaboration et al. (2025)](https://ui.adsabs.harvard.edu/abs/2025arXiv250314745D/abstract) | 50,634 | :material-check:  | 
+| [DESI DR1 within Rubin footprint](https://pzserver.linea.org.br/product/247_desi_dr1_within_rubin_footprint) | [DESI Collaboration et al. (2025)](https://ui.adsabs.harvard.edu/abs/2025arXiv250314745D/abstract) | 16,581,358 | :material-check:  | 
 | [ELAISFBMC](https://pzserver.linea.org.br/product/233_elaisfbmc) | [Rowan-Robinson et al. (2004)](https://ui.adsabs.harvard.edu/abs/2004MNRAS.351.1290R/abstract) | 3762 | :material-check:  | 
 | [ELAISS1OID](https://pzserver.linea.org.br/product/232_elaiss1oid) | [Feruglio et al. (2008)](https://ui.adsabs.harvard.edu/abs/2008A%26A...488..417F/abstract) | 478 | :material-check:  | 
 | Euclid Q1 SPE | - | - | :material-clock-outline: |
 | [FMOS-COSMOS](https://pzserver.linea.org.br/product/219_fmoscosmos) | [Kashino et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019ApJS..241...10K/abstract) | 5,484 | :material-check:  |
+| [GAMA DR4](https://pzserver.linea.org.br/product/249_gama_dr4) | [Driver et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022MNRAS.513..439D/abstract) | 522,558 | :material-check:  |
 | GLASS | - | - | :material-clock-outline: |
 | HectoMAP DR2 | - | - | :material-clock-outline: |
 | [HELP DR1 - DMU23 - ELAIS-S1](https://pzserver.linea.org.br/product/234_help_dr1_dmu23_elaiss1) | [Shirley et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.507..129S/abstract) | 18,422 | :material-check:  | 
 | HETDEX DR1 | - | - | :material-clock-outline: |
 | [JADES DR3](https://pzserver.linea.org.br/product/179_jades_dr3) | [D'Eugenio et al. (2025)](https://ui.adsabs.harvard.edu/abs/2025ApJS..277....4D/abstract) | 8,172 | :material-check:  | 
+| [JADES DR4](https://pzserver.linea.org.br/product/253_jades_dr4) | [Curtis-Lake et al. (2025)](https://ui.adsabs.harvard.edu/abs/2025arXiv251001033C/abstract) | 5,190 | :material-check:  | 
 | LEGA-C DR3 |  - | - | :material-clock-outline: |
 | [MOSDEF Final Data Release](https://pzserver.linea.org.br/product/181_mosdef_final_data_release) | [Kriek et al. (2015)](https://ui.adsabs.harvard.edu/abs/2015ApJS..218...15K/abstract) | 1,791 | :material-check:  |
 | MUSE DR1 | - | - | :material-clock-outline: |
@@ -265,11 +269,12 @@ El PZ Server aloja varios catálogos públicos de corrimientos al rojo espectros
 | [SWIRE REVISED PHOTO-Z](https://pzserver.linea.org.br/product/245_swire_revised_photoz) | [Rowan-Robinson et al. (2013)](https://ui.adsabs.harvard.edu/abs/2013MNRAS.428.1958R/abstract) | 1,152,665 | :material-check:  | 
 | UDS | - |  | :material-clock-outline: |
 | [VANDELS DR4](https://pzserver.linea.org.br/product/185_vandels_dr4) | [Garilli et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021A%26A...647A.150G/abstract) | 2,165 | :material-check:  | 
-| VIPERS | - | -  | :material-clock-outline: |
+| [VIPERS PDR-2](https://pzserver.linea.org.br/product/248_vipers_pdr2) | [Scodeggio et al. (2018)](https://ui.adsabs.harvard.edu/abs/2018A%26A...609A..84S/abstract) | 91,507 | :material-check:  | 
 | [VLT VIMOS V2.0.1](https://pzserver.linea.org.br/product/186_vlt_vimos_v201) | [Balestra et al. (2010)](https://ui.adsabs.harvard.edu/abs/2010A%26A...512A..12B/abstract) | 5,052 | :material-check:  | 
 | [VUDS DR1](https://pzserver.linea.org.br/product/187_vuds_dr1) | [Tasca et al. (2017)](https://ui.adsabs.harvard.edu/abs/2017A%26A...600A.110T/abstract) | 698 | :material-check:  | 
 | [VVDS Final Data Release](https://pzserver.linea.org.br/product/188_vvds_final_data_release) | [Le Fèvre et al. (2013)](https://ui.adsabs.harvard.edu/abs/2013A%26A...559A..14L/abstract) | 40,944 | :material-check:  |
 | WiggleZ | - | -  | :material-clock-outline: | 
+| [XMM-LSS](https://pzserver.linea.org.br/product/251_xmmlss) | [Stalin et al. (2010)](https://ui.adsabs.harvard.edu/abs/2010MNRAS.401..294S/abstract) | 487 | :material-check:  |
 | [zCOSMOS Final Release](https://pzserver.linea.org.br/product/218_zcosmos_final_release) | [Lilly et al. (2016)](https://www.eso.org/rm/api/v1/public/releaseDescriptions/66) | 20,689 | :material-check:  | 
 | ZFIRE | - | -  | :material-clock-outline: | 
 
@@ -282,10 +287,12 @@ El PZ Server aloja varios catálogos públicos de corrimientos al rojo espectros
 
 Generados por el pipeline **[Combine Redshift Catalogs](https://docs.linea.org.br/sci-platforms/pz_server_crc.html)** del **[LSST Photo-z Server](https://docs.linea.org.br/sci-platforms/pz_server.html)**.
 
-| Producto de Datos | Fecha de Lanzamiento | # de Levantamientos | # de Objetos | Estado |
+| Producto de Datos | Fecha de Lanzamiento (MM/DD/YYYY) | # de Levantamientos | # de Objetos | Estado |
 |-------------------|----------------------|----------------------|--------------|--------|
-| [REF_Z_CLEAN](https://pzserver.linea.org.br/product/222_ref_z_clean) | 03-03-2026 | 23 | 1,301,897 | :material-check: |
-| [REF_Z_COMPLETE](https://pzserver.linea.org.br/product/223_ref_z_complete) | 03-03-2025 | 23 | 3,167,242 | :material-check: |
+| [REF_Z_CLEAN_NO_DESI](https://pzserver.linea.org.br/product/255_ref_z_clean_no_desi) | 04/28/2026 | 29 | 1,797,291 | :material-check: |
+| [REF_Z_CLEAN](https://pzserver.linea.org.br/product/254_ref_z_clean) | 04/28/2026 | 31 | 3,616,648 | :material-check: |
+| [REF_Z_COMPLETE](https://pzserver.linea.org.br/product/223_ref_z_complete) | 03/03/2026 | 23 | 3,167,242 | :material-check: |
+| [REF_Z_CLEAN](https://pzserver.linea.org.br/product/222_ref_z_clean) | 03/03/2026 | 23 | 1,301,897 | :material-check: |
 
 **Leyenda**  
 :material-clock-outline: Planificado &emsp; :material-hammer-wrench: En preparación &emsp; :material-check: Disponible
@@ -295,9 +302,9 @@ Generados por el pipeline **[Combine Redshift Catalogs](https://docs.linea.org.b
 
 Generados por el pipeline **[Training Set Maker (TSM)](https://docs.linea.org.br/sci-platforms/pz_server_tsm.html)** del **[LSST Photo-z Server](https://docs.linea.org.br/sci-platforms/pz_server.html)**.
 
-| Producto de Datos | Fecha de Lanzamiento | # de Objetos | Estado |
+| Producto de Datos | Fecha de Lanzamiento (MM/DD/YYYY) | # de Objetos | Estado |
 |-------------------|----------------------|--------------|--------|
-| [DP1_TRAIN_CMODEL](https://pzserver.linea.org.br/product/226_dp1_train_cmodel) | 03-03-2026 | 21,870 | :material-check: |
+| [DP1_TRAIN_CMODEL](https://pzserver.linea.org.br/product/226_dp1_train_cmodel) | 03/03/2026 | 21,870 | :material-check: |
 
 **Leyenda**  
 :material-clock-outline: Planificado &emsp; :material-hammer-wrench: En preparación &emsp; :material-check: Disponible
