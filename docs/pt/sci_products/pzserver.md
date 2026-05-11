@@ -246,6 +246,7 @@ O PZ Server hospeda vários catálogos públicos de redshifts espectroscópicos 
 | [DESI DR1 lite within Rubin DP2 footprint](https://pzserver.linea.org.br/product/252_desi_dr1_lite_within_rubin_dp2_footprint) | [DESI Collaboration et al. (2025)](https://ui.adsabs.harvard.edu/abs/2025arXiv250314745D/abstract) | 3,097,997 | :material-check:  | 
 | [DESI DR1 within LSST DP1](https://pzserver.linea.org.br/product/178_desi_dr1_within_lsst_dp1) | [DESI Collaboration et al. (2025)](https://ui.adsabs.harvard.edu/abs/2025arXiv250314745D/abstract) | 50,634 | :material-check:  | 
 | [DESI DR1 within Rubin footprint](https://pzserver.linea.org.br/product/247_desi_dr1_within_rubin_footprint) | [DESI Collaboration et al. (2025)](https://ui.adsabs.harvard.edu/abs/2025arXiv250314745D/abstract) | 16,581,358 | :material-check:  | 
+| [DESI DEEP PILOT](https://pzserver.linea.org.br/product/265_desi_deep_pilot) | [Dey et al. (2026)](https://arxiv.org/pdf/2604.06143) | 7,546 | :material-check:  | 
 | [ELAISFBMC](https://pzserver.linea.org.br/product/233_elaisfbmc) | [Rowan-Robinson et al. (2004)](https://ui.adsabs.harvard.edu/abs/2004MNRAS.351.1290R/abstract) | 3762 | :material-check:  | 
 | [ELAISS1OID](https://pzserver.linea.org.br/product/232_elaiss1oid) | [Feruglio et al. (2008)](https://ui.adsabs.harvard.edu/abs/2008A%26A...488..417F/abstract) | 478 | :material-check:  | 
 | Euclid Q1 SPE | - | - | :material-clock-outline: |
@@ -257,6 +258,8 @@ O PZ Server hospeda vários catálogos públicos de redshifts espectroscópicos 
 | HETDEX DR1 | - | - | :material-clock-outline: |
 | [JADES DR3](https://pzserver.linea.org.br/product/179_jades_dr3) | [D'Eugenio et al. (2025)](https://ui.adsabs.harvard.edu/abs/2025ApJS..277....4D/abstract) | 8,172 | :material-check:  | 
 | [JADES DR4](https://pzserver.linea.org.br/product/253_jades_dr4) | [Curtis-Lake et al. (2025)](https://ui.adsabs.harvard.edu/abs/2025arXiv251001033C/abstract) | 5,190 | :material-check:  | 
+| [JADES DR5 PHOTOZ](https://pzserver.linea.org.br/product/262_jades_dr5_photoz) | [Robertson et al. (2026)](https://ui.adsabs.harvard.edu/abs/2026arXiv260115956R/abstract) | 304,366 | :material-check:  | 
+| [JADES DR5 PHOTOZ_KRON](https://pzserver.linea.org.br/product/263_jades_dr5_photoz_kron) | [Robertson et al. (2026)](https://ui.adsabs.harvard.edu/abs/2026arXiv260115956R/abstract) | 304,366 | :material-check:  | 
 | LEGA-C DR3 |  - | - | :material-clock-outline: |
 | [MOSDEF Final Data Release](https://pzserver.linea.org.br/product/181_mosdef_final_data_release) | [Kriek et al. (2015)](https://ui.adsabs.harvard.edu/abs/2015ApJS..218...15K/abstract) | 1,791 | :material-check:  |
 | MUSE DR1 | - | - | :material-clock-outline: |
