@@ -266,7 +266,7 @@ The PZ Server hosts several public spectroscopic redshift catalogs from differen
 | [OzDES DR2](https://pzserver.linea.org.br/product/182_ozdes_dr2) | [Lidman et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020MNRAS.496...19L/abstract) | 38,624 | :material-check:  |  
 | [PRIMUS DR1](https://pzserver.linea.org.br/product/183_primus_dr1) | [Coil et al. (2011)](https://ui.adsabs.harvard.edu/abs/2011ApJ...741....8C/abstract) | 213,696 | :material-check:  | 
 | SAGA DR2 | - |  | :material-clock-outline: |
-| SDSS DR17 | - |  | :material-clock-outline: |
+| [SDSS DR17 LITE](https://pzserver.linea.org.br/product/267_sdss_dr17_lite) | [Abdurro'uf et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..259...35A/abstract) | 5,801,200 | :material-check:  | 
 | SpARCS | - |  | :material-clock-outline: |
 | SPT-GMOS | - |  | :material-clock-outline: |
 | [SWIRE REVISED PHOTO-Z](https://pzserver.linea.org.br/product/245_swire_revised_photoz) | [Rowan-Robinson et al. (2013)](https://ui.adsabs.harvard.edu/abs/2013MNRAS.428.1958R/abstract) | 1,152,665 | :material-check:  | 
