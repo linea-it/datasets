@@ -237,6 +237,7 @@ O PZ Server hospeda vários catálogos públicos de redshifts espectroscópicos 
 | CANUCS SMACS | - | - | :material-clock-outline: | 
 | CDB | - | - | :material-clock-outline: | 
 | CLASH-VLT FR | - | - | :material-clock-outline: | 
+| [COSMOS2020 CLASSIC LITE](https://pzserver.linea.org.br/product/269_cosmos2020_classic_lite) | [Weaver et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..258...11W/abstract) | 1,720,700 | :material-check:  |
 | [COSMOS Specz Compilation DR1](https://pzserver.linea.org.br/product/212_cosmos_specz_compilation_dr1) | [Khostovan et al. (2025)](https://ui.adsabs.harvard.edu/abs/2026ApJS..282....6K/abstract) | 482,579 | :material-check:  |
 | [COSMOS Web DR1 - Column Selection](https://pzserver.linea.org.br/product/214_cosmos_web_dr1__column_selection) | [Shuntov et al. (2025)](https://www.aanda.org/articles/aa/abs/2025/12/aa55799-25/aa55799-25.html) | 784,016 | :material-check:  |
 | [COSMOS Web DR1 - LEPHARE Extension](https://pzserver.linea.org.br/product/220_cosmos_web_dr1__lephare_extension) | [Shuntov et al. (2025)](https://www.aanda.org/articles/aa/abs/2025/12/aa55799-25/aa55799-25.html) | 784,016 | :material-check:  |
