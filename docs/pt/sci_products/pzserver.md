@@ -237,6 +237,7 @@ O PZ Server hospeda vários catálogos públicos de redshifts espectroscópicos 
 | CANUCS SMACS | - | - | :material-clock-outline: | 
 | CDB | - | - | :material-clock-outline: | 
 | CLASH-VLT FR | - | - | :material-clock-outline: | 
+| [COSMOS2020 CLASSIC LITE](https://pzserver.linea.org.br/product/269_cosmos2020_classic_lite) | [Weaver et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..258...11W/abstract) | 1,720,700 | :material-check:  |
 | [COSMOS Specz Compilation DR1](https://pzserver.linea.org.br/product/212_cosmos_specz_compilation_dr1) | [Khostovan et al. (2025)](https://ui.adsabs.harvard.edu/abs/2026ApJS..282....6K/abstract) | 482,579 | :material-check:  |
 | [COSMOS Web DR1 - Column Selection](https://pzserver.linea.org.br/product/214_cosmos_web_dr1__column_selection) | [Shuntov et al. (2025)](https://www.aanda.org/articles/aa/abs/2025/12/aa55799-25/aa55799-25.html) | 784,016 | :material-check:  |
 | [COSMOS Web DR1 - LEPHARE Extension](https://pzserver.linea.org.br/product/220_cosmos_web_dr1__lephare_extension) | [Shuntov et al. (2025)](https://www.aanda.org/articles/aa/abs/2025/12/aa55799-25/aa55799-25.html) | 784,016 | :material-check:  |
@@ -246,6 +247,7 @@ O PZ Server hospeda vários catálogos públicos de redshifts espectroscópicos 
 | [DESI DR1 lite within Rubin DP2 footprint](https://pzserver.linea.org.br/product/252_desi_dr1_lite_within_rubin_dp2_footprint) | [DESI Collaboration et al. (2025)](https://ui.adsabs.harvard.edu/abs/2025arXiv250314745D/abstract) | 3,097,997 | :material-check:  | 
 | [DESI DR1 within LSST DP1](https://pzserver.linea.org.br/product/178_desi_dr1_within_lsst_dp1) | [DESI Collaboration et al. (2025)](https://ui.adsabs.harvard.edu/abs/2025arXiv250314745D/abstract) | 50,634 | :material-check:  | 
 | [DESI DR1 within Rubin footprint](https://pzserver.linea.org.br/product/247_desi_dr1_within_rubin_footprint) | [DESI Collaboration et al. (2025)](https://ui.adsabs.harvard.edu/abs/2025arXiv250314745D/abstract) | 16,581,358 | :material-check:  | 
+| [DESI DEEP PILOT](https://pzserver.linea.org.br/product/265_desi_deep_pilot) | [Dey et al. (2026)](https://arxiv.org/pdf/2604.06143) | 7,546 | :material-check:  | 
 | [ELAISFBMC](https://pzserver.linea.org.br/product/233_elaisfbmc) | [Rowan-Robinson et al. (2004)](https://ui.adsabs.harvard.edu/abs/2004MNRAS.351.1290R/abstract) | 3762 | :material-check:  | 
 | [ELAISS1OID](https://pzserver.linea.org.br/product/232_elaiss1oid) | [Feruglio et al. (2008)](https://ui.adsabs.harvard.edu/abs/2008A%26A...488..417F/abstract) | 478 | :material-check:  | 
 | Euclid Q1 SPE | - | - | :material-clock-outline: |
@@ -257,13 +259,15 @@ O PZ Server hospeda vários catálogos públicos de redshifts espectroscópicos 
 | HETDEX DR1 | - | - | :material-clock-outline: |
 | [JADES DR3](https://pzserver.linea.org.br/product/179_jades_dr3) | [D'Eugenio et al. (2025)](https://ui.adsabs.harvard.edu/abs/2025ApJS..277....4D/abstract) | 8,172 | :material-check:  | 
 | [JADES DR4](https://pzserver.linea.org.br/product/253_jades_dr4) | [Curtis-Lake et al. (2025)](https://ui.adsabs.harvard.edu/abs/2025arXiv251001033C/abstract) | 5,190 | :material-check:  | 
+| [JADES DR5 PHOTOZ](https://pzserver.linea.org.br/product/262_jades_dr5_photoz) | [Robertson et al. (2026)](https://ui.adsabs.harvard.edu/abs/2026arXiv260115956R/abstract) | 304,366 | :material-check:  | 
+| [JADES DR5 PHOTOZ_KRON](https://pzserver.linea.org.br/product/263_jades_dr5_photoz_kron) | [Robertson et al. (2026)](https://ui.adsabs.harvard.edu/abs/2026arXiv260115956R/abstract) | 304,366 | :material-check:  | 
 | LEGA-C DR3 |  - | - | :material-clock-outline: |
 | [MOSDEF Final Data Release](https://pzserver.linea.org.br/product/181_mosdef_final_data_release) | [Kriek et al. (2015)](https://ui.adsabs.harvard.edu/abs/2015ApJS..218...15K/abstract) | 1,791 | :material-check:  |
 | MUSE DR1 | - | - | :material-clock-outline: |
 | [OzDES DR2](https://pzserver.linea.org.br/product/182_ozdes_dr2) | [Lidman et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020MNRAS.496...19L/abstract) | 38,624 | :material-check:  |  
 | [PRIMUS DR1](https://pzserver.linea.org.br/product/183_primus_dr1) | [Coil et al. (2011)](https://ui.adsabs.harvard.edu/abs/2011ApJ...741....8C/abstract) | 213,696 | :material-check:  | 
 | SAGA DR2 | - |  | :material-clock-outline: |
-| SDSS DR17 | - |  | :material-clock-outline: |
+| [SDSS DR17 LITE](https://pzserver.linea.org.br/product/267_sdss_dr17_lite) | [Abdurro'uf et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..259...35A/abstract) | 5,801,200 | :material-check:  | 
 | SpARCS | - |  | :material-clock-outline: |
 | SPT-GMOS | - |  | :material-clock-outline: |
 | [SWIRE REVISED PHOTO-Z](https://pzserver.linea.org.br/product/245_swire_revised_photoz) | [Rowan-Robinson et al. (2013)](https://ui.adsabs.harvard.edu/abs/2013MNRAS.428.1958R/abstract) | 1,152,665 | :material-check:  | 
