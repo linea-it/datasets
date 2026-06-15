@@ -254,8 +254,8 @@ The PZ Server hosts several public spectroscopic redshift catalogs from differen
 | DESI EDR | [DESI Collaboration et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....168...58D/abstract) | 2,451,325 | :material-clock-outline: |
 | [ELAISFBMC](https://pzserver.linea.org.br/product/233_elaisfbmc) | [Rowan-Robinson et al. (2004)](https://ui.adsabs.harvard.edu/abs/2004MNRAS.351.1290R/abstract) | 3,762 | :material-check: |
 | [ELAISS1OID](https://pzserver.linea.org.br/product/232_elaiss1oid) | [Feruglio et al. (2008)](https://ui.adsabs.harvard.edu/abs/2008A%26A...488..417F/abstract) | 478 | :material-check: |
-| ELG FIGS | - | - | :material-clock-outline: |
-| Euclid Q1 SPE | - | - | :material-clock-outline: |
+| [ELG_FIGS](https://pzserver.linea.org.br/product/301_elg_figs) | [Pharo et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020ApJ...888...79P/abstract) | 201 | :material-check: |
+| [EUCLID Q1 GALAXY BEST RANK](https://pzserver.linea.org.br/product/300_euclid_q1_galaxy_best_rank) | [Euclid Collaboration (2025)](https://ui.adsabs.harvard.edu/abs/2025arXiv250315302E/abstract) | 3,716,438 | :material-check: |
 | [FMOS-COSMOS](https://pzserver.linea.org.br/product/219_fmoscosmos) | [Kashino et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019ApJS..241...10K/abstract) | 5,484 | :material-check: |
 | GAMA DR3 | - | - | :material-clock-outline: |
 | [GAMA DR4](https://pzserver.linea.org.br/product/249_gama_dr4) | [Driver et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022MNRAS.513..439D/abstract) | 522,558 | :material-check: |
@@ -341,8 +341,6 @@ pz_server.get_product('<dataset_name>')
 ``` 
 
 --> 
-
-
 
 
 
