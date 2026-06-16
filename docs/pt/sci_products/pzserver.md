@@ -234,7 +234,7 @@ O PZ Server hospeda vários catálogos públicos de redshifts espectroscópicos 
 | [ASTRODEEP JWST](https://pzserver.linea.org.br/product/177_astrodeep_jwst) | [Merlin et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024A%26A...691A.240M/abstract) | 531,173 | :material-check: |
 | ATLAS DR2 | - | - | :material-clock-outline: |
 | C3R2 DR2 | - | - | :material-clock-outline: |
-| C3R2 DR3 | - | - | :material-clock-outline: |
+| [C3R2 DR3](https://pzserver.linea.org.br/product/303_c3r2_dr3) | [Stanford et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJS..256....9S/abstract) | 676 | :material-check: |
 | CANUCS SMACS | - | - | :material-clock-outline: |
 | CDB | - | - | :material-clock-outline: |
 | CLASH-VLT FR | - | - | :material-clock-outline: |
