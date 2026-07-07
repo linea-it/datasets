@@ -239,7 +239,6 @@ El PZ Server aloja varios catálogos públicos de corrimientos al rojo espectros
 | CDB | - | - | :material-clock-outline: |
 | CLASH-VLT FR | - | - | :material-clock-outline: |
 | [COSMOS Specz Compilation DR1](https://pzserver.linea.org.br/product/212_cosmos_specz_compilation_dr1) | [Khostovan et al. (2025)](https://ui.adsabs.harvard.edu/abs/2026ApJS..282....6K/abstract) | 482,579 | :material-check: |
-| [COSMOS Web DR1 - Column Selection](https://pzserver.linea.org.br/product/214_cosmos_web_dr1__column_selection) | [Shuntov et al. (2025)](https://www.aanda.org/articles/aa/abs/2025/12/aa55799-25/aa55799-25.html) | 784,016 | :material-check: |
 | [COSMOS Web DR1 - LEPHARE Extension](https://pzserver.linea.org.br/product/220_cosmos_web_dr1__lephare_extension) | [Shuntov et al. (2025)](https://www.aanda.org/articles/aa/abs/2025/12/aa55799-25/aa55799-25.html) | 784,016 | :material-check: |
 | [COSMOS2020 CLASSIC LITE](https://pzserver.linea.org.br/product/269_cosmos2020_classic_lite) | [Weaver et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJS..258...11W/abstract) | 1,720,700 | :material-check: |
 | DEEP2 DR4 | - | - | :material-clock-outline: |
@@ -247,11 +246,8 @@ El PZ Server aloja varios catálogos públicos de corrimientos al rojo espectros
 | DES IMACS | - | - | :material-clock-outline: |
 | [DESI DEEP PILOT](https://pzserver.linea.org.br/product/265_desi_deep_pilot) | [Dey et al. (2026)](https://arxiv.org/pdf/2604.06143) | 7,546 | :material-check: |
 | DESI DR1 | - | - | :material-clock-outline: |
-| [DESI DR1 lite within Rubin DP2 footprint](https://pzserver.linea.org.br/product/252_desi_dr1_lite_within_rubin_dp2_footprint) | [DESI Collaboration et al. (2025)](https://ui.adsabs.harvard.edu/abs/2025arXiv250314745D/abstract) | 3,097,997 | :material-check: |
-| [DESI DR1 within LSST DP1](https://pzserver.linea.org.br/product/178_desi_dr1_within_lsst_dp1) | [DESI Collaboration et al. (2025)](https://ui.adsabs.harvard.edu/abs/2025arXiv250314745D/abstract) | 50,634 | :material-check: |
-| [DESI DR1 within Rubin footprint](https://pzserver.linea.org.br/product/247_desi_dr1_within_rubin_footprint) | [DESI Collaboration et al. (2025)](https://ui.adsabs.harvard.edu/abs/2025arXiv250314745D/abstract) | 16,581,358 | :material-check: |
+| [DESI DR1 LITE](https://pzserver.linea.org.br/product/314_desi_dr1_lite) | [DESI Collaboration et al. (2025)](https://ui.adsabs.harvard.edu/abs/2025arXiv250314745D/abstract) | 28,425,963 | :material-check: |
 | DESI DR2 | - | - | :material-clock-outline: |
-| DESI EDR | [DESI Collaboration et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024AJ....168...58D/abstract) | 2,451,325 | :material-clock-outline: |
 | [ELAISFBMC](https://pzserver.linea.org.br/product/233_elaisfbmc) | [Rowan-Robinson et al. (2004)](https://ui.adsabs.harvard.edu/abs/2004MNRAS.351.1290R/abstract) | 3,762 | :material-check: |
 | [ELAISS1OID](https://pzserver.linea.org.br/product/232_elaiss1oid) | [Feruglio et al. (2008)](https://ui.adsabs.harvard.edu/abs/2008A%26A...488..417F/abstract) | 478 | :material-check: |
 | [ELG_FIGS](https://pzserver.linea.org.br/product/301_elg_figs) | [Pharo et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020ApJ...888...79P/abstract) | 201 | :material-check: |
@@ -308,14 +304,11 @@ El PZ Server aloja varios catálogos públicos de corrimientos al rojo espectros
 
 Generados por el pipeline **[Combine Redshift Catalogs](https://docs.linea.org.br/sci-platforms/pz_server_crc.html)** del **[LSST Photo-z Server](https://docs.linea.org.br/sci-platforms/pz_server.html)**.
 
-| Producto de Datos | Fecha de Lanzamiento (MM/DD/YYYY) | # de Levantamientos | # de Objetos | Estado |
+| Producto de Datos | Fecha de Lanzamiento (MM/DD/YYYY) | # de Productos | # de Objetos | Estado |
 |-------------------|----------------------|----------------------|--------------|--------|
-| [REF_Z_CLEAN](https://pzserver.linea.org.br/product/279_ref_z_clean) | 05/19/2026 | 35 | 8,113,358 | :material-check: |
-| [REF_Z_CLEAN_NO_DESI_LSS](https://pzserver.linea.org.br/product/278_ref_z_clean_no_desi_lss) | 05/19/2026 | 33 | 6,503,205 | :material-check: |
-| [REF_Z_CLEAN_NO_DESI](https://pzserver.linea.org.br/product/255_ref_z_clean_no_desi) | 04/28/2026 | 29 | 1,797,291 | :material-check: |
-| [REF_Z_CLEAN](https://pzserver.linea.org.br/product/254_ref_z_clean) | 04/28/2026 | 31 | 3,616,648 | :material-check: |
-| [REF_Z_COMPLETE](https://pzserver.linea.org.br/product/223_ref_z_complete) | 03/03/2026 | 23 | 3,167,242 | :material-check: |
-| [REF_Z_CLEAN](https://pzserver.linea.org.br/product/222_ref_z_clean) | 03/03/2026 | 23 | 1,301,897 | :material-check: |
+| [REF_Z_COMPLETE](https://pzserver.linea.org.br/product/339_ref_z_complete) | 07/06/2026 | 38 | 43,555,318 | :material-check: |
+| [REF_Z_CLEAN](https://pzserver.linea.org.br/product/341_ref_z_clean) | 07/06/2026 | 38 | 20,856,682 | :material-check: |
+| [REF_Z_CLEAN_NO_DESI_LSS](https://pzserver.linea.org.br/product/342_ref_z_clean_no_desi_lss) | 07/06/2026 | 37 | 6,668,608 | :material-check: |
 
 **Leyenda**  
 :material-clock-outline: Planificado &emsp; :material-hammer-wrench: En preparación &emsp; :material-check: Disponible
@@ -327,7 +320,7 @@ Generados por el pipeline **[Training Set Maker (TSM)](https://docs.linea.org.br
 
 | Producto de Datos | Fecha de Lanzamiento (MM/DD/YYYY) | # de Objetos | Estado |
 |-------------------|----------------------|--------------|--------|
-| [DP1_TRAIN_CMODEL](https://pzserver.linea.org.br/product/226_dp1_train_cmodel) | 03/03/2026 | 21,870 | :material-check: |
+| [DP1_TRAIN_CMODEL](https://pzserver.linea.org.br/product/343_dp1_train_cmodel) | 07/07/2026 | 38,843 | :material-check: |
 
 **Leyenda**  
 :material-clock-outline: Planificado &emsp; :material-hammer-wrench: En preparación &emsp; :material-check: Disponible
@@ -341,4 +334,3 @@ pz_server.get_product('<dataset_name>')
 ``` 
 
 --> 
-
