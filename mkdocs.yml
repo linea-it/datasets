@@ -44,7 +44,9 @@ nav:
       - Public Spec-zs: pt/sci_products/public_specz.md
       - Photo-z Server: pt/sci_products/pzserver.md
       - WaZP Cluster Catalogs: pt/sci_products/wazp.md
-
+  - Documentação: pt/docs.md
+  - Créditos: pt/credits.md
+  - Suporte: pt/support.md   
 
 # Site information
 site_name:  Data 
@@ -217,6 +219,10 @@ plugins:
                 - Public Spec-zs: en/sci_products/public_specz.md
                 - Photo-z Server: en/sci_products/pzserver.md
                 - WaZP Cluster Catalogs: en/sci_products/wazp.md
+            - Documentation: en/docs.md
+            - Credits: en/credits.md
+            - Support: en/support.md
+
         - locale: es
           name: Español
           build: true
@@ -265,6 +271,10 @@ plugins:
                 - Public Spec-zs: es/sci_products/public_specz.md
                 - Photo-z Server: es/sci_products/pzserver.md
                 - WaZP Cluster Catalogs: es/sci_products/wazp.md
+            - Documentación: es/docs.md
+            - Créditos: es/credits.md
+            - Soporte: es/support.md
+
   - search:
       enabled: true
   - git-revision-date-localized:
