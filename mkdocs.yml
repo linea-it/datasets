@@ -16,13 +16,35 @@ nav:
       - Euclid Q1: pt/lsdb/euclid_q1.md
       - Gaia: 
           - Gaia DR3: pt/lsdb/gaia_dr3.md
+      - GALEX: pt/lsdb/galex.md  
+      - HSC:
+          - HSC PDR3 g: pt/lsdb/hsc_pdr3_g.md 
+          - HSC PDR3 r: pt/lsdb/hsc_pdr3_r.md 
+          - HSC PDR3 i: pt/lsdb/hsc_pdr3_i.md 
+          - HSC PDR3 z: pt/lsdb/hsc_pdr3_z.md 
+          - HSC PDR3 y: pt/lsdb/hsc_pdr3_y.md 
       - Pan-STARRS1:
           - Pan-STARRS1 (objects): pt/lsdb/ps1_objects.md 
           - Pan-STARRS1 (detection): pt/lsdb/ps1_detection.md
       - SDSS DR7 Spectra: pt/lsdb/sdss_dr7_spectra.md 
+      - Skymapper:
+        - DR4: pt/lsdb/skymapper_dr4.md
+        - Photometry: pt/lsdb/skymapper_photometry.md
+      - TESS:
+        - Lightcurve: pt/lsdb/tess_lightcurve.md
+        - TIC: pt/lsdb/tess_tic.md 
+      - TNS: pt/lsdb/tns.md
+      - VSX: pt/lsdb/vsx.md            
       - WISE:
           - AllWISE: pt/lsdb/wise_allwise.md
           - NEOWISE: pt/lsdb/wise_neowise.md
+      - ZTF: 
+          - ZTF DR14 Objects: pt/lsdb/ztf_dr14_objects.md
+          - ZTF DR14 Source: pt/lsdb/ztf_dr14_source.md
+          - ZTF DR23 Objects: pt/lsdb/ztf_dr23_objects.md
+          - ZTF DR23 Lightcurves: pt/lsdb/ztf_dr23_lightcurves.md
+          - ZTF DR24 Objects: pt/lsdb/ztf_dr24_objects.md
+          - ZTF DR24 Lightcurves: pt/lsdb/ztf_dr24_lightcurves.md
   - Banco de Dados: pt/database/index.md
   #     - 2MASS PSC: pt/database/two_mass_psc.md
   #     - DES:
@@ -41,9 +63,11 @@ nav:
   #         - LSST DP1: pt/hpc/lsst_dp1.md
   - Produtos científicos:
       - Produtos científicos: pt/sci_products/index.md
-      - Public Spec-zs: pt/sci_products/public_specz.md
-      - Photo-z Server: pt/sci_products/pzserver.md
-      - WaZP Cluster Catalogs: pt/sci_products/wazp.md
+      - DES Y6 Gold IR: pt/sci_products/des_y6_gold_ir.md
+      - LSST Photo-z Server: pt/sci_products/pzserver.md
+      - Redshifts Públicos: pt/sci_products/public_specz.md
+      - Predições de Ocultações Estelares : es/sci_products/occultations.md 
+      - Catálogos de Aglomerados WaZP: pt/sci_products/wazp.md
   - Documentação: pt/docs.md
   - Créditos: pt/credits.md
   - Suporte: pt/support.md   
@@ -191,13 +215,35 @@ plugins:
                 - Euclid Q1: en/lsdb/euclid_q1.md
                 - Gaia: 
                     - Gaia DR3: en/lsdb/gaia_dr3.md
+                - GALEX: en/lsdb/galex.md  
+                - HSC:
+                    - HSC PDR3 g: en/lsdb/hsc_pdr3_g.md 
+                    - HSC PDR3 r: en/lsdb/hsc_pdr3_r.md 
+                    - HSC PDR3 i: en/lsdb/hsc_pdr3_i.md 
+                    - HSC PDR3 z: en/lsdb/hsc_pdr3_z.md 
+                    - HSC PDR3 y: en/lsdb/hsc_pdr3_y.md
                 - Pan-STARRS1:
                     - Pan-STARRS1 (objects): en/lsdb/ps1_objects.md 
                     - Pan-STARRS1 (detection): en/lsdb/ps1_detection.md                   
                 - SDSS DR7 Spectra: en/lsdb/sdss_dr7_spectra.md
+                - Skymapper:
+                  - DR4: en/lsdb/skymapper_dr4.md
+                  - Photometry: en/lsdb/skymapper_photometry.md
+                - TESS:
+                  - Lightcurve: en/lsdb/tess_lightcurve.md
+                  - TIC: en/lsdb/tess_tic.md 
+                - TNS: en/lsdb/tns.md
+                - VSX: en/lsdb/vsx.md            
                 - WISE:
                     - AllWISE: en/lsdb/wise_allwise.md
                     - NEOWISE: en/lsdb/wise_neowise.md
+                - ZTF: 
+                    - ZTF DR14 Objects: en/lsdb/ztf_dr14_objects.md
+                    - ZTF DR14 Source: en/lsdb/ztf_dr14_source.md
+                    - ZTF DR23 Objects: en/lsdb/ztf_dr23_objects.md
+                    - ZTF DR23 Lightcurves: en/lsdb/ztf_dr23_lightcurves.md
+                    - ZTF DR24 Objects: en/lsdb/ztf_dr24_objects.md
+                    - ZTF DR24 Lightcurves: en/lsdb/ztf_dr24_lightcurves.md
             - Databases: en/database/index.md
             #     - 2MASS PSC: en/database/two_mass_psc.md
             #     - DES:
@@ -216,8 +262,10 @@ plugins:
             #         - LSST DP1: en/hpc/lsst_dp1.md
             - Scientific Products:
                 - Scientific Products: en/sci_products/index.md
-                - Public Spec-zs: en/sci_products/public_specz.md
-                - Photo-z Server: en/sci_products/pzserver.md
+                - DES Y6 Gold IR: en/sci_products/des_y6_gold_ir.md
+                - LSST Photo-z Server: en/sci_products/pzserver.md
+                - Public Redshifts: en/sci_products/public_specz.md
+                - Stellar Occultations Predictions: en/sci_products/occultations.md 
                 - WaZP Cluster Catalogs: en/sci_products/wazp.md
             - Documentation: en/docs.md
             - Credits: en/credits.md
@@ -243,13 +291,35 @@ plugins:
                 - Euclid Q1: es/lsdb/euclid_q1.md
                 - Gaia: 
                     - Gaia DR3: es/lsdb/gaia_dr3.md
+                - GALEX: es/lsdb/galex.md  
+                - HSC:
+                    - HSC PDR3 g: es/lsdb/hsc_pdr3_g.md 
+                    - HSC PDR3 r: es/lsdb/hsc_pdr3_r.md 
+                    - HSC PDR3 i: es/lsdb/hsc_pdr3_i.md 
+                    - HSC PDR3 z: es/lsdb/hsc_pdr3_z.md 
+                    - HSC PDR3 y: es/lsdb/hsc_pdr3_y.md
                 - Pan-STARRS1:
                     - Pan-STARRS1 (objects): es/lsdb/ps1_objects.md 
                     - Pan-STARRS1 (detection): es/lsdb/ps1_detection.md                    
                 - SDSS DR7 Spectra: es/lsdb/sdss_dr7_spectra.md
+                - Skymapper:
+                  - DR4: es/lsdb/skymapper_dr4.md
+                  - Photometry: es/lsdb/skymapper_photometry.md
+                - TESS:
+                  - Lightcurve: es/lsdb/tess_lightcurve.md
+                  - TIC: es/lsdb/tess_tic.md 
+                - TNS: es/lsdb/tns.md
+                - VSX: es/lsdb/vsx.md            
                 - WISE:
                     - AllWISE: es/lsdb/wise_allwise.md
                     - NEOWISE: es/lsdb/wise_neowise.md
+                - ZTF: 
+                    - ZTF DR14 Objects: es/lsdb/ztf_dr14_objects.md
+                    - ZTF DR14 Source: es/lsdb/ztf_dr14_source.md
+                    - ZTF DR23 Objects: es/lsdb/ztf_dr23_objects.md
+                    - ZTF DR23 Lightcurves: es/lsdb/ztf_dr23_lightcurves.md
+                    - ZTF DR24 Objects: es/lsdb/ztf_dr24_objects.md
+                    - ZTF DR24 Lightcurves: es/lsdb/ztf_dr24_lightcurves.md
             - Banco de Dados: es/database/index.md
             #     - 2MASS PSC: es/database/two_mass_psc.md
             #     - DES:
@@ -268,9 +338,11 @@ plugins:
             #         - LSST DP1: es/hpc/lsst_dp1.md
             - Productos científicos:
                 - Productos científicos: es/sci_products/index.md
-                - Public Spec-zs: es/sci_products/public_specz.md
-                - Photo-z Server: es/sci_products/pzserver.md
-                - WaZP Cluster Catalogs: es/sci_products/wazp.md
+                - DES Y6 Gold IR: es/sci_products/des_y6_gold_ir.md
+                - LSST Photo-z Server: es/sci_products/pzserver.md                
+                - Redshifts Públicos: es/sci_products/public_specz.md
+                - Predicciones de Ocultações Estelares: es/sci_products/occultations.md 
+                - Catálogos de Aglomerados WaZP: es/sci_products/wazp.md
             - Documentación: es/docs.md
             - Créditos: es/credits.md
             - Soporte: es/support.md
