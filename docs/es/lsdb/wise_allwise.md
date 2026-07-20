@@ -2,7 +2,7 @@
 
 
 !!! Warning "Aviso"
-    Página en construcción. Es posible que parte del contenido esté incompleto o desactualizado.
+    Página en construcción. 
 
 
 

@@ -9,3 +9,10 @@ El proyecto pone a disposición una amplia colección de datos públicos en [dat
 Esta infraestructura ofrece mayor eficiencia en la transferencia de datos para usuarios geográficamente cercanos a Brasil y permite que la comunidad astronómica brasileña acceda y analice estos conjuntos de datos de forma eficiente utilizando sus recursos de **computación de alto rendimiento (HPC)**.
 
 Para acceder a la información sobre los conjuntos de datos disponibles en el LSDB alojado por LIneA, navega por el menú de la izquierda.
+
+
+
+!!! abstract "Aviso"
+    Esta es una página de documentación en constante actualización. Algunas información pueden estar incompletas o desactualizadas. En caso de dudas, entre en contacto con el equipo del LIneA a través del correo electrónico: **[helpdesk@linea.org.br](mailto:helpdesk@linea.org.br)**. 
+
+

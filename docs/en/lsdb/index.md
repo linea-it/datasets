@@ -10,3 +10,6 @@ A broad collection of public data is made available by the project on the datase
 This infrastructure provides greater data transfer efficiency for users geographically close to Brazil and allows the Brazilian astronomical community to access and analyze these datasets efficiently using its **high-performance computing (HPC)** resources.
 
 To access information about the datasets available in the LSDB hosted by LIneA, browse the menu on the left.
+
+!!! abstract "Notice"
+    This is a documentation page under constant update. Some information may be incomplete or outdated. In case of questions, please contact the LIneA team via email: **[helpdesk@linea.org.br](mailto:helpdesk@linea.org.br)**. 
