@@ -103,6 +103,11 @@ A continuación se muestra una tabla resumen de los principales conjuntos de im�
 
 :material-floppy: Copia local &emsp; :material-link: Acceso remoto
 
+
+!!! abstract "Aviso"
+    Esta es una página de documentación en constante actualización. Algunas información pueden estar incompletas o desactualizadas. En caso de dudas, entre en contacto con el equipo del LIneA a través del correo electrónico: **[helpdesk@linea.org.br](mailto:helpdesk@linea.org.br)**. 
+
+
 ---
 
 LIneA - Laboratorio Interinstitucional de e-Astronomía - es un laboratorio multiusuario, operado por una organización sin fines de lucro (Asociación LIneA) con el apoyo del Ministerio de Ciencia, Tecnología e Innovación de Brasil.

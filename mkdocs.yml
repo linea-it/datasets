@@ -244,7 +244,7 @@ plugins:
                     - ZTF DR23 Lightcurves: en/lsdb/ztf_dr23_lightcurves.md
                     - ZTF DR24 Objects: en/lsdb/ztf_dr24_objects.md
                     - ZTF DR24 Lightcurves: en/lsdb/ztf_dr24_lightcurves.md
-            - Databases: en/database/index.md
+            - Database: en/database/index.md
             #     - 2MASS PSC: en/database/two_mass_psc.md
             #     - DES:
             #         - DES DR2: en/database/des_dr2.md

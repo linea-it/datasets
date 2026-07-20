@@ -102,6 +102,11 @@ Below is a summary table of the main image datasets available for download or qu
 
 :material-floppy: Local copy &emsp; :material-link: Remote access
 
+
+!!! abstract "Notice"
+    This is a documentation page under constant update. Some information may be incomplete or outdated. In case of questions, please contact the LIneA team via email: **[helpdesk@linea.org.br](mailto:helpdesk@linea.org.br)**. 
+
+
 ---
 
 LIneA - Laboratório Interinstitucional de e-Astronomia - is a multi-user laboratory, operated by a non-profit organization (Associação LIneA) with support from the Brazilian Ministry of Science, Technology and Innovation.

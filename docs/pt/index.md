@@ -105,6 +105,10 @@ Confira abaixo a tabela com o resumo dos principais conjuntos de imagens dispon�
 
 :material-floppy: Cópia local &emsp; :material-link: Acesso remoto 
 
+
+!!! abstract "Aviso"
+    Esta é uma página de documentação em constante atualização. Algumas informações podem estar incompletas ou desatualizadas. Em caso de dúvidas, entre em contato com a equipe do LIneA através do e-mail: **[helpdesk@linea.org.br](mailto:helpdesk@linea.org.br)**. 
+
 ---
 
 O LIneA - Laboratório Interinstitucional de e-Astronomia - é um laboratório multiusuário, operado por uma organização sem fins lucrativos (Associação LIneA) com apoio do Ministério da Ciência, Tecnologia e Inovação do Brasil.
