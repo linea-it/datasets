@@ -2,7 +2,11 @@
 
 Bienvenido a la página de documentación de datos del LIneA. Aquí encontrará información sobre los conjuntos de datos disponibles e instrucciones para acceder a ellos.
 
-Para acceder a la página principal de documentación para usuarios, con información sobre todos los servicios y herramientas ofrecidos a la comunidad astronómica y al público en general, visite: [https://docs.linea.org.br](https://docs.linea.org.br).
+
+### Perfiles de usuario y niveles de acceso
+LIneA ofrece diferentes perfiles de usuario, cada uno con niveles de acceso específicos a los datos y servicios disponibles. Para conocer qué servicios están disponibles para cada perfil, consulte la [tabla](https://docs.linea.org.br/es/sci-platforms/index.html#acceso-a-los-servicios-y-plataformas-de-linea) disponible en la página de información sobre las plataformas científicas en el sitio de [documentación para usuarios](https://docs.linea.org.br/es/). 
+
+
 
 ---
 
@@ -35,13 +39,12 @@ A continuación se muestra una tabla resumen de los principales catálogos dispo
 | LSST DP0.1            | -                        | -                        | :material-lock:          | -                        |
 | LSST DP0.2            | -                        | :material-lock:          | :material-lock:          | -                        |
 | LSST DP1              | :material-lock:          | :material-lock:          | :material-lock:          | :material-lock:          |
-| LSST DP2              | :material-clock-outline: | :material-clock-outline: | :material-clock-outline: | :material-clock-outline: |
+| LSST DP2              | :material-hammer-wrench: | :material-hammer-wrench: | :material-hammer-wrench: | :material-hammer-wrench: |
 | LSST DR1-DR11         | :material-clock-outline: | :material-clock-outline: | :material-clock-outline: | :material-clock-outline: |
 | MPC                   | -                        | :material-account-group: | -                        | -                        |
 | Pan-STARRS            | :material-account-group: | -                        | :material-lock:          | -                        |
 | S-PLUS                | :material-clock-outline: | -                        | :material-clock-outline: | -                        |
 | SDSS DR7              | :material-account-group: | -                        | :material-lock:          | -                        |
-| SIMBAD                | -                        | -                        | -                        | :material-account-group: |
 | SkyMapper             | :material-account-group: | -                        | :material-lock:          | -                        |
 | TESS                  | :material-account-group: | -                        | :material-lock:          | -                        |
 | TNS                   | :material-account-group: | -                        | :material-lock:          | -                        |

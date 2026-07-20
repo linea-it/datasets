@@ -260,8 +260,8 @@ plugins:
             #     - LSST:
             #         - LSST DP0.2: en/hpc/lsst_dp0.2.md 
             #         - LSST DP1: en/hpc/lsst_dp1.md
-            - Scientific Products:
-                - Scientific Products: en/sci_products/index.md
+            - Science Products:
+                - Science Products: en/sci_products/index.md
                 - DES Y6 Gold IR: en/sci_products/des_y6_gold_ir.md
                 - LSST Photo-z Server: en/sci_products/pzserver.md
                 - Public Redshifts: en/sci_products/public_specz.md
