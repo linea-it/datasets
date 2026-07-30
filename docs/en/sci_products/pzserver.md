@@ -27,16 +27,16 @@ Besides data uploaded by users, the [User-generated Data Products](https://pzser
 Detailed information about the DR2 PZ data products will be available in the tech note [RTN-124](https://rtn-124.lsst.io) (in preparation).
 
 !!! warning "Section under construction"  
-    Links and descriptions below might change. 
+    Links and descriptions below might change soon. 
 
 ### Redshift Reference Sample
 
 A compilation of reference redshifts produced using the pipeline [**Combine Redshift Catalogs**](https://docs.linea.org.br/sci-platforms/pz_server_crc.html) to combine 38 catalogs with data from 51 surveys, mostly spectroscopic, to be matched to the LSST Object catalog to produce training and test sets for photo-z algorithms.
 
 
-| Data Product | Description | \# of source catalogs | \# of objects | Status | 
+| Data Product | Description | # of source catalogs | # of objects | Status | 
 | :---- | :---- | :---- | :---- | :---- |
-| [REF\_Z\_CLEAN\_NO\_DESI\_LSS](https://pzserver.linea.org.br/product/342_ref_z_clean_no_desi_lss) | Unique objects with quality flag $\geq$ 3, excluding DESI DR1 | 37 | 6,668,608 | :material-check: |
+| [REF_Z_CLEAN_NO_DESI_LSS](https://pzserver.linea.org.br/product/342_ref_z_clean_no_desi_lss) | Unique objects with quality flag $\geq$ 3, excluding DESI DR1 | 37 | 6,668,608 | :material-check: |
 | [DESI DR1 LITE](https://pzserver.linea.org.br/product/314_desi_dr1_lite) | DESI DR1 (column selection)| 1 | 28,425,963 | :material-check: |
 
 :material-clock-outline: Planned   :material-hammer-wrench: In preparation   :material-check: Available
@@ -47,10 +47,10 @@ A compilation of reference redshifts produced using the pipeline [**Combine Reds
 
 | Data Product | Description | # of objects | Status | 
 | :---- | :---- | :----  | :---- |
-| MATCHED\_CLEAN <br> RTN-124| [REF\_Z\_CLEAN\_NO\_DESI\_LSS](https://pzserver.linea.org.br/product/342_ref_z_clean_no_desi_lss) matched to DP2 Objects |  1194088 | :material-hammer-wrench:| 
-| MATCHED\_DESI  <br> RTN-124    | [DESI DR1 LITE](https://pzserver.linea.org.br/product/314_desi_dr1_lite)  matched to DP2 Objects  |  1544298 | :material-hammer-wrench:| 
-| CLIPPED\_TRAIN <br> RTN-124| 80% random from MATCHED\_CLEAN trimmed for biased excess based on i_mag-redshift binning | 554676 | :material-hammer-wrench:| 
-| SOM\_TEST <br> RTN-124| remaining 20% from MATCHED_CLEAN SOM-based sampling to mimic "DP2 galaxies" |  18400 | :material-hammer-wrench:| 
+| MATCHED_CLEAN <br> RTN-124| [REF_Z_CLEAN_NO_DESI_LSS](https://pzserver.linea.org.br/product/342_ref_z_clean_no_desi_lss) matched to DP2 Objects |  1194088 | :material-hammer-wrench:| 
+| MATCHED_DESI  <br> RTN-124    | [DESI DR1 LITE](https://pzserver.linea.org.br/product/314_desi_dr1_lite)  matched to DP2 Objects  |  1544298 | :material-hammer-wrench:| 
+| [CLIPPED_TRAIN <br> RTN-124]()| 80% random from MATCHED_CLEAN trimmed for biased excess based on i_mag-redshift binning | 554676 | :material-hammer-wrench:| 
+| [SOM_TEST <br> RTN-124]()| remaining 20% from MATCHED_CLEAN SOM-based sampling to mimic "DP2 galaxies" |  18400 | :material-hammer-wrench:| 
 
 :material-clock-outline: Planned   :material-hammer-wrench: In preparation   :material-check: Available
 
@@ -58,10 +58,26 @@ A compilation of reference redshifts produced using the pipeline [**Combine Reds
 ### Training Results
 
 
+| Gold baseline | Gold 4 bands | Gold 6 bands |  
+|---------------|-------------------|--------------------------| 
+| [BPZ model DP2 gold baseline RTN-124]()   :material-hammer-wrench: | [BPZ model DP2 gold 4 bands RTN-124]()  :material-hammer-wrench:  | [BPZ model DP2 gold 6 bands RTN-124]()  :material-hammer-wrench:  |
+| [DNF model DP2 gold baseline RTN-124]()  :material-hammer-wrench:  | [DNF model DP2 gold 4 bands RTN-124]()  :material-hammer-wrench:  | [DNF model DP2 gold 6 bands RTN-124]()   :material-hammer-wrench: |
+| [FlexZBoost model DP2 gold baseline RTN-124]()   :material-hammer-wrench: | [FlexZBoost model DP2 gold 4 bands RTN-124]() | [FlexZBoost model DP2 gold 6 bands RTN-124]()  :material-hammer-wrench:  |
+| [GPz model DP2 gold baseline RTN-124]()  :material-hammer-wrench:  | [GPz model DP2 gold 4 bands RTN-124]()  :material-hammer-wrench:  | [GPz model DP2 gold 6 bands RTN-124]()  :material-hammer-wrench:  |
+| [kNN model DP2 gold baseline RTN-124]()   :material-hammer-wrench: | [kNN model DP2 gold 4 bands RTN-124]()  :material-hammer-wrench:  | [kNN model DP2 gold 6 bands RTN-124]()   :material-hammer-wrench: |
+| [LePhare model DP2 gold baseline RTN-124]()  :material-hammer-wrench:  | [LePhare model DP2 gold 4 bands RTN-124]()  :material-hammer-wrench:  | [LePhare model DP2 gold 6 bands RTN-124]()  :material-hammer-wrench:  |
+| [TPZ model DP2 gold baseline RTN-124]()   :material-hammer-wrench: | [TPZ model DP2 gold 4 bands RTN-124]()  :material-hammer-wrench:  | [TPZ model DP2 gold 6 bands RTN-124]()   :material-hammer-wrench: |
+
+
 ### Validation Results
 
+To be added soon. 
 
 ### Photo-z Estimates
+
+To be added soon. 
+
+For now, Photo-z Estimates can be accessed via LSDB. For more information, visit: [LSDB.io page](https://data.lsdb.io/Rubin/DP2/object_photoz)  
 
 ---
 
@@ -93,9 +109,9 @@ All DP1 fields comprehensive Gold dataset beyond the fields ECDFS+EDFS+SV_95 and
 
 
 
-### Reference Redshift Catalogs 
+### Redshift Reference Catalogs 
 
-#### Reference Redshift Catalogs from Individual Surveys 
+#### Redshift Reference Catalogs from Individual Surveys 
 
 Data products containing reference redshifts catalogs (before matching with DP1 Object table) separated by the origin survey as listed in Table 2 from the tech note [SITCOMTN-154](https://sitcomtn-154.lsst.io/). 
 
@@ -139,10 +155,6 @@ A single file containing all reference redshifts combined from the individual su
 | Data Product | Number of Redshifts |
 |--------------|---------------------|
 | [ComCam ECDFS z catalog SITCOMTN-154](https://pzserver.linea.org.br/product/77_comcam_ecdfs_z_catalog_sitcomtn154) |104,070| 
-
-
-
-
 
 
 
