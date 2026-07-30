@@ -22,6 +22,40 @@ Besides data uploaded by users, the [User-generated Data Products](https://pzser
 
 --- 
 
+## Data Preview 2
+
+Detailed information about the DR2 PZ data products will be available in the tech note [RTN-124](https://rtn-124.lsst.io) (in preparation).
+
+### Redshift Reference Sample
+
+A compilation of reference redshifts produced using the pipeline [**Combine Redshift Catalogs**](https://docs.linea.org.br/sci-platforms/pz_server_crc.html) to combine 38 catalogs with data from 51 surveys, mostly spectroscopic, to be matched to the LSST Object catalog to produce training and test sets for photo-z algorithms.
+
+
+| Data Product | Description | \# of source catalogs | \# of objects | Status | 
+| :---- | :---- | :---- | :---- | :---- |
+| [REF\_Z\_COMPLETE](https://pzserver.linea.org.br/product/339_ref_z_complete) | All redshifts available. | 38 | 43,555,318 | :material-check: |
+| [REF\_Z\_CLEAN](https://pzserver.linea.org.br/product/341_ref_z_clean) | Unique objects with quality flag $\geq$ 3 | 38 | 20,856,682 | :material-check: |
+| [REF\_Z\_CLEAN\_NO\_DESI\_LSS](https://pzserver.linea.org.br/product/342_ref_z_clean_no_desi_lss) | Unique objects with quality flag $\geq$ 3, excluding DESI DR1 | 37 | 6,668,608 | :material-check: |
+| [DESI DR1 LITE](https://pzserver.linea.org.br/product/314_desi_dr1_lite) | DESI DR1 (column selection)| 1 | 28,425,963 | :material-check: |
+
+:material-clock-outline: Planned   :material-hammer-wrench: In preparation   :material-check: Available
+
+
+### Training and Test Sets
+
+#### Raw matched catalog 
+
+#### Refined training and test sets 
+
+
+### Training Results
+
+### Validation Results
+
+### Photo-z Estimates
+
+---
+
 
 ## Data Preview 1 
 
