@@ -26,6 +26,9 @@ Besides data uploaded by users, the [User-generated Data Products](https://pzser
 
 Detailed information about the DR2 PZ data products will be available in the tech note [RTN-124](https://rtn-124.lsst.io) (in preparation).
 
+!!! warning "Section under construction"  
+    Links and descriptions below might change. 
+
 ### Redshift Reference Sample
 
 A compilation of reference redshifts produced using the pipeline [**Combine Redshift Catalogs**](https://docs.linea.org.br/sci-platforms/pz_server_crc.html) to combine 38 catalogs with data from 51 surveys, mostly spectroscopic, to be matched to the LSST Object catalog to produce training and test sets for photo-z algorithms.
@@ -33,8 +36,6 @@ A compilation of reference redshifts produced using the pipeline [**Combine Reds
 
 | Data Product | Description | \# of source catalogs | \# of objects | Status | 
 | :---- | :---- | :---- | :---- | :---- |
-| [REF\_Z\_COMPLETE](https://pzserver.linea.org.br/product/339_ref_z_complete) | All redshifts available. | 38 | 43,555,318 | :material-check: |
-| [REF\_Z\_CLEAN](https://pzserver.linea.org.br/product/341_ref_z_clean) | Unique objects with quality flag $\geq$ 3 | 38 | 20,856,682 | :material-check: |
 | [REF\_Z\_CLEAN\_NO\_DESI\_LSS](https://pzserver.linea.org.br/product/342_ref_z_clean_no_desi_lss) | Unique objects with quality flag $\geq$ 3, excluding DESI DR1 | 37 | 6,668,608 | :material-check: |
 | [DESI DR1 LITE](https://pzserver.linea.org.br/product/314_desi_dr1_lite) | DESI DR1 (column selection)| 1 | 28,425,963 | :material-check: |
 
@@ -43,14 +44,22 @@ A compilation of reference redshifts produced using the pipeline [**Combine Reds
 
 ### Training and Test Sets
 
-#### Raw matched catalog 
 
-#### Refined training and test sets 
+| Data Product | Description | # of objects | Status | 
+| :---- | :---- | :----  | :---- |
+| MATCHED\_CLEAN <br> RTN-124| [REF\_Z\_CLEAN\_NO\_DESI\_LSS](https://pzserver.linea.org.br/product/342_ref_z_clean_no_desi_lss) matched to DP2 Objects |  1194088 | :material-hammer-wrench:| 
+| MATCHED\_DESI  <br> RTN-124    | [DESI DR1 LITE](https://pzserver.linea.org.br/product/314_desi_dr1_lite)  matched to DP2 Objects  |  1544298 | :material-hammer-wrench:| 
+| CLIPPED\_TRAIN <br> RTN-124| 80% random from MATCHED\_CLEAN trimmed for biased excess based on i_mag-redshift binning | 554676 | :material-hammer-wrench:| 
+| SOM\_TEST <br> RTN-124| remaining 20% from MATCHED_CLEAN SOM-based sampling to mimic "DP2 galaxies" |  18400 | :material-hammer-wrench:| 
+
+:material-clock-outline: Planned   :material-hammer-wrench: In preparation   :material-check: Available
 
 
 ### Training Results
 
+
 ### Validation Results
+
 
 ### Photo-z Estimates
 
@@ -58,16 +67,6 @@ A compilation of reference redshifts produced using the pipeline [**Combine Reds
 
 
 ## Data Preview 1 
-
-
-!!! warning "ATTENTION: Preliminary Datasets"  
-    These datasets were produced by the PZ Science Unit — a working group from Rubin’s Commissioning Team — during the _Initial studies of photometric redshifts with LSSTComCam from DP1_. All results, along with detailed dataset descriptions, are available in the tech note [SITCOMTN-154](https://sitcomtn-154.lsst.io/).
-
-    **These datasets are NOT classified as Official Datasets released by Rubin's DM team.**  
-
-
-
-The datasets described in the tech note are available in the [Photo-z Server](https://pzserver.linea.org.br) as data products with `SITCOMTN-154` suffix. Their links and short description are organized in product types below. 
 
 
 ### Object Catalogs 
