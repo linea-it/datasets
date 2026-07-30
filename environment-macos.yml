@@ -1,0 +1,25 @@
+name: datasets
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.12
+  - pip
+  - mkdocs
+  - mkdocs-material
+  - mkdocs-get-deps
+  - mkdocs-git-revision-date-localized-plugin
+  - babel
+  - backrefs
+  - gitpython
+  - markdown
+  - pygments
+  - pymdown-extensions
+  - pyyaml
+  - requests
+
+  - pip:
+      - mkdocs-static-i18n==1.3.0
+
