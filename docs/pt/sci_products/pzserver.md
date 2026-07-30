@@ -30,25 +30,27 @@ Informações detalhadas sobre os DR2 PZ Data Products estarão disponíveis na 
 
 ### Amostra de redshifts de referência
 
-Uma compilação de redshifts de referência produzida usando o pipeline [**Combine Redshift Catalogs (CRC)**](https://docs.linea.org.br/sci-platforms/pz_server_crc.html), combinando 38 catálogos com dados de 51 surveys, em sua maioria espectroscópicos, para pareamento com o catálogo LSST Object a fim de produzir conjuntos de treinamento e teste para algoritmos photo-z.
+Uma compilação de redshifts de referência produzida usando o pipeline [**Combine Redshift Catalogs (CRC)**](https://docs.linea.org.br/sci-platforms/pz_server_crc.html), combinando 38 catálogos com dados de 51 surveys, em sua maioria espectroscópicos, para fazer match com o catálogo LSST Object a fim de produzir conjuntos de treinamento e teste para algoritmos photo-z.
 
 | Produto de dados | Descrição | # de catálogos fonte | # de objetos | Status |
 | --- | --- | --- | --- | --- |
 | [REF_Z_CLEAN_NO_DESI_LSS](https://pzserver.linea.org.br/product/342_ref_z_clean_no_desi_lss) | Objetos únicos com flag de qualidade $\geq$ 3, excluindo DESI DR1 | 37 | 6,668,608 | :material-check: |
 | [DESI DR1 LITE](https://pzserver.linea.org.br/product/314_desi_dr1_lite) | DESI DR1 (seleção de colunas) | 1 | 28,425,963 | :material-check: |
 
-:material-clock-outline: Planejado   :material-hammer-wrench: Em preparação   :material-check: Disponível
+**Legenda**<br>
+:material-clock-outline: Planejado &emsp; :material-hammer-wrench: Em preparação &emsp; :material-check: Disponível
 
 ### Conjuntos de treinamento e teste
 
 | Produto de dados | Descrição | # de objetos | Status |
 | --- | --- | --- | --- |
-| [MATCHED_CLEAN RTN-124](https://pzserver.linea.org.br/product/417_matched_clean_rtn124) | [REF_Z_CLEAN_NO_DESI_LSS](https://pzserver.linea.org.br/product/342_ref_z_clean_no_desi_lss) pareado com DP2 Objects | 1194088 | :material-check: |
-| [MATCHED_DESI RTN-124](https://pzserver.linea.org.br/product/418_matched_desi_rtn124) | [DESI DR1 LITE](https://pzserver.linea.org.br/product/314_desi_dr1_lite) pareado com DP2 Objects | 1,544,298 | :material-check: |
+| [MATCHED_CLEAN RTN-124](https://pzserver.linea.org.br/product/417_matched_clean_rtn124) | [REF_Z_CLEAN_NO_DESI_LSS](https://pzserver.linea.org.br/product/342_ref_z_clean_no_desi_lss) matched com DP2 Objects | 1194088 | :material-check: |
+| [MATCHED_DESI RTN-124](https://pzserver.linea.org.br/product/418_matched_desi_rtn124) | [DESI DR1 LITE](https://pzserver.linea.org.br/product/314_desi_dr1_lite) matched com DP2 Objects | 1,544,298 | :material-check: |
 | [CLIPPED_TRAIN RTN-124 (PARQUET)](https://pzserver.linea.org.br/product/415_clipped_train_rtn124_parquet) | Amostra aleatória de 80% de MATCHED_CLEAN, recortada para remover excesso enviesado com base em bins de i_mag-redshift | 554,676 | :material-check: |
 | [SOM_TEST RTN-124 (PARQUET)](https://pzserver.linea.org.br/product/412_som_test_rtn124_parquet) | 20% restantes de MATCHED_CLEAN com amostragem baseada em SOM para mimetizar "DP2 galaxies" | 18,400 | :material-check: |
 
-:material-clock-outline: Planejado   :material-hammer-wrench: Em preparação   :material-check: Disponível
+**Legenda**<br>
+:material-clock-outline: Planejado &emsp; :material-hammer-wrench: Em preparação &emsp; :material-check: Disponível
 
 ### Resultados de treinamento
 
@@ -61,6 +63,9 @@ Uma compilação de redshifts de referência produzida usando o pipeline [**Comb
 | [kNN model DP2 gold baseline RTN-124](https://pzserver.linea.org.br/product/423_knn_model_dp2_gold_baseline_rtn124)   :material-check: | [kNN model DP2 gold 4 bands RTN-124](https://pzserver.linea.org.br/product/430_knn_model_dp2_gold_4_bands_rtn124)  :material-check: | [kNN model DP2 gold 6 bands RTN-124](https://pzserver.linea.org.br/product/437_knn_model_dp2_gold_6_bands_rtn124)   :material-check: |
 | [LePhare model DP2 gold baseline RTN-124](https://pzserver.linea.org.br/product/424_lephare_model_dp2_gold_baseline_rtn124)  :material-check: | [LePhare model DP2 gold 4 bands RTN-124](https://pzserver.linea.org.br/product/431_lephare_model_dp2_gold_4_bands_rtn124)  :material-check: | [LePhare model DP2 gold 6 bands RTN-124](https://pzserver.linea.org.br/product/438_lephare_model_dp2_gold_6_bands_rtn124)  :material-check: |
 | [TPZ model DP2 gold baseline RTN-124](https://pzserver.linea.org.br/product/425_tpz_model_dp2_gold_baseline_rtn124)   :material-check: | [TPZ model DP2 gold 4 bands RTN-124](https://pzserver.linea.org.br/product/432_tpz_model_dp2_gold_4_bands_rtn124)  :material-check: | [TPZ model DP2 gold 6 bands RTN-124](https://pzserver.linea.org.br/product/440_tpz_model_dp2_gold_6_bands_rtn124)   :material-check: |
+
+**Legenda**<br>
+:material-clock-outline: Planejado &emsp; :material-hammer-wrench: Em preparação &emsp; :material-check: Disponível
 
 ### Resultados de validação
 
@@ -96,7 +101,7 @@ Conjunto de dados Gold abrangente para todos os campos DP1 além dos campos ECDF
 
 #### Catálogos de redshifts de referência de surveys individuais
 
-Produtos de dados contendo catálogos de redshifts de referência (antes do pareamento com a tabela DP1 Object), separados por survey de origem conforme listado na Tabela 2 da nota técnica [SITCOMTN-154](https://sitcomtn-154.lsst.io/).
+Produtos de dados contendo catálogos de redshifts de referência (antes do matching com a tabela DP1 Object), separados por survey de origem conforme listado na Tabela 2 da nota técnica [SITCOMTN-154](https://sitcomtn-154.lsst.io/).
 
 **Nota:** Esses conjuntos de dados já estão filtrados para o campo ECDFS e limpos com os critérios de seleção descritos na Seção 2.2.1 da nota técnica [SITCOMTN-154](https://sitcomtn-154.lsst.io/). Para os catálogos originais completos, consulte a seção [Conjuntos de dados externos](#conjuntos-de-dados-externos) abaixo.
 
@@ -136,7 +141,7 @@ Um único arquivo contendo todos os redshifts de referência combinados dos surv
 
 ### Conjuntos de treinamento e teste
 
-No Photo-z Server, o tipo de produto "Training Set" abrange todas as amostras resultantes do pareamento entre um redshift de referência e um catálogo de objetos. Isso pode incluir conjuntos de treinamento e teste juntos no mesmo arquivo ou subamostras independentes enviadas separadamente. Neste último caso, tanto os conjuntos de treinamento quanto os de teste são marcados como "Training Set".
+No Photo-z Server, o tipo de produto "Training Set" abrange todas as amostras resultantes do matching entre um redshift de referência e um catálogo de objetos. Isso pode incluir conjuntos de treinamento e teste juntos no mesmo arquivo ou subamostras independentes enviadas separadamente. Neste último caso, tanto os conjuntos de treinamento quanto os de teste são marcados como "Training Set".
 
 Os produtos de dados contendo conjuntos de treinamento e teste gerados a partir do ComCam ECDFS z catalog listado na Tabela 1 da nota técnica [SITCOMTN-154](https://sitcomtn-154.lsst.io/) são:
 
@@ -294,7 +299,7 @@ Gerado pelo pipeline **[Combine Redshift Catalogs (CRC)](https://docs.linea.org.
 | [REF_Z_CLEAN](https://pzserver.linea.org.br/product/341_ref_z_clean) | 07/06/2026 | 38 | 20,856,682 | :material-check: |
 | [REF_Z_CLEAN_NO_DESI_LSS](https://pzserver.linea.org.br/product/342_ref_z_clean_no_desi_lss) | 07/06/2026 | 37 | 6,668,608 | :material-check: |
 
-**Legenda**
+**Legenda**<br>
 :material-clock-outline: Planejado &emsp; :material-hammer-wrench: Em preparação &emsp; :material-check: Disponível
 
 ### Training Set Maker (TSM)
@@ -305,7 +310,7 @@ Gerado pelo pipeline **[Training Set Maker (TSM)](https://docs.linea.org.br/sci-
 | --- | --- | --- | --- |
 | [DP1_TRAIN_CMODEL](https://pzserver.linea.org.br/product/343_dp1_train_cmodel) | 07/07/2026 | 38,843 | :material-check: |
 
-**Legenda**
+**Legenda**<br>
 :material-clock-outline: Planejado &emsp; :material-hammer-wrench: Em preparação &emsp; :material-check: Disponível
 
 <!--
