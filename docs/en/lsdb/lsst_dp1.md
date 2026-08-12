@@ -1,4 +1,4 @@
-# Rubin Data Preview 1 (DP1) Object (lite)
+# LSST Data Preview 1 (DP1) Object (lite)
 
 The Legacy Survey of Space and Time (LSST) at the Vera C. Rubin Observatory is a 10-year astronomical survey designed to map the entire southern sky with unprecedented detail. It aims to address fundamental questions about dark energy, dark matter, the structure of the Milky Way, and the Solar System. The collection presented here was produced by the DASH pipeline and corresponds to a reduced (lite) version of the object collection.
 
@@ -8,7 +8,7 @@ To learn how to access these data, please refer to the link provided below.
 
 
 <figure class="dataset-figure">
-<img src="../../images/rubin/rubin_dp1_object_lite.webp" alt="Rubin DP1 Object (Lite) Catalog">
+<img src="../../images/lsst/lsst_dp1_object_lite.webp" alt="LSST DP1 Object (Lite) Catalog">
 <figcaption>Image source: https://data.lsdb.io</figcaption>
 </figure>
 

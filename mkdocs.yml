@@ -3,8 +3,6 @@ nav:
   - Início: pt/index.md
   - LSDB Surveys:
       - LSDB Surveys: pt/lsdb/index.md
-      - Rubin DP1:
-          - Rubin DP1 Object (Lite): pt/lsdb/rubin_dp1_object_lite.md
       - 2MASS: pt/lsdb/2mass.md
       - DELVE DR2: pt/lsdb/delve_dr2.md
       - DES: 
@@ -23,6 +21,10 @@ nav:
           - HSC PDR3 i: pt/lsdb/hsc_pdr3_i.md 
           - HSC PDR3 z: pt/lsdb/hsc_pdr3_z.md 
           - HSC PDR3 y: pt/lsdb/hsc_pdr3_y.md 
+      - LSST:
+        - LSST DP1: pt/lsdb/lsst_dp1.md
+        - LSST DP2: pt/lsdb/lsst_dp2.md
+#          - Rubin DP1 Object (Lite): pt/lsdb/rubin_dp1_object_lite.md 
       - Pan-STARRS1:
           - Pan-STARRS1 (objects): pt/lsdb/ps1_objects.md 
           - Pan-STARRS1 (detection): pt/lsdb/ps1_detection.md
@@ -202,8 +204,6 @@ plugins:
             - Home: en/index.md
             - LSDB Surveys:
                 - LSDB Surveys: en/lsdb/index.md
-                - Rubin DP1:
-                    - Rubin DP1 Object (Lite): en/lsdb/rubin_dp1_object_lite.md
                 - 2MASS: en/lsdb/2mass.md
                 - DELVE DR2: en/lsdb/delve_dr2.md
                 - DES: 
@@ -222,6 +222,10 @@ plugins:
                     - HSC PDR3 i: en/lsdb/hsc_pdr3_i.md 
                     - HSC PDR3 z: en/lsdb/hsc_pdr3_z.md 
                     - HSC PDR3 y: en/lsdb/hsc_pdr3_y.md
+                - LSST:
+                    - LSST DP1: en/lsdb/lsst_dp1.md
+                    - LSST DP2: en/lsdb/lsst_dp2.md    
+                    #- Rubin DP1 Object (Lite): en/lsdb/rubin_dp1_object_lite.md
                 - Pan-STARRS1:
                     - Pan-STARRS1 (objects): en/lsdb/ps1_objects.md 
                     - Pan-STARRS1 (detection): en/lsdb/ps1_detection.md                   
@@ -278,8 +282,6 @@ plugins:
             - Inicio: es/index.md
             - LSDB Surveys:
                 - LSDB Surveys: es/lsdb/index.md
-                - Rubin DP1:
-                    - Rubin DP1 Object (Lite): es/lsdb/rubin_dp1_object_lite.md
                 - 2MASS: es/lsdb/2mass.md
                 - DELVE DR2: es/lsdb/delve_dr2.md
                 - DES: 
@@ -298,6 +300,9 @@ plugins:
                     - HSC PDR3 i: es/lsdb/hsc_pdr3_i.md 
                     - HSC PDR3 z: es/lsdb/hsc_pdr3_z.md 
                     - HSC PDR3 y: es/lsdb/hsc_pdr3_y.md
+                - LSST:
+                    - LSST DP1: es/lsdb/lsst_dp1.md
+                    - LSST DP2: es/lsdb/lsst_dp2.md
                 - Pan-STARRS1:
                     - Pan-STARRS1 (objects): es/lsdb/ps1_objects.md 
                     - Pan-STARRS1 (detection): es/lsdb/ps1_detection.md                    
