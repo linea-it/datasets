@@ -34,7 +34,7 @@ Uma compilação de redshifts de referência produzida usando o pipeline [**Comb
 
 | Produto de dados | Descrição | # de catálogos fonte | # de objetos | Status |
 | --- | --- | --- | --- | --- |
-| [REF_Z_CLEAN_NO_DESI_LSS](https://pzserver.linea.org.br/product/342_ref_z_clean_no_desi_lss) | Objetos únicos com flag de qualidade $\geq$ 3, excluindo DESI DR1 | 37 | 6,668,608 | :material-check: |
+| [REF_Z_CLEAN_NO_DESI_LSS](https://pzserver.linea.org.br/product/318_ref_z_clean_no_desi_lss) | Objetos únicos com flag de qualidade $\geq$ 3, excluindo DESI DR1 | 37 |  6,616,173 | :material-check: |
 | [DESI DR1 LITE](https://pzserver.linea.org.br/product/314_desi_dr1_lite) | DESI DR1 (seleção de colunas) | 1 | 28,425,963 | :material-check: |
 
 **Legenda**<br>
@@ -44,7 +44,7 @@ Uma compilação de redshifts de referência produzida usando o pipeline [**Comb
 
 | Produto de dados | Descrição | # de objetos | Status |
 | --- | --- | --- | --- |
-| [MATCHED_CLEAN RTN-124](https://pzserver.linea.org.br/product/417_matched_clean_rtn124) | [REF_Z_CLEAN_NO_DESI_LSS](https://pzserver.linea.org.br/product/342_ref_z_clean_no_desi_lss) matched com DP2 Objects | 1194088 | :material-check: |
+| [MATCHED_CLEAN RTN-124](https://pzserver.linea.org.br/product/417_matched_clean_rtn124) | [REF_Z_CLEAN_NO_DESI_LSS](https://pzserver.linea.org.br/product/342_ref_z_clean_no_desi_lss) matched com DP2 Objects | 1,194,088 | :material-check: |
 | [MATCHED_DESI RTN-124](https://pzserver.linea.org.br/product/418_matched_desi_rtn124) | [DESI DR1 LITE](https://pzserver.linea.org.br/product/314_desi_dr1_lite) matched com DP2 Objects | 1,544,298 | :material-check: |
 | [CLIPPED_TRAIN RTN-124 (PARQUET)](https://pzserver.linea.org.br/product/415_clipped_train_rtn124_parquet) | Amostra aleatória de 80% de MATCHED_CLEAN, recortada para remover excesso enviesado com base em bins de i_mag-redshift | 554,676 | :material-check: |
 | [SOM_TEST RTN-124 (PARQUET)](https://pzserver.linea.org.br/product/412_som_test_rtn124_parquet) | 20% restantes de MATCHED_CLEAN com amostragem baseada em SOM para mimetizar "DP2 galaxies" | 18,400 | :material-check: |
