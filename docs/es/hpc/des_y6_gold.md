@@ -1,3 +1,5 @@
-# DES Y6 Gold HPC
 
-UNDER CONSTRUCTION - EM CONSTRUÇÃO - EN CONSTRUCCIÓN
+!!! Warning "Aviso"  
+
+    Página en construcción. Es posible que parte del contenido esté incompleto o desactualizado.
+    

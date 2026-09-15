@@ -1,3 +1,5 @@
-# LSST DP0.2 HPC
 
-UNDER CONSTRUCTION - EM CONSTRUÇÃO - EN CONSTRUCCIÓN
+!!! Warning "Aviso"  
+
+    Página en construcción. Es posible que parte del contenido esté incompleto o desactualizado.
+    

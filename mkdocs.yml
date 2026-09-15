@@ -3,8 +3,8 @@ nav:
   - Início: pt/index.md
   - Catálogos:
       - Catálogos: pt/catalogs/index.md
-      - LSDB Surveys:
-          - LSDB Surveys: pt/lsdb/index.md
+      - LSDB:
+          - LSDB: pt/lsdb/index.md
           - 2MASS: pt/lsdb/2mass.md
           - DELVE DR2: pt/lsdb/delve_dr2.md
           - DES: 
@@ -50,21 +50,23 @@ nav:
               - ZTF DR24 Objects: pt/lsdb/ztf_dr24_objects.md
               - ZTF DR24 Lightcurves: pt/lsdb/ztf_dr24_lightcurves.md
       - Banco de Dados: pt/database/index.md
+      - Ambiente HPC : 
+          - Ambiente HPC: pt/hpc/index.md
+          - DES:
+              - DES DR2: pt/hpc/des_dr2.md
+              - DES Y6 Gold: pt/hpc/des_y6_gold.md
+          - LSST:
+              - LSST DP0.2: pt/hpc/lsst_dp0.2.md
+              - LSST DP1: pt/hpc/lsst_dp1.md
+              - LSST DP2: pt/hpc/lsst_dp2.md
   - Imagens:
       - Imagens: pt/images/index.md
       - HiPS: pt/images/hips.md
       - FITS:
           - FITS: pt/images/fits/index.md
           - LSST DP1: pt/images/fits/lsst_dp1.md
-  - HPC: pt/hpc/index.md 
-  #     - DES:
-  #         - DES DR2: pt/hpc/des_dr2.md
-  #         - DES Y6 Gold: pt/hpc/des_y6_gold.md 
-  #     - LSST:
-  #         - LSST DP0.2: pt/hpc/lsst_dp0.2.md 
-  #         - LSST DP1: pt/hpc/lsst_dp1.md
-  - Produtos científicos:
-      - Produtos científicos: pt/sci_products/index.md
+  - Produtos científicos Avançados:
+      - Produtos científicos avançados: pt/sci_products/index.md
       - DES Y6 Gold IR: pt/sci_products/des_y6_gold_ir.md
       - LSST Photo-z Server: pt/sci_products/pzserver.md
       - Redshifts Públicos: pt/sci_products/public_specz.md
@@ -251,21 +253,23 @@ plugins:
                         - ZTF DR24 Objects: en/lsdb/ztf_dr24_objects.md
                         - ZTF DR24 Lightcurves: en/lsdb/ztf_dr24_lightcurves.md
                 - Database: en/database/index.md
+                - HPC Environment: 
+                    - HPC: en/hpc/index.md
+                    - DES:
+                        - DES DR2: en/hpc/des_dr2.md
+                        - DES Y6 Gold: en/hpc/des_y6_gold.md
+                    - LSST:
+                        - LSST DP0.2: en/hpc/lsst_dp0.2.md
+                        - LSST DP1: en/hpc/lsst_dp1.md
+                        - LSST DP2: en/hpc/lsst_dp2.md
             - Images:
                 - Images: en/images/index.md
                 - HiPS: en/images/hips.md
                 - FITS:
                     - FITS: en/images/fits/index.md
                     - LSST DP1: en/images/fits/lsst_dp1.md
-            - HPC: en/hpc/index.md
-            #     - DES:
-            #         - DES DR2: en/hpc/des_dr2.md
-            #         - DES Y6 Gold: en/hpc/des_y6_gold.md 
-            #     - LSST:
-            #         - LSST DP0.2: en/hpc/lsst_dp0.2.md 
-            #         - LSST DP1: en/hpc/lsst_dp1.md
-            - Science Products:
-                - Science Products: en/sci_products/index.md
+            - Advanced Science Products:
+                - Advanced Science Products: en/sci_products/index.md
                 - DES Y6 Gold IR: en/sci_products/des_y6_gold_ir.md
                 - LSST Photo-z Server: en/sci_products/pzserver.md
                 - Public Redshifts: en/sci_products/public_specz.md
@@ -328,21 +332,23 @@ plugins:
                         - ZTF DR24 Objects: es/lsdb/ztf_dr24_objects.md
                         - ZTF DR24 Lightcurves: es/lsdb/ztf_dr24_lightcurves.md
                 - Base de datos: es/database/index.md
+                - Entorno HPC:
+                    - Entorno HPC: es/hpc/index.md
+                    - DES:
+                        - DES DR2: es/hpc/des_dr2.md
+                        - DES Y6 Gold: es/hpc/des_y6_gold.md
+                    - LSST:
+                        - LSST DP0.2: es/hpc/lsst_dp0.2.md
+                        - LSST DP1: es/hpc/lsst_dp1.md
+                        - LSST DP2: es/hpc/lsst_dp2.md
             - Imágenes:
                 - Imágenes: es/images/index.md
                 - HiPS: es/images/hips.md
                 - FITS:
                     - FITS: es/images/fits/index.md
                     - LSST DP1: es/images/fits/lsst_dp1.md
-            - HPC: es/hpc/index.md
-            #     - DES:
-            #         - DES DR2: es/hpc/des_dr2.md
-            #         - DES Y6 Gold: es/hpc/des_y6_gold.md 
-            #     - LSST:
-            #         - LSST DP0.2: es/hpc/lsst_dp0.2.md 
-            #         - LSST DP1: es/hpc/lsst_dp1.md
-            - Productos científicos:
-                - Productos científicos: es/sci_products/index.md
+            - Productos científicos avanzados:
+                - Productos científico avanzados: es/sci_products/index.md
                 - DES Y6 Gold IR: es/sci_products/des_y6_gold_ir.md
                 - LSST Photo-z Server: es/sci_products/pzserver.md                
                 - Redshifts Públicos: es/sci_products/public_specz.md

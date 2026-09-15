@@ -4,8 +4,7 @@ Bem-vindo à página de documentação de dados do LIneA. Aqui você encontra in
 
 
 ### Perfis de usuário e níveis de acesso 
-O LIneA oferece diferentes perfis de usuário, cada um com níveis de acesso específicos aos dados e serviços disponíveis. 
-Para saber quais serviços estão disponíveis para cada perfil, consulte a [tabela](https://docs.linea.org.br/sci-platforms/index.html#acesso-aos-servicos-e-plataformas-linea) disponível na página de informações sobre as plataformas científicas no site de [documentação para usuários](https://docs.linea.org.br). 
+O LIneA oferece diferentes perfis de usuário, cada um com níveis de acesso específicos aos dados e serviços disponíveis. Dados sob embargo são acessíveis apenas para os membros com _data rights_ nas respectivas colaborações científicas. Para saber quais serviços estão disponíveis para cada perfil, consulte a [tabela](https://docs.linea.org.br/sci-platforms/index.html#acesso-aos-servicos-e-plataformas-linea) disponível na página de informações sobre as plataformas científicas no site de [documentação para usuários](https://docs.linea.org.br).  
 
 
 ---
@@ -39,7 +38,7 @@ Confira abaixo a tabela com o resumo dos principais catálogos disponíveis para
 | LSST DP0.1            | -                        | -                        | :material-lock:          | -                        |
 | LSST DP0.2            | -                        | :material-lock:          | :material-lock:          | -                        |
 | LSST DP1              | :material-lock:          | :material-lock:          | :material-lock:          | :material-lock:          |
-| LSST DP2              | :material-hammer-wrench: | :material-hammer-wrench: | :material-hammer-wrench: | :material-hammer-wrench: |
+| LSST DP2              | :material-hammer-wrench: | :material-hammer-wrench: | :material-lock:          | :material-hammer-wrench: |
 | LSST DR1-DR11         | :material-clock-outline: | :material-clock-outline: | :material-clock-outline: | :material-clock-outline: |
 | MPC                   | -                        | :material-account-group: | -                        | -                        |
 | Pan-STARRS            | :material-account-group: | -                        | :material-lock:          | -                        |
@@ -77,7 +76,7 @@ Confira abaixo a tabela com o resumo dos principais conjuntos de imagens dispon�
 | LSST DP0.1                  | -                                         | :material-lock: :material-link:           | :material-lock: :material-link:      |
 | LSST DP0.2                  | :material-lock: :material-floppy:         | :material-lock: :material-link:           | :material-lock: :material-link:      |
 | LSST DP1                    | :material-lock: :material-floppy:         | :material-lock: :material-floppy:         | :material-lock: :material-link:      |
-| LSST DP2                    | :material-clock-outline: :material-floppy:| :material-clock-outline: :material-floppy:| :material-clock-outline: :material-link:|
+| LSST DP2                    | :material-hammer-wrench: :material-floppy:| :material-lock: :material-floppy:         | :material-clock-outline: :material-floppy:|
 | LSST DR1-DR11               | :material-clock-outline: :material-floppy:| :material-clock-outline: :material-floppy:| :material-clock-outline: :material-link:|
 | 2MASS colored               | :material-account-group: :material-link:  | -                                         | -                                    |
 | AllWISE                     | :material-account-group: :material-link:  | -                                         | -                                    |
