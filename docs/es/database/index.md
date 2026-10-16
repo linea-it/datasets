@@ -31,6 +31,12 @@ Datos astrométricos y fotométricos de Gaia DR3, incluidas posiciones, paralaje
 
 Catálogos producidos a partir del Data Preview 1 del Rubin Observatory, con mediciones de fuentes y objetos obtenidas de las primeras observaciones de LSSTComCam y productos relacionados.
 
+### LSST Data Preview 2
+
+`lsst_dp2` · [Ver esquema](https://userquery.linea.org.br/metadata/lsst_dp2/) · :material-lock: Acceso restringido
+
+La tabla `object` del Data Preview 2 del Rubin Observatory contiene mediciones forzadas en las imágenes deep coadd *ugrizy*, en las coordenadas de objetos detectados con relación señal-ruido mayor que 5 en una deep coadd de cualquier filtro. Las mediciones incluyen flujos de PSF y flujos extendidos, formas, tamaños y banderas de píxel del procesamiento. La fotometría está calibrada, pero no está corregida por la extinción causada por el polvo de la Vía Láctea. La detección y el deblending se realizan en cada patch, incluida la región de solapamiento; el catálogo conserva los objetos cuyo centroide en la banda de referencia está en la región interna, sin solapamiento, del patch.
+
 ### Minor Planet Center - espejo SBN
 
 `mpc_sbn` · [Ver esquema](https://userquery.linea.org.br/metadata/mpc_sbn/)

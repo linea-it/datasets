@@ -31,6 +31,12 @@ Gaia DR3 astrometric and photometric data, including positions, parallaxes, prop
 
 Catalogs produced from Rubin Observatory Data Preview 1, with source and object measurements derived from the first LSSTComCam observations and related products.
 
+### LSST Data Preview 2
+
+`lsst_dp2` · [View schema](https://userquery.linea.org.br/metadata/lsst_dp2/) · :material-lock: Restricted Access
+
+The `object` table from Rubin Observatory Data Preview 2: forced measurements, on the *ugrizy* deep coadd images, of objects detected with signal-to-noise ratio greater than 5 in any filter. It includes PSF and extended-source fluxes, shape, size, and processing flags. The photometry is calibrated and is not corrected for Milky Way extinction.
+
 ### Minor Planet Center - SBN mirror
 
 `mpc_sbn` · [View schema](https://userquery.linea.org.br/metadata/mpc_sbn/)
