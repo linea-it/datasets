@@ -7,3 +7,4 @@ Esta sección reúne los relevamientos con productos de imagen disponibles en FI
 ## Relevamientos
 
 - [LSST DP1](lsst_dp1.md)
+- [LSST DP2](lsst_dp2.md)

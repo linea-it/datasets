@@ -65,6 +65,7 @@ nav:
       - FITS:
           - FITS: pt/images/fits/index.md
           - LSST DP1: pt/images/fits/lsst_dp1.md
+          - LSST DP2: pt/images/fits/lsst_dp2.md
   - Produtos científicos Avançados:
       - Produtos científicos avançados: pt/sci_products/index.md
       - DES Y6 Gold IR: pt/sci_products/des_y6_gold_ir.md
@@ -268,6 +269,7 @@ plugins:
                 - FITS:
                     - FITS: en/images/fits/index.md
                     - LSST DP1: en/images/fits/lsst_dp1.md
+                    - LSST DP2: en/images/fits/lsst_dp2.md
             - Advanced Science Products:
                 - Advanced Science Products: en/sci_products/index.md
                 - DES Y6 Gold IR: en/sci_products/des_y6_gold_ir.md
@@ -347,6 +349,7 @@ plugins:
                 - FITS:
                     - FITS: es/images/fits/index.md
                     - LSST DP1: es/images/fits/lsst_dp1.md
+                    - LSST DP2: es/images/fits/lsst_dp2.md
             - Productos científicos avanzados:
                 - Productos científico avanzados: es/sci_products/index.md
                 - DES Y6 Gold IR: es/sci_products/des_y6_gold_ir.md

@@ -7,3 +7,4 @@ This section lists surveys with FITS image products available at LIneA. Each sur
 ## Surveys
 
 - [LSST DP1](lsst_dp1.md)
+- [LSST DP2](lsst_dp2.md)

@@ -7,3 +7,4 @@ Esta seção reúne os levantamentos com produtos de imagem disponíveis em FITS
 ## Levantamentos
 
 - [LSST DP1](lsst_dp1.md)
+- [LSST DP2](lsst_dp2.md)

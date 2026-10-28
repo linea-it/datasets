@@ -38,7 +38,7 @@ Below is a summary table of the main catalogs available for download or query th
 | LSST DP0.1            | -                        | -                        | :material-lock:          | -                        |
 | LSST DP0.2            | -                        | :material-lock:          | :material-lock:          | -                        |
 | LSST DP1              | :material-lock:          | :material-lock:          | :material-lock:          | :material-lock:          |
-| LSST DP2              | :material-hammer-wrench: | :material-hammer-wrench: | :material-lock:          | :material-hammer-wrench: |
+| LSST DP2              | :material-hammer-wrench: | :material-lock:          | :material-lock:          | :material-hammer-wrench: |
 | LSST DR1-DR11         | :material-clock-outline: | :material-clock-outline: | :material-clock-outline: | :material-clock-outline: |
 | MPC                   | -                        | :material-account-group: | -                        | -                        |
 | Pan-STARRS            | :material-account-group: | -                        | :material-lock:          | -                        |
