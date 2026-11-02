@@ -27,7 +27,7 @@ DES DR2 constitutes the largest photometric data set to date at the achieved dep
 ## Load using LSDB
 
 ```python
->>> lsdb.open_catalog('https://linea.data.lsdb.io/hats/des2/des_dr2')
+>>> lsdb.open_catalog('https://linea.data.lsdb.io/hats/des/des_dr2')
 ```
 
 ## Download with wget
