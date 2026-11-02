@@ -27,7 +27,7 @@ O DES DR2 constitui o maior conjunto de dados fotométricos até hoje na profund
 ## Carregar usando LSDB
 
 ```python
->>> lsdb.open_catalog('https://linea.data.lsdb.io/hats/des2/des_dr2')
+>>> lsdb.open_catalog('https://linea.data.lsdb.io/hats/des/des_dr2')
 ```
 
 ## Download com wget
